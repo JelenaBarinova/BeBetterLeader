@@ -1,0 +1,100 @@
+---
+layout: post
+title: 'Summer camp: setting the stage'
+date: 2013-08-30 20:00:39.000000000 -07:00
+categories:
+- Experiments
+tags:
+- offsite
+- summer camp
+- teambuilding
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '2'
+  attitude_sidebarlayout: default
+  dsq_thread_id: '1615838519'
+author:
+  login: jelena
+  email: fiodorova.jelena@gmail.com
+  display_name: Jelena Barinova
+  first_name: Jelena
+  last_name: Barinova
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p style="text-align: justify;">This is a second post of a "Summer camp" 
+series. In the [first 
+post](http://www.bebetterleader.com/summer-camp-idea-and-reasoning/) I've 
+wrote about initial idea and the main reasoning. Here is a detailed 
+preparation overview.</p> 
+<h6 style="text-align: justify;">Poll and approvals</h6> 
+<p style="text-align: justify;">So what did I start from? First I've mentioned 
+this idea to my pairs and one representative of top management "Wouldn't it be 
+cool to organize such an offsite for our teams?". To my surprise everyone 
+liked and supported this idea.</p> 
+<p style="text-align: justify;">My next step after getting this "informal 
+approval" was to create a short poll (I just love short polls, it's easy, you 
+get fast feedback, you have all responses in one place). Here are the 
+questions, I asked:</p> 
+<ol style="text-align: justify;" type="1"> 
+<li value="1">Do you like the idea of "Summer camp"? (<em>Yes | No</em>)</li> 
+1. Will you participate? (<em>Yes | No</em>) 
+
+1. What place would you like to work from? (<em>Spain Mallorca | Spain 
+Tenerife | Lithuania Nida | Greece Kos | Greece Rhodes | Suggest your 
+place</em>) 
+
+1. How many people would travel with you: spouse, children, friends?  (<em>You 
+will need to pay 100% of expenses for each additional person</em>) 
+
+1. How long would you like to stay in summer camp? (<em>3 days | 7 days | 14 
+days | Specify your own value</em>) 
+
+1. When would you like to go to summer camp? (<em>August | September | October 
+| Specify your own value</em>) 
+
+1. How many of your personal money would you be able to pay for your stay and 
+flight tickets? (<em>0 | Up to 500 LTL | Up to 1000 LTL | Up to 1500 LTL | 
+Specify your own value</em>) 
+
+
+<p style="text-align: justify;">After analyzing responses it became clear: we 
+are going to Mallorca for 10 days. I made a skin-deep research of villas and 
+flight tickets to calculate our expenses.</p> 
+<p style="text-align: justify;">We decided to split all costs this way: 
+company pays for villa's rental and flight tickets and we personally pay for 
+transfer, car rental, gas expenses, food, drinks and basically everything else 
+:).</p> 
+<p style="text-align: justify;">With cost list I addressed our top management 
+and easily got approval! I even got suggestions and more ideas how to organize 
+it and what risks we might have.</p> 
+<h6 style="text-align: justify;">Booking</h6> 
+<p style="text-align: justify;">After all approvals were received, I once 
+again asked who would attend. Together with the team we've started searching 
+for appropriate villa with WiFi and rooms for each of us, somewhere not very 
+far from the see, with spacious area to work in. We selected one on 
+[www.airbnb.com](http://www.airbnb.com), I contacted the owner to discuss 
+details. We booked it.</p> 
+<p style="text-align: justify;">It was much faster and easier with the flight 
+tickets - we just found them and booked.</p> 
+<h6 style="text-align: justify;">In progress</h6> 
+<p style="text-align: justify;">Now we are working with product owner on 
+defining our mission - what will we create offsite? And the last thing left to 
+do before packing - create a sightseeing plan :)</p> 
+<p style="text-align: justify;">11 days left! I plan to write next blog post 
+in this series from Mallorca, so stay tuned :)</p> 
+<p>More to read in these series:</p> 
+
+1. [Off to 
+Mallorca](http://www.bebetterleader.com/summer-camp-off-to-mallorca/) 
+
+1. [1, 2, 3 days 
+Journal](http://www.bebetterleader.com/summer-camp-the-journal-1-2-3-days/) 
+
+1. [4, 5, 6 days 
+Journal](http://www.bebetterleader.com/summer-camp-the-journal-4-5-6-days/) 
+
+1. [7, 8, 9 days 
+Journal](http://www.bebetterleader.com/summer-camp-the-journal-7-8-9-days/) 

@@ -1,0 +1,58 @@
+---
+layout: post
+title: What I value most about Agile?
+date: 2014-05-19 11:22:41.000000000 -07:00
+categories:
+- Know-how
+tags:
+- agile
+- values
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '2'
+  attitude_sidebarlayout: default
+  dsq_thread_id: '2696253189'
+author:
+  login: jelena
+  email: fiodorova.jelena@gmail.com
+  display_name: Jelena Barinova
+  first_name: Jelena
+  last_name: Barinova
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p style="text-align: justify;">All of us have their favorites in everything: 
+favorite song, favorite smart phone feature, favorite board game,  etc. What 
+about Agile features? I've asked my fellow Scrum Masters one day what Agile 
+things do you value most?</p> 
+<p>[caption id="attachment_484" align="aligncenter" width="592"][<img 
+class="size-full wp-image-484" title="Top Agile things" alt="top agile things" 
+src="assets/top-agile-things.png" width="592" height="378" 
+/>](http://files.bebetterleader.com/media/top-agile-things.png) *Graph based 
+on the answers from 12 Scrum Masters colleagues of mine[/caption]</p> 
+<p style="text-align: justify;">Actually these results correlates with my list 
+of favorites a lot. Here it is:</p> 
+<ol style="text-align: justify;" type="1"> 
+<li value="1">**Team focus on value delivery** - this is my top 1. It's pure 
+beauty for me when I see how developers care about customers, ask PO for 
+problem customer want to solve, not the solution how it should be 
+implemented.</li> 
+1. **Prioritization** - working on the most valuable things first - that's how 
+we bring biggest value to client first. 
+
+1. **Self-organization in team** - team decides how to do. It's based on trust 
+a lot and involves making "<em>you are the best to solve it</em>" assumption. 
+Once it is done, teams are open to become the owners of their decisions. 
+
+1. **Deliver potentially shippable product each iteration** - constraints 
+drive genius. That's why we automate our routines, create unit tests and make 
+proper monitoring and triggering. 
+
+1. **Transparency and visualization** - this helps you a lot in spotting weak 
+points to improve. 
+
+
+<p style="text-align: justify;">What are yours top most valuable Agile 
+things?</p> 

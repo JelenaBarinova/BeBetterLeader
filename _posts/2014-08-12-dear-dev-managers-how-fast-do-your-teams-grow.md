@@ -1,0 +1,46 @@
+---
+layout: post
+title: Dear dev managers, how fast do your teams grow?
+date: 2014-08-12 08:00:34.000000000 -07:00
+categories:
+- Know-how
+tags:
+- growth
+- teams
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '2'
+  attitude_sidebarlayout: default
+  dsq_thread_id: '2917181058'
+author:
+  login: jelena
+  email: fiodorova.jelena@gmail.com
+  display_name: Jelena Barinova
+  first_name: Jelena
+  last_name: Barinova
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p style="text-align: justify;">Recently I've made some calculations to 
+visualize the dynamics in my teams over the year.</p> 
+<p>[caption id="attachment_539" align="alignright" width="348"][<img class=" 
+wp-image-539" src="assets/empoyees.png" alt="Changing number of employees over 
+the year" width="348" height="351" 
+/>](http://files.bebetterleader.com/media/empoyees.png) Changing number of 
+employees over the year[/caption]</p> 
+<p style="text-align: justify;">I've been surprised: from 11 to 31 members, 
+from 2 to 5 teams. My question is how fast can we grow in order to satisfy 
+client's hunger for features, but still keep the comfort for teams and do 
+not increase technical debt of the product.</p> 
+<p style="text-align: justify;">With every new member we slow down, as well as 
+we increase communication channels. It usually lead us to different 
+misunderstandings and other things such as: everyone having their own style, 
+opinion, vision, speed, quality level, etc. And that's the price you pay for 
+growing. Some more technical of these differences we can easily unify by 
+introducing coding standards, testing procedures, development processes. But 
+what about soft ones? I have my way of introducing new members to my team, you 
+can find it [here](http://www.bebetterleader.com/youre-hired/).</p> 
+<p style="text-align: justify;">What's your speed of growing software 
+development teams/departments?</p> 

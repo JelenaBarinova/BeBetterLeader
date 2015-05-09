@@ -1,0 +1,54 @@
+---
+layout: post
+title: 'Managerial math: Parking Problem'
+date: 2014-07-05 12:55:16.000000000 -07:00
+categories:
+- Know-how
+tags:
+- motivators
+- parking split
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '2'
+  attitude_sidebarlayout: default
+  dsq_thread_id: '2824532168'
+author:
+  login: jelena
+  email: fiodorova.jelena@gmail.com
+  display_name: Jelena Barinova
+  first_name: Jelena
+  last_name: Barinova
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>[caption id="attachment_519" align="alignright" width="286"][<img 
+class="wp-image-519 size-full" src="assets/parking.png" alt="Parking team logo 
+(Adform Hackathon #2)" width="286" height="444" 
+/>](http://files.bebetterleader.com/media/parking.png) Parking team logo 
+(Adform Hackathon #2)[/caption]</p> 
+<p style="text-align: justify;">I bet lots of companies have to solve a 
+"Parking" problem, especially those, who are located in the city. The 
+definition of the problem is such:</p> 
+<blockquote> 
+<p style="text-align: justify;">Given X amount of parking lots available near 
+the office and Y amount of employees driving cars to work (where Y&gt;X), what 
+is the most fair way to split parking lots to employees.</p> 
+</blockquote> 
+<p style="text-align: justify;">In other words who gets parking? There are 
+obviously lots of approaches to split parking lots: run a lottery, give away 
+parking as an extrinsic motivation, wrap it in a proposal package, give 
+according to the work status (managers, seniors, leads) or social status 
+(large families, single mums, long commuters) etc.</p> 
+<p style="text-align: justify;">So how have we solved this problem? We sorted 
+all employees (who need a parking) by starting date and gave parking lots to 
+top X employees from this list.</p> 
+<p style="text-align: justify;">In addition to that we have an app, developed 
+during one of our Hackathons (I am proud being a part of the creators group 
+:)). Using this app anyone who doesn't need a parking - may share it, and one 
+who does need it (but does not have it) may take it. This way those who are 
+assigned with parking may share it during vacations, business trips, sick 
+days, etc.</p> 
+<p style="text-align: justify;">This is a common problem, but there is no one 
+best solution for it. How do you split your parking?</p> 

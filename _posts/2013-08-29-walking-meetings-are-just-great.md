@@ -1,0 +1,47 @@
+---
+layout: post
+title: Walking meetings are just great!
+date: 2013-08-29 21:51:25.000000000 -07:00
+categories:
+- Experiments
+- Know-how
+tags:
+- leadership
+- one-on-one
+- success
+- walking meetings
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '2'
+  attitude_sidebarlayout: default
+  dsq_thread_id: '1667074958'
+author:
+  login: jelena
+  email: fiodorova.jelena@gmail.com
+  display_name: Jelena Barinova
+  first_name: Jelena
+  last_name: Barinova
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p style="text-align: justify;">Some time ago I wrote a 
+[post](http://www.bebetterleader.com/walking-and-talking/) about my intention 
+to conduct mid-year evaluation meetings with colleagues outside the office 
+while walking. So here are some insights how it went.</p> 
+<p style="text-align: justify;">In short: I loved it.</p> 
+<p style="text-align: justify;">In details: I scheduled these meetings in 
+advance (as always) with some guided questions to gather up the ideas for 
+talk, noticing everyone that we would be outside. Each meeting went by the 
+same schema: we grab a coffee and went to a quiet place - by the river mostly. 
+Everything else as in usual 1:1 - small talk, questions, answers, overview of 
+what happened, plans for future, mutual feedback, etc. In comparison to 
+traditional evaluation meetings, these were more relaxed, easy going, we 
+discussed more things than usual.</p> 
+<p lang="lt" style="text-align: justify;">It is definitely not for every 
+possible meeting. When you take notes, or show some data, or there are more 
+than 3 attendees - you need something else. But if you are just talking, 
+asking/answering questions - go out! Just remember to check the weather and 
+find not very busy place for a walk.</p> 
+<p style="text-align: justify;">PS: in total I went 25 km this time!</p> 

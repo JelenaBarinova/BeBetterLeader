@@ -1,0 +1,22 @@
+---
+layout: post
+title: When your employee quits
+date: 2014-08-29 11:50:45.000000000 -07:00
+categories:
+- Other
+tags: []
+status: draft
+type: post
+published: false
+meta:
+  _edit_last: '2'
+  attitude_sidebarlayout: default
+author:
+  login: jelena
+  email: fiodorova.jelena@gmail.com
+  display_name: Jelena Barinova
+  first_name: Jelena
+  last_name: Barinova
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
