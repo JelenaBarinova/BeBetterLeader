@@ -1,0 +1,17 @@
+# Site settings
+title: Be a Better Leader
+header-img: img/home-bg.jpg
+email: jelena.barinovas@gmail.com
+description: "Practical notes on leadership improvements"
+baseurl: "/startbootstrap-clean-blog-jekyll"
+url: "http://www.bebetterleader.com"
+twitter_username: SBootstrap
+github_username:  JelenaBarinova
+facebook_username:  jelena.fiodorova
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
