@@ -1,12 +1,16 @@
+---
+layout: post
 title: "A mind of its own"
+subtitle: "A book review"
 date: 2014-01-24 09:53:46
+author: Jelena Barinova
 tags:
-id: 439
+id: 162
 categories:
   - Books
 ---
 
-Here is another interesting and worth spending time on book I've recently read - "A mind of its own" by Cordelia Fine. [![mind_of_its_own](http://files.bebetterleader.com/media/mind_of_its_own.png)](http://files.bebetterleader.com/media/mind_of_its_own.png)
+Here is another interesting and worth spending time on book I've recently read - "A mind of its own" by Cordelia Fine. [![mind_of_its_own]({{ site.baseurl }}/img/post_img/mind_of_its_own.png)]({{ site.baseurl }}/img/post_img/mind_of_its_own.png)
 
 My take-away out of it: our brain is "multi-dimensional" and knowing these "dimensions" could help you better understand why did you do or say something, or why did you wanted to say or do it, or why did you feel that particular way in various specific situations.
 
