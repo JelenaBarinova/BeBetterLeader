@@ -13,5 +13,5 @@ facebook_username:  jelena.fiodorova
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-paginate: 5
+paginate: 10
 exclude: ["less","node_modules","gulpfilee.js","package.json","README.md"]
