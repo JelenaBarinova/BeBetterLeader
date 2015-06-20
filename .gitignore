@@ -8,4 +8,3 @@ fonts/.DS_Store
 node_modules/
 *.log
 .publish/
-_site/

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Be a Better Leader</title>
+    <description>Practical notes on leadership improvements</description>
+    <link>http://jelenabarinova.github.io/BeBetterLeader/</link>
+    <atom:link href="http://jelenabarinova.github.io/BeBetterLeader/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 20 Jun 2015 13:49:48 -0700</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2015 13:49:48 -0700</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>1:1</title>
+        <description>&lt;p&gt;This is how my calendar looks like the week when I’m having meetings with each member of my team.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/BeBetterLeader/img/post_img/performance-evaluations.png&quot; alt=&quot;performance evaluations&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Usually I do 1:1 (one-on-ones) twice a year with each of my team members. So how do I do it? Differently each time. Couple of years ago I’ve been using “Moving motivators” as Jurgen Appelo suggests in his Management 3.0 course (please find instructions &lt;a href=&quot;http://www.management30.com/wp-content/uploads/2012/09/04-Moving-Motivators-A4-v2.00.pdf%20&quot;&gt;here&lt;/a&gt;). Last time I did &lt;a href=&quot;http://www.bebetterleader.com/walking-meetings-are-just-great/&quot; title=&quot;Walking meetings are just great!&quot;&gt;Walking and talking&lt;/a&gt; meetings.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/BeBetterLeader/img/post_img/coffee.jpg&quot; alt=&quot;Coffee&quot; /&gt;This time we just took a coffee and went for a walk along the river. I prepare for each of these meetings: gather feedback (if needed), look through notes from previous talks, gather ideas what I want to pass and think about questions I want to get answers to. This time I asked these 5 questions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Are you happy here?&lt;/li&gt;
+  &lt;li&gt;What are you proud of from the last year?&lt;/li&gt;
+  &lt;li&gt;Are there any blockers on your way?&lt;/li&gt;
+  &lt;li&gt;How can I or a new Development manager help you?&lt;/li&gt;
+  &lt;li&gt;If you would consider leaving our company, for what would you do that?&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 23 Sep 2014 01:00:59 -0700</pubDate>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/know-how/2014/09/23/11/</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/know-how/2014/09/23/11/</guid>
+        
+        
+        <category>know-how</category>
+        
+      </item>
+    
+      <item>
+        <title>Dear dev managers, how fast do your teams grow?</title>
+        <description>&lt;p&gt;Recently I’ve made some calculations to visualize the dynamics in my teams over the year.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://files.bebetterleader.com/media/empoyees.png&quot; alt=&quot;Growth graph&quot; title=&quot;Changing number of employees over the year&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve been surprised: from 11 to 31 members, from 2 to 5 teams. My question is how fast can we grow in order to satisfy client’s hunger for features, but still keep the comfort for teams and do not increase technical debt of the product.&lt;/p&gt;
+
+&lt;p&gt;With every new member we slow down, as well as we increase communication channels. It usually lead us to different misunderstandings and other things such as: everyone having their own style, opinion, vision, speed, quality level, etc. And that’s the price you pay for growing. Some more technical of these differences we can easily unify by introducing coding standards, testing procedures, development processes. But what about soft ones? I have my way of introducing new members to my team, you can find it &lt;a href=&quot;/know-how/2014/02/06/youre-hired/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;What’s your speed of growing software development teams/departments?&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Aug 2014 01:00:34 -0700</pubDate>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/know-how/2014/08/12/dear-dev-managers-how-fast-do-your-teams-grow/</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/know-how/2014/08/12/dear-dev-managers-how-fast-do-your-teams-grow/</guid>
+        
+        
+        <category>know-how</category>
+        
+      </item>
+    
+      <item>
+        <title>You&#39;re hired</title>
+        <description>&lt;p&gt;So you’ve done a huge job - you’ve hired a person. What’s next? And here comes a very important stage - onboarding. This is the time you teach and pass to the person culture, traditions, processes, everything. How do I do it? In 6 simple steps.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Intro&lt;/strong&gt;. First I like to give an introduction to a new person same day he starts - usual stuff: org structure, who is who, how we are used to work, set some ground rules.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Learn the product&lt;/strong&gt;. The main assignment for the first two weeks - to learn a product. We arrange extensive trainings for each product of ours for person to know very well what he will be building.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Learn the client&lt;/strong&gt;. Trainings are followed by two weeks internship in client support, working as a client support specialist, getting to know the clients and how our product solves their problems and serves their needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Learn the team&lt;/strong&gt;. From the very first day person starts working in a team, participating in stand-ups and other meetings team has. I think it is very important for a new team member to start taking tasks from team’s task board (if there are any that fit him) or join a colleague for the pair programming as early as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Fast feedback&lt;/strong&gt;. You don’t want to get a feedback too late. That’s why I schedule recurrent meeting to sync with a new person every 2/3 weeks. This is the time I provide a feedback to a new team member (which I gather from the team in advance) and ask some questions to get to know are we on the right track here.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How do you evaluate your start at the company?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How do you like the product? Team? Code base? Process? Atmosphere?  Culture?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How do you feel?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Have you expectations been met?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Would you like to change something? What? How? Why haven’t you changed it already? What stops you?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Probationary end.&lt;/strong&gt; This is the final stage of the “intensive care” period and here I let the team to decide whether to keep a person in the team or not. You can find more on how do i do it in my previous post &lt;a href=&quot;/know-how/2013/06/17/let-team-decide-hire-or-fire/&quot; title=&quot;Let team decide: hire or fire&quot;&gt;Let team decide: hire or fire&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;How would you like your first months in a company to be?  Or how do you do onboarding?&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Feb 2014 23:00:12 -0800</pubDate>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/know-how/2014/02/06/youre-hired/</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/know-how/2014/02/06/youre-hired/</guid>
+        
+        
+        <category>know-how</category>
+        
+      </item>
+    
+      <item>
+        <title>A mind of its own</title>
+        <description>&lt;p&gt;Here is another interesting and worth spending time on book I’ve recently read - “A mind of its own” by Cordelia Fine. &lt;a href=&quot;/BeBetterLeader/img/post_img/mind_of_its_own.png&quot;&gt;&lt;img src=&quot;/BeBetterLeader/img/post_img/mind_of_its_own.png&quot; alt=&quot;mind_of_its_own&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My take-away out of it: our brain is “multi-dimensional” and knowing these “dimensions” could help you better understand why did you do or say something, or why did you wanted to say or do it, or why did you feel that particular way in various specific situations.&lt;/p&gt;
+
+&lt;p&gt;So here are these “dimensions”:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;Vain brain&lt;/em&gt; - we all have small positive illusions that make us feel special, disturbing the thought that in truths we are not of more significance in the universe.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Emotional brain&lt;/em&gt; - usually we have no particular information why we are feeling emotionally strived, feelings triggered by one event can be wrongly used while judging other matters.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Immoral brain&lt;/em&gt; - it just not serve our psychological need to feel that the life is fair and secure, it also assists in maintaining all-important sense of moral superiority.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Deluded brain&lt;/em&gt; - even people with healthy brain think irrationally and unscientifically in particular situations.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Pigheaded brain&lt;/em&gt; - we are tend to stick to our important beliefs even if they are not true anymore, we think we know it all.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Secretive brain&lt;/em&gt; - actually our unconscious is faster than we, smarter than we and more powerful than we, it may even control us.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Weak-willed brain&lt;/em&gt; - there are many reasons for will to fail us, that’s why we need to develop good habits to enhance a willpower.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Bigoted brain&lt;/em&gt; - though one might come to treat others fairly and justly despite of any stereotypes in some situations, we still need to work hard on controlling unconscious effects of stereotyping.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The book is full of examples and results of different researches to support each of these 8 “brains”.&lt;/p&gt;
+
+&lt;p&gt;I say it’s a good read for everyone who spends at least a little time in self-analysis.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Jan 2014 01:53:46 -0800</pubDate>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/books/2014/01/24/a-mind-of-its-own/</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/books/2014/01/24/a-mind-of-its-own/</guid>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Walking meetings are just great!</title>
+        <description>&lt;p&gt;Some time ago I wrote a &lt;a href=&quot;/know-how/2013/08/12/walking-and-talking/&quot;&gt;post&lt;/a&gt; about my intention to conduct mid-year evaluation meetings with colleagues outside the office while walking. So here are some insights how it went.&lt;/p&gt;
+
+&lt;p&gt;In short: I loved it.&lt;/p&gt;
+
+&lt;p&gt;In details: I scheduled these meetings in advance (as always) with some guided questions to gather up the ideas for talk, noticing everyone that we would be outside. Each meeting went by the same schema: we grab a coffee and went to a quiet place - by the river mostly. Everything else as in usual 1:1 - small talk, questions, answers, overview of what happened, plans for future, mutual feedback, etc. In comparison to traditional evaluation meetings, these were more relaxed, easy going, we discussed more things than usual.&lt;/p&gt;
+
+&lt;p&gt;It is definitely not for every possible meeting. When you take notes, or show some data, or there are more than 3 attendees - you need something else. But if you are just talking, asking/answering questions - go out! Just remember to check the weather and find not very busy place for a walk.&lt;/p&gt;
+
+&lt;p&gt;PS: in total I went 25 km this time!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Aug 2013 14:51:25 -0700</pubDate>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/experiments/know-how/2013/08/29/walking-meetings-are-just-great/</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/experiments/know-how/2013/08/29/walking-meetings-are-just-great/</guid>
+        
+        
+        <category>experiments</category>
+        
+        <category>know-how</category>
+        
+      </item>
+    
+      <item>
+        <title>Walking and talking</title>
+        <description>&lt;p&gt;This is the time for me to conduct a mid-year evaluation with every colleague in my program - that are 12 one-on-one meetings. Inspired by the idea of &lt;a href=&quot;http://www.npr.org/blogs/health/2013/01/25/170264905/walk-while-you-talk-the-meeting-goes-mobile&quot;&gt;mobile meetings&lt;/a&gt; and because it is hot and sunny outside :), I decided to move mid-year evaluations out of the office and meeting rooms.&lt;/p&gt;
+
+&lt;p&gt;We’ll see how it goes, I hope the weather will be comfortable and the mood right. I promise to share the results in two weeks :).&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Aug 2013 13:32:37 -0700</pubDate>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/know-how/2013/08/12/walking-and-talking/</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/know-how/2013/08/12/walking-and-talking/</guid>
+        
+        
+        <category>know-how</category>
+        
+      </item>
+    
+      <item>
+        <title>Let team decide: hire or fire</title>
+        <description>&lt;p&gt;In our company we have recommended questionnaire to gather feedback about new team member at the end of his/her probationary period. It’s an usual form with very smart and useful questions such as&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How well does employee possess job-related knowledge and skills?&lt;/p&gt;
+
+  &lt;p&gt;How well does he /she work as part of a team?&lt;/p&gt;
+
+  &lt;p&gt;How well does the employee finish what he is committed to?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;and so on. Overall it is only 10 such questions and you may answer either putting a number or adding a more comprehensive comment.&lt;/p&gt;
+
+&lt;p&gt;Recently I have tried something different. Instead of sending this form and asking guys to fill in, I’ve sent a short email to team members with only 2 questions:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Do you want to continue working with John in one team?&lt;/p&gt;
+
+  &lt;p&gt;Why?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The response rate was exactly as I expected: 100% of team members answered my questions (with original questionnaire response rate is approximately 40% after the first call and 60% after the reminder). Another positive aspect of this is that the decision was made by team, not the manager. Manager in this case is only a facilitator.&lt;/p&gt;
+
+&lt;p&gt;One thing you need to be ready for - properly react to answers. If you ask straightforward question and get “No” - be ready to act straightforward as well: find another team for a guy or fire.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Do you still have probationary periods? How do you handle them?&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Jun 2013 09:53:23 -0700</pubDate>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/know-how/2013/06/17/let-team-decide-hire-or-fire/</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/know-how/2013/06/17/let-team-decide-hire-or-fire/</guid>
+        
+        
+        <category>know-how</category>
+        
+      </item>
+    
+      <item>
+        <title>73 Practical Tips to Become a Better Leader</title>
+        <description>&lt;p&gt;Recently I gave a talk at ‘Agile day 2013’ conference in  Vilnius on how to improve constantly and what things to try out if you want to create an environment and processes for effective product development. Check out the slides:&lt;/p&gt;
+
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/zpEhZa4tUgTER6&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/JelenaFiodorova/73-tips-to-become-better-leader&quot; title=&quot;73 tips to become a better leader&quot; target=&quot;_blank&quot;&gt;73 tips to become a better leader&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/JelenaFiodorova&quot; target=&quot;_blank&quot;&gt;Jelena Barinova&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+</description>
+        <pubDate>Tue, 14 May 2013 01:12:37 -0700</pubDate>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/presentations/2013/05/14/73-tips-to-become-a-better-leader/</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/presentations/2013/05/14/73-tips-to-become-a-better-leader/</guid>
+        
+        
+        <category>presentations</category>
+        
+      </item>
+    
+      <item>
+        <title>Annual result review and targets grooming</title>
+        <description>&lt;p&gt;I have organized annual team results overview and targets grooming differently this time. Inspired by Joakim’s follow-up after &lt;a href=&quot;http://joakimsunden.com/2013/01/running-big-retrospectives-at-spotify/&quot;&gt;Running big retrospectives at Spotify&lt;/a&gt; I started preparing for retrospectives after 2012 for each of my teams. In my case retrospectives where big not in terms of attendees, but in terms of scope: we had to discuss team’s results after a whole year and then to define a vision and targets for 2013.&lt;/p&gt;
+
+&lt;p&gt;I think it’s a must to start every new year with a plan what you want to achieve and have main directions you are going to focus on. It helps a lot when you are considering several options, in such case you should always stick to those that lead to yours targets.&lt;/p&gt;
+
+&lt;h3 id=&quot;preparation&quot;&gt;Preparation&lt;/h3&gt;
+
+&lt;p&gt;I believe it’s a good idea to change environment for team events from time to time, so I booked a cozy conference room with coffee breaks and lunch in a conference center (on different day for every team).  Then started creating an agenda for the day. I came up with such plan:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Opening&lt;/li&gt;
+  &lt;li&gt;Retrospectives of 2012&lt;/li&gt;
+  &lt;li&gt;Overview of company targets for 2013&lt;/li&gt;
+  &lt;li&gt;Team’s projection of company targets&lt;/li&gt;
+  &lt;li&gt;Team’s product’s roadmap overview&lt;/li&gt;
+  &lt;li&gt;Discuss and define technical roadmap&lt;/li&gt;
+  &lt;li&gt;Closing&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I highly recommend to read &lt;a href=&quot;http://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649&quot;&gt;Agile Retrospectives: Making good teams great&lt;/a&gt; book, it has lots of practical advices on how to conduct retrospectives. I took a couple of games/exercises from it to give some dynamics for the event, to fill-in short breaks and involve everyone.&lt;/p&gt;
+
+&lt;h3 id=&quot;opening&quot;&gt;Opening&lt;/h3&gt;
+
+&lt;p&gt;I started the event with a short welcoming story, answered the questions why we gathered here and what was our main goal and what was the agenda for this meeting. After that I asked guys to empty their minds by writing down things that they concerned about on the cards and put into pockets for tomorrow &lt;a href=&quot;#lit1&quot;&gt;[1]&lt;/a&gt;. Then we agreed on ground rules for the day &lt;a href=&quot;#lit1&quot;&gt;[1]&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Do not leave the room if you haven’t said what you wanted to.&lt;/li&gt;
+  &lt;li&gt;Stop the discussion if you are bored.&lt;/li&gt;
+  &lt;li&gt;No trolling (do not talk in sake of talking or even trying to offence others, do not continue the discussion that will not have the result).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;retrospectives&quot;&gt;Retrospectives&lt;/h3&gt;
+
+&lt;p&gt;And we moved on to Retrospectives part. For this I prepared in advanced: made short presentation of team’s journey through 2012. Starting with our targets for the year, I’ve put a couple of events on a timeline and ended with overview of what was achieved &lt;a href=&quot;#lit2&quot;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/BeBetterLeader/img/post_img/DSP_Journey_2012.png&quot;&gt;&lt;img src=&quot;/BeBetterLeader/img/post_img/DSP_Journey_2012.png&quot; alt=&quot;DSP_Journey_2012&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;With the team we went through this presentation, stopping to shortly discuss each event and remembering what was happening else and how we felt about it. This is a very good exercise for the team to analyze situations they went through, their behavior and results they achieved.&lt;/p&gt;
+
+&lt;p&gt;I’ve ended these retrospectives by gathering the feedback from the team by asking how do they felt while remembering last year. They could choose Sad, Mad, Glad or Afraid &lt;a href=&quot;#lit2&quot;&gt;[2]&lt;/a&gt;. These are root emotions one can express his each and every feeling.&lt;/p&gt;
+
+&lt;h3 id=&quot;grooming&quot;&gt;Grooming&lt;/h3&gt;
+
+&lt;p&gt;After the lunch we started Grooming part. In the beginning I brought back our development directions for this years. And we started discussing how those direction may be applied to our team. By the end of directions we were having a decent list (on the whiteboard) of things we can do to help our company to reach 2013 goals. Then we voted each having 2 votes and summarized the results. That led us to prioritized list of technical features we need to implement - that was our technical roadmap.&lt;/p&gt;
+
+&lt;p&gt;Then Product Owner presented product roadmap from business perspective. We discussed it a bit and tried to combine these two roadmaps into one team’s roadmap - that actually was the ultimate goal of this event.&lt;/p&gt;
+
+&lt;h3 id=&quot;closing&quot;&gt;Closing&lt;/h3&gt;
+
+&lt;p&gt;Before making a summary of the day I ask everyone who attended to take 5 minutes and write down personal take-aways. Then everyone had a chance to share what he liked about the event, what are his take-aways and what to his opinion should had been done differently and why.&lt;/p&gt;
+
+&lt;p&gt;And the final activity we had - gather feedback about the event. I’ve used Vacationer, Explorer, Shopper, Prisoner survey &lt;a href=&quot;#lit2&quot;&gt;[2]&lt;/a&gt; this time. The results were very good - there were two dominant responses: Shopper in the first place, and Explorer in the second.&lt;/p&gt;
+
+&lt;h3 id=&quot;tracking&quot;&gt;Tracking&lt;/h3&gt;
+
+&lt;p&gt;I shared this idea of organizing annual overview offsite with my colleagues other program developers and they run similar events. After all teams had their targets grooming we gathered all together and representatives from each team shared what they are  going to achieve.&lt;/p&gt;
+
+&lt;p&gt;In addition to that I’ve scheduled recurrent meeting every 3 months with teams to track how are we moving towards our goals.&lt;/p&gt;
+
+&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;Overall I am happy with this event. Next time I’ll try to involve more people in preparation phase and be more strict on side discussions that do not lead directly to the goal. And I am definitely having such a grooming in the beginning of the next year.&lt;/p&gt;
+
+&lt;h3 id=&quot;literature&quot;&gt;Literature&lt;/h3&gt;
+
+&lt;p&gt;&lt;span id=&quot;lit1&quot;&gt;[1]&lt;/span&gt; &lt;a href=&quot;http://joakimsunden.com/2013/01/running-big-retrospectives-at-spotify/&quot;&gt;Running big retrospectives at Spotify&lt;/a&gt;, Joakim Sunden&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;lit2&quot;&gt;[2]&lt;/span&gt; &lt;a href=&quot;http://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649&quot;&gt;Agile Retrospectives: Making good teams great&lt;/a&gt;, Esther Derby and Diana Larsen&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 Mar 2013 14:32:28 -0700</pubDate>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/know-how/2013/03/17/annual-result-review-and-targets-grooming/</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/know-how/2013/03/17/annual-result-review-and-targets-grooming/</guid>
+        
+        
+        <category>know-how</category>
+        
+      </item>
+    
+      <item>
+        <title>Hello World!</title>
+        <description>&lt;h2 id=&quot;philosophy-of-improvement&quot;&gt;Philosophy of improvement&lt;/h2&gt;
+
+&lt;p&gt;It is very important to constantly improve in order to be productive and achieve best results. One can improve environment, tools and processes. Sometimes even a small change in management can result in huge productivity boost.&lt;/p&gt;
+
+&lt;p&gt;Dear reader, please let me introduce to you my notes of becoming a better manager.&lt;/p&gt;
+
+&lt;h2 id=&quot;who-am-i&quot;&gt;Who am I?&lt;/h2&gt;
+
+&lt;p&gt;Over the past 10 years I’ve been performing various roles in software development: a developer at the beginning, then an analyst and project manager, and later an assistant manager for development department.&lt;/p&gt;
+
+&lt;p&gt;Currently I work as a Program Development Manager in &lt;a href=&quot;http://www.adform.com&quot;&gt;Adform&lt;/a&gt;. I run a department of 3 teams (17 highly skilled developers). We develop a product for online advertising - it’s a software as a service to manage and monitor online ad campaigns. My teams focus on DSP (Demand Side Platform) and DI (Direct Integrations). These are highly technically challenging parts of a system.&lt;/p&gt;
+
+&lt;p&gt;I’ve been working in this position for 3 years now. During these years I’ve tried lots of things and keep on trying. Recently I decided to track my experiments and findings.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-do-i-write&quot;&gt;Why do I write?&lt;/h2&gt;
+
+&lt;p&gt;There are basically two main targets I wish to achieve by starting a blog.&lt;/p&gt;
+
+&lt;p&gt;The first - to build a set of practices for myself and others. Usually when time passes I do not remember the details, the reasoning, and how it went - just consequences remain. So I think blogging is a good tool to track that.&lt;/p&gt;
+
+&lt;p&gt;The second - to share my know-how. Maybe you would be interested in my findings and try those practices for yourself or give a feedback and share your experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;who-might-be-interested&quot;&gt;Who might be interested?&lt;/h2&gt;
+
+&lt;p&gt;I think these notes might be of an interest to development managers, team leads and developers acting in Scrum master role, in other words to everyone who is organizing and improving the process of software development, building and supervising development teams. Newby managers may use this blog as an introduction book.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Mar 2013 00:00:00 -0700</pubDate>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/other/2013/03/12/hello-world/</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/other/2013/03/12/hello-world/</guid>
+        
+        
+        <category>other</category>
+        
+      </item>
+    
+  </channel>
+</rss>
