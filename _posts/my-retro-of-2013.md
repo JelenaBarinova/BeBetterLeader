@@ -1,0 +1,52 @@
+title: "My retro of 2013"
+date: 2013-12-30 11:34:33
+tags:
+id: 429
+categories:
+  - Know-how
+---
+
+<div style="text-align: justify;">
+
+As every time something ends I do a retro of how it was, I decided to overview the year 2013\. So here is a summary post of things I've done and results I've achieved during this year.
+
+###### Blog
+
+I started this blog in march, 2013\. Since then I've written 33 blog posts, that makes 3,3 blog posts per months in average. In total there were 2500 unique visits.
+
+[![2013stats](http://files.bebetterleader.com/media/2013stats.png)](http://files.bebetterleader.com/media/2013stats.png)
+
+Top 3 most popular posts:
+
+1. [Lego game for Kanban workshop](http://www.bebetterleader.com/lego-game-for-kanban-workshop/) (503 pageviews)
+
+2. [Failed experiment: Self-designing teams](http://www.bebetterleader.com/failed-experiment-self-designing-teams/) (331 pageviews)
+
+3. [Summer camp: results – 2x performance, but feels like on vacations](http://www.bebetterleader.com/summer-camp-results-2x-performance-but-feels-like-on-vacations/) (331 pageviews)
+
+###### Travel
+
+This year was quite busy in terms of traveling: I've been 51 days abroad (including both business and personal trips) visiting 6 different countries (and by visiting I mean at least walk around a town, drink coffee, enjoy some local food). For the first time I've visited USA west coast, this was awesome trip (and not only because I've got married in Las Vegas :))
+
+###### Presentations and workshops
+
+For the first time I gave a talk to a big audience of approx. 100 attendees at Agile Day Lithuania on practical tips for better leadership ([slides](https://speakerdeck.com/jelenafiodorova/73-tips-to-become-a-better-leader)). This was very interesting and challenging experience. This talk was followed by different lectures at Universities about Agile, Scrum, teamwork ([slides](https://speakerdeck.com/jelenafiodorova/teamwork-agile-way)). In addition to that I also started giving 2 days agile trainings with workshops. I enjoy sharing my experience and knowledge a lot.
+
+###### Self-education and conferences
+
+At the beginning of the year I attended English classes, later in spring took online courses on [Inspiring Leadership through Emotional Intelligence](https://www.coursera.org/course/lead-ei). Starting from autumn - I'm attending Coaching classes.
+
+Conferences and workshops I've attended this year:
+
+1.  Agile Day
+2.  Agile Tour (conducted lean coffee discussion)
+3.  Build Stuff (conducted open space event)
+4.  Change Clinic: Organize for Complexity by Niels Pflaeging
+5.  Communication Excellence workshop by Travor Holmes
+&nbsp;
+
+Quite a year! Looking forward for 2014.
+
+&nbsp;
+
+</div>
