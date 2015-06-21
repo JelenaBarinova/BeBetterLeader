@@ -5,19 +5,19 @@
     <description>Practical notes on leadership improvements</description>
     <link>http://jelenabarinova.github.io/BeBetterLeader/</link>
     <atom:link href="http://jelenabarinova.github.io/BeBetterLeader/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 21 Jun 2015 11:22:47 -0700</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2015 11:22:47 -0700</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Sun, 21 Jun 2015 11:29:19 -0700</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2015 11:29:19 -0700</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>1:1</title>
         <description>&lt;p&gt;This is how my calendar looks like the week when I’m having meetings with each member of my team.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/BeBetterLeader/img/post_img/performance-evaluations.png&quot; alt=&quot;performance evaluations&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/post_img/performance-evaluations.png&quot; alt=&quot;performance evaluations&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Usually I do 1:1 (one-on-ones) twice a year with each of my team members. So how do I do it? Differently each time. Couple of years ago I’ve been using “Moving motivators” as Jurgen Appelo suggests in his Management 3.0 course (please find instructions &lt;a href=&quot;http://www.management30.com/wp-content/uploads/2012/09/04-Moving-Motivators-A4-v2.00.pdf%20&quot;&gt;here&lt;/a&gt;). Last time I did &lt;a href=&quot;http://www.bebetterleader.com/walking-meetings-are-just-great/&quot; title=&quot;Walking meetings are just great!&quot;&gt;Walking and talking&lt;/a&gt; meetings.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/BeBetterLeader/img/post_img/coffee.jpg&quot; alt=&quot;Coffee&quot; /&gt;This time we just took a coffee and went for a walk along the river. I prepare for each of these meetings: gather feedback (if needed), look through notes from previous talks, gather ideas what I want to pass and think about questions I want to get answers to. This time I asked these 5 questions:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/post_img/coffee.jpg&quot; alt=&quot;Coffee&quot; /&gt;This time we just took a coffee and went for a walk along the river. I prepare for each of these meetings: gather feedback (if needed), look through notes from previous talks, gather ideas what I want to pass and think about questions I want to get answers to. This time I asked these 5 questions:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Are you happy here?&lt;/li&gt;
@@ -44,7 +44,7 @@
 
 &lt;p&gt;I’ve been surprised: from 11 to 31 members, from 2 to 5 teams. My question is how fast can we grow in order to satisfy client’s hunger for features, but still keep the comfort for teams and do not increase technical debt of the product.&lt;/p&gt;
 
-&lt;p&gt;With every new member we slow down, as well as we increase communication channels. It usually lead us to different misunderstandings and other things such as: everyone having their own style, opinion, vision, speed, quality level, etc. And that’s the price you pay for growing. Some more technical of these differences we can easily unify by introducing coding standards, testing procedures, development processes. But what about soft ones? I have my way of introducing new members to my team, you can find it &lt;a href=&quot;/know-how/2014/02/06/youre-hired/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;With every new member we slow down, as well as we increase communication channels. It usually lead us to different misunderstandings and other things such as: everyone having their own style, opinion, vision, speed, quality level, etc. And that’s the price you pay for growing. Some more technical of these differences we can easily unify by introducing coding standards, testing procedures, development processes. But what about soft ones? I have my way of introducing new members to my team, you can find it you are hired&lt;a href=&quot;&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;What’s your speed of growing software development teams/departments?&lt;/p&gt;
 </description>
@@ -84,7 +84,7 @@
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Have you expectations been met?&lt;/p&gt;
+  &lt;p&gt;Have you expectations been met? &lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
@@ -106,7 +106,7 @@
     
       <item>
         <title>A mind of its own</title>
-        <description>&lt;p&gt;Here is another interesting and worth spending time on book I’ve recently read - “A mind of its own” by Cordelia Fine. &lt;a href=&quot;/BeBetterLeader/img/post_img/mind_of_its_own.png&quot;&gt;&lt;img src=&quot;/BeBetterLeader/img/post_img/mind_of_its_own.png&quot; alt=&quot;mind_of_its_own&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;Here is another interesting and worth spending time on book I’ve recently read - “A mind of its own” by Cordelia Fine. &lt;a href=&quot;/img/post_img/mind_of_its_own.png&quot;&gt;&lt;img src=&quot;/img/post_img/mind_of_its_own.png&quot; alt=&quot;mind_of_its_own&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;My take-away out of it: our brain is “multi-dimensional” and knowing these “dimensions” could help you better understand why did you do or say something, or why did you wanted to say or do it, or why did you feel that particular way in various specific situations.&lt;/p&gt;
 
@@ -265,7 +265,7 @@
 
 &lt;p&gt;And we moved on to Retrospectives part. For this I prepared in advanced: made short presentation of team’s journey through 2012. Starting with our targets for the year, I’ve put a couple of events on a timeline and ended with overview of what was achieved &lt;a href=&quot;#lit2&quot;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/BeBetterLeader/img/post_img/DSP_Journey_2012.png&quot;&gt;&lt;img src=&quot;/BeBetterLeader/img/post_img/DSP_Journey_2012.png&quot; alt=&quot;DSP_Journey_2012&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/img/post_img/DSP_Journey_2012.png&quot;&gt;&lt;img src=&quot;/img/post_img/DSP_Journey_2012.png&quot; alt=&quot;DSP_Journey_2012&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;With the team we went through this presentation, stopping to shortly discuss each event and remembering what was happening else and how we felt about it. This is a very good exercise for the team to analyze situations they went through, their behavior and results they achieved.&lt;/p&gt;
 
