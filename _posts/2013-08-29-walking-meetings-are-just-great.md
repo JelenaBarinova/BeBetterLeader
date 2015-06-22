@@ -1,16 +1,15 @@
 ---
 layout: post
 title: "Walking meetings are just great!"
-date: 2013-08-29 21:51:25
 subtitle:   "After trying walking meetings"
+date: 2013-08-29
 author: Jelena Barinova
 id: 284
 categories:
-  - Experiments
   - Know-how
 ---
 
-Some time ago I wrote a [post]({% post_url 2013-08-12-walking-and-talking %}) about my intention to conduct mid-year evaluation meetings with colleagues outside the office while walking. So here are some insights how it went.
+Some time ago I wrote a short [Walking meetings]({% post_url 2013-08-12-walking-and-talking %}) post about my intention to conduct mid-year evaluation meetings with colleagues outside the office while walking. So here are some insights how it went.
 
 In short: I loved it.
 

@@ -2,9 +2,8 @@
 layout: post
 title: "73 Practical Tips to Become a Better Leader"
 subtitle: "Slides from my talk at Agile day 2013 Vilnius"
-date: 2013-05-14 08:12:37
+date: 2013-05-14
 author: Jelena Barinova
-tags:
 id: 162
 categories:
   - Presentations

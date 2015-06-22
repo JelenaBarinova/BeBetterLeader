@@ -3,7 +3,7 @@ title: Be a Better Leader
 header-img: img/home-bg.jpg
 email: jelena.barinovas@gmail.com
 description: "Practical notes on leadership improvements"
-baseurl: "/BeBetterLeader"
+baseurl: ""
 url: "http://jelenabarinova.github.io/BeBetterLeader"
 github: 
 twitter_username: jfiodorova
@@ -13,6 +13,6 @@ facebook_username:  jelena.fiodorova
 # Build settings
 markdown: kramdown
 highlighter: pygments
-permalink: pretty
+permalink: none
 paginate: 10
 exclude: ["less","node_modules","gulpfilee.js","package.json","README.md"]

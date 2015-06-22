@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Walking and talking"
-date: 2013-08-12 20:32:37
 subtitle: "Trying to go for a walk to have a meeting"
+date: 2013-08-12
 author: Jelena Barinova
-tags:
 id: 233
 categories:
   - Know-how

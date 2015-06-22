@@ -2,9 +2,8 @@
 layout: post
 title: "Annual result review and targets grooming"
 subtitle: "We do retro for a year"
+date: 2013-03-17
 author: Jelena Barinova
-date: 2013-03-17 21:32:28
-tags:
 id: 85
 categories:
   - Know-how

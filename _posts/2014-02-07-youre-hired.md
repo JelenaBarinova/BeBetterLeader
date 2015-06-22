@@ -1,10 +1,9 @@
 ---
 layout: post
-author: Jelena Barinova
-subtitle: "This is how I do onboarding of new team members"
 title: "You're hired"
-date: 2014-02-07 07:00:12
-tags:
+subtitle: "This is how I do onboarding of new team members"
+date: 2014-02-07
+author: Jelena Barinova
 id: 415
 categories:
   - Know-how
@@ -32,6 +31,6 @@ So you've done a huge job - you've hired a person. What's next? And here comes a
 
 > Would you like to change something? What? How? Why haven't you changed it already? What stops you?
 
-**6. Probationary end.** This is the final stage of the "intensive care" period and here I let the team to decide whether to keep a person in the team or not. You can find more on how do i do it in my previous post [Let team decide: hire or fire]().
+**6. Probationary end.** This is the final stage of the "intensive care" period and here I let the team to decide whether to keep a person in the team or not. You can find more on how do i do it in my previous post [Let team decide: hire or fire]({% post_url 2013-06-17-let-team-decide-hire-or-fire %}).
 
 How would you like your first months in a company to be?  Or how do you do onboarding?

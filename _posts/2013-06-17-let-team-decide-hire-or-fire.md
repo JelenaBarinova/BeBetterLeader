@@ -2,9 +2,8 @@
 layout: post
 title: "Let team decide: hire or fire"
 subtitle: "One more decision your team should take over"
-date: 2013-06-17 16:53:23
+date: 2013-06-17
 author: Jelena Barinova
-tags:
 id: 181
 categories:
   - Know-how
@@ -29,7 +28,5 @@ Recently I have tried something different. Instead of sending this form and aski
 The response rate was exactly as I expected: 100% of team members answered my questions (with original questionnaire response rate is approximately 40% after the first call and 60% after the reminder). Another positive aspect of this is that the decision was made by team, not the manager. Manager in this case is only a facilitator.
 
 One thing you need to be ready for - properly react to answers. If you ask straightforward question and get "No" - be ready to act straightforward as well: find another team for a guy or fire.
-
-&nbsp;
 
 Do you still have probationary periods? How do you handle them?

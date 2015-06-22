@@ -2,9 +2,8 @@
 layout: post
 title: "A mind of its own"
 subtitle: "A book review"
-date: 2014-01-24 09:53:46
+date: 2014-01-24
 author: Jelena Barinova
-tags:
 id: 162
 categories:
   - Books
