@@ -3,17 +3,74 @@
   <channel>
     <title>Be a Better Leader</title>
     <description>Practical notes on leadership improvements</description>
-    <link>http://jelenabarinova.github.io/BeBetterLeader/</link>
-    <atom:link href="http://jelenabarinova.github.io/BeBetterLeader/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 22 Jun 2015 16:53:46 -0700</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2015 16:53:46 -0700</lastBuildDate>
+    <link>http://localhost:4000/BeBetterLeader/</link>
+    <atom:link href="http://localhost:4000/BeBetterLeader/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 25 Jun 2015 11:42:05 -0700</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2015 11:42:05 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Test</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/experiments/summer-camp-the-journal-10-11-12-days.html&quot;&gt;TEST&lt;/a&gt;
+[welcome]: /experiments/summer-camp-the-journal-10-11-12-days.html”)&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Jun 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/BeBetterLeader/experiments/test.html</link>
+        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/experiments/test.html</guid>
+        
+        
+        <category>experiments</category>
+        
+      </item>
+    
+      <item>
+        <title>Quiet</title>
+        <description>&lt;p&gt;Here is a brief take-aways after reading one more good book - &lt;a href=&quot;http://www.amazon.com/Quiet-power-introverts-world-talking-ebook/dp/B0074YVW1G/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;amp;colid=35LOWQ4FF0B1T&amp;amp;sr=&amp;amp;qid=&amp;amp;coliid=I2AOFX45GMPDML&quot;&gt;Quiet by Susan Cain&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post_img/quiet-196x300.jpeg&quot; alt=&quot;quiet&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This book helps you to understand people better, to know how different they can be and what their behavior could mean, how to embrace your quietness and make it work for you.&lt;/p&gt;
+
+&lt;p&gt;Here are some quotes I liked:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We don’t need giant personalities to transform companies. We need leaders who build not their own egos but the institutions they run.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Open-plan offices have been found to reduce productivity and impair memory.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Studies have shown that performance gets worse as group size increases: groups of nine generate fewer and poorer ideas compared to groups of six, which do worse than groups of four.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Another study, of 38,000 knowledge workers across different sectors, found that the simple act of being interrupted is one of the biggest barriers to productivity. Even multitasking, that prized feat of modern-day office warriors, turns out to be a myth. Scientists now know that the brain is incapable of paying attention to two things at the same time. What looks like multitasking is really switching back and forth between multiple tasks, which reduces productivity and increases mistakes by up to 50 percent.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The “Bus to Abilene” anecdote reveals our tendency to follow those who initiate action— any action. We are similarly inclined to empower dynamic speakers.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For all the managers, who does “people management” (I so don’t like this phrase, but haven’t found a better one), I would definitely recommend reading this book, or at least watch for this 20 minutes &lt;a href=&quot;https://www.ted.com/talks/susan_cain_the_power_of_introverts&quot;&gt;Susan Cain TED talk&lt;/a&gt;. The talk is not that good and detailed as the book, but still it gives you the main idea.&lt;/p&gt;
+
+&lt;p&gt;P.S.: By the middle of the book I’ve started thinking that I am more introvert than extrovert, though always thought opposite :)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/BeBetterLeader/books/quiet.html</link>
+        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/books/quiet.html</guid>
+        
+        
+        <category>books</category>
+        
+      </item>
     
       <item>
         <title>Here is how I spend my weekdays as unemployed</title>
         <description>&lt;p&gt;I was always curious what do people do all day long if they do not work!? For me it was frightening question. Since I can remember all my weekdays were preoccupied with important activities and rather strict schedule: first, school and after school lectures, then university and different kinds of part time jobs and later, professionally developing software for ten years.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://files.bebetterleader.com/media/vintage-housewife-276x300.jpg&quot; alt=&quot;Image courtesy of Austin Fashion Week&quot; /&gt; &lt;small&gt;Image courtesy of Austin Fashion Week&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/post_img/vintage-housewife-276x300.jpg&quot; alt=&quot;Image courtesy of Austin Fashion Week&quot; class=&quot;left&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Pretty much all the weekdays were predefined for me: wakeup in the morning, travel to work, work, travel home, yoga class, two-three hours of a free personal time, go to sleep. Roughly rounding: 11 hours work related activities and 5 hours of non work related activities and 8 hours for sleep. So what do you do 16 hours a day if you don’t work!!??&lt;/p&gt;
 
@@ -33,17 +90,17 @@
 
 &lt;p&gt;13:30 - 15:00 &lt;strong&gt;Listening to lectures&lt;/strong&gt; (currently it’s Princeton University Algorithms course provided by Coursera or MIT Open Courseware Computer Science lectures)&lt;/p&gt;
 
-&lt;p&gt;15:00 - 18:30 &lt;strong&gt;Programming&lt;/strong&gt; (I decided to learn Ruby, so now I’m implementing various classic algorithms, data structures and solve interesting coding challenges using Ruby)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/post_img/github-300x181.png&quot; alt=&quot;github activity&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/post_img/github-300x181.png&quot; alt=&quot;github&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;15:00 - 18:30 &lt;strong&gt;Programming&lt;/strong&gt; (I decided to learn Ruby, so now I’m implementing various classic algorithms, data structures and solve interesting coding challenges using Ruby)&lt;/p&gt;
 
 &lt;p&gt;I will not say, that all days are the same, the energy level is high and I wish to do all these activities instead of procrastinating on the internet or doing something else.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/post_img/lounge-150x150.jpg&quot; alt=&quot;lounge&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/post_img/lounge-150x150.jpg&quot; alt=&quot;lounge&quot; class=&quot;left&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;But when these days come, I go out to work in some public place: either lounge areas in my building or some coffee shop in a neighborhood. This helps to overcome laziness and to stay focused on a task.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/post_img/starbucks-150x150.jpg&quot; alt=&quot;starbucks&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/post_img/starbucks-150x150.jpg&quot; alt=&quot;starbucks&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In addition to this agenda, at least twice a month I attend different Agile, Project Management, Software Development Management and similar meet-ups and gatherings in Seattle. From time to time my agenda changes because of webinars I chose to listen online.&lt;/p&gt;
 
@@ -59,8 +116,65 @@
 &lt;p&gt;Although I am happy with my unemployment days, I’d rather found a job sooner to fill my 16 hours of personal time with actual work.&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Feb 2015 00:00:00 -0800</pubDate>
-        <link>http://jelenabarinova.github.io/BeBetterLeader/know-how/here-is-how-i-spend-my-weekdays-as-unemployed.html</link>
-        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/know-how/here-is-how-i-spend-my-weekdays-as-unemployed.html</guid>
+        <link>http://localhost:4000/BeBetterLeader/know-how/here-is-how-i-spend-my-weekdays-as-unemployed.html</link>
+        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/know-how/here-is-how-i-spend-my-weekdays-as-unemployed.html</guid>
+        
+        
+        <category>know-how</category>
+        
+      </item>
+    
+      <item>
+        <title>Late retro of 2014</title>
+        <description>&lt;p&gt;Following the tradition, in this post I’m looking back to 2014 to summarize most significant things that happened to me during this year.&lt;/p&gt;
+
+&lt;h2 id=&quot;blog&quot;&gt;Blog&lt;/h2&gt;
+
+&lt;p&gt;I’ve managed to keep my blog alive! During 2014 I have written 25 blog posts (for 2013 it was 33), though I written less, visits increased almost twice - from 2500 (for 2013) to 4800 unique visits.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post_img/2014stats-1024x305.png&quot; alt=&quot;stats&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Top 3 posts:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;/workshops/games-to-play-during-workshops-and-training.html&quot;&gt;Games to play during workshops and training&lt;/a&gt; (1958 page views)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/workshops/lego-game-for-kanban-workshop.html&quot;&gt;Lego game for Kanban workshop&lt;/a&gt; (409 page views)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/know-how/11.html&quot;&gt;1:1&lt;/a&gt; (316 page views)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;travel&quot;&gt;Travel&lt;/h2&gt;
+
+&lt;p&gt;This year was exceptional in terms of traveling for me. Not only I’ve visited 6 countries, was abroad for 54 days, but also I’ve moved to US in October.&lt;/p&gt;
+
+&lt;h2 id=&quot;presentations-and-trainings&quot;&gt;Presentations and trainings&lt;/h2&gt;
+
+&lt;p&gt;In 2014 I started to give trainings and consulting for companies that want to adopt Agile. I’ve done 3 two-days Agile private trainings for companies and 5 lectures for students. Also made one new presentation on how to deal with challenges (&lt;a href=&quot;https://speakerdeck.com/jelenafiodorova/keep-calm-and-meet-challenge&quot;&gt;slides&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&quot;self-education-and-conferences&quot;&gt;Self-education and conferences&lt;/h2&gt;
+
+&lt;p&gt;In 2014 I’ve completed coaching course, took a couple more courses at Coursera. Attended these workshops:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;High Performance through Learning by Niels Pflaeging&lt;/li&gt;
+  &lt;li&gt;Product management workshop by Bob Marshall&lt;/li&gt;
+  &lt;li&gt;In October became Certified Scrum Professional.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;career&quot;&gt;Career&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post_img/farewell-300x233.jpg&quot; alt=&quot;farewell&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was rather a sad moment for me, in October I left Adform and followed my husband to US. He got a job at Amazon, so I decided to look for new career opportunities in Greater Seattle Area.&lt;/p&gt;
+
+&lt;p&gt;Lots of great moments I had in Adform, meaningful and happy time working with smart people, newest technologies, creating the best ad platform.&lt;/p&gt;
+
+&lt;p&gt;Miss my great D&amp;amp;D team. In a photo you can see the farewell gift my team made me :)&lt;/p&gt;
+
+&lt;p&gt;Thrilled and excited I’m looking forward for 2015 and all the challenges and opportunities it’ll bring.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/BeBetterLeader/know-how/late-retro-of-2014.html</link>
+        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/know-how/late-retro-of-2014.html</guid>
         
         
         <category>know-how</category>
@@ -72,10 +186,10 @@
         <description>&lt;p&gt;I think everyone wants to improve at what he does. Mentoring helps here.&lt;/p&gt;
 
 &lt;dl&gt;
-&lt;div class=&quot;getty embed image&quot; style=&quot;background-color:#fff;display:inline-block;font-family:&#39;Helvetica Neue&#39;,Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:507px;&quot;&gt;&lt;div style=&quot;overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;&quot;&gt;&lt;iframe src=&quot;//embed.gettyimages.com/embed/466843081?et=X8SylcMUQu9heFO9H3o4-g&amp;amp;viewMoreLink=on&amp;amp;sig=dayem-Oys5xWmz18W5EtP2oJYyngvMLs5ibL8K8pZzE=&quot; width=&quot;507&quot; height=&quot;338&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;padding:0;margin:0 0 0 10px;text-align:left;&quot;&gt;&lt;a href=&quot;http://www.gettyimages.com/detail/466843081&quot; target=&quot;_blank&quot; style=&quot;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&quot;&gt;View image&lt;/a&gt; | &lt;a href=&quot;http://www.gettyimages.com&quot; target=&quot;_blank&quot; style=&quot;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&quot;&gt;gettyimages.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;getty embed image left&quot; style=&quot;background-color:#fff;display:inline-block;font-family:&#39;Helvetica Neue&#39;,Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:507px;&quot;&gt;&lt;div style=&quot;overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;&quot;&gt;&lt;iframe src=&quot;//embed.gettyimages.com/embed/466843081?et=X8SylcMUQu9heFO9H3o4-g&amp;amp;viewMoreLink=on&amp;amp;sig=dayem-Oys5xWmz18W5EtP2oJYyngvMLs5ibL8K8pZzE=&quot; width=&quot;507&quot; height=&quot;338&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;padding:0;margin:0 0 0 10px;text-align:left;&quot;&gt;&lt;a href=&quot;http://www.gettyimages.com/detail/466843081&quot; target=&quot;_blank&quot; style=&quot;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&quot;&gt;View image&lt;/a&gt; | &lt;a href=&quot;http://www.gettyimages.com&quot; target=&quot;_blank&quot; style=&quot;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&quot;&gt;gettyimages.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/dl&gt;
 
-&lt;p&gt;Recently have heard a presentation about a couple of main principles of Toyota manufacturing processes that is believed helped the company to succeed. Mentoring process is one of them.&lt;/p&gt;
+&lt;p&gt;I recently have heard a presentation about a couple of main principles of Toyota manufacturing processes that is believed helped the company to succeed. Mentoring process is one of them.&lt;/p&gt;
 
 &lt;p&gt;It helps every employee to improve his own production process and achieve desirable “target condition”.&lt;/p&gt;
 
@@ -88,8 +202,8 @@
 &lt;p&gt;&lt;em&gt;Thanks Mats! :)&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Dec 2014 00:00:00 -0800</pubDate>
-        <link>http://jelenabarinova.github.io/BeBetterLeader/improvements/everyone-needs-a-mentor.html</link>
-        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/improvements/everyone-needs-a-mentor.html</guid>
+        <link>http://localhost:4000/BeBetterLeader/improvements/everyone-needs-a-mentor.html</link>
+        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/improvements/everyone-needs-a-mentor.html</guid>
         
         
         <category>improvements</category>
@@ -97,10 +211,74 @@
       </item>
     
       <item>
+        <title>Organize for Comlexity</title>
+        <description>&lt;p&gt;Finally I have a time to put in a post all my thoughts after reading a new book - “Organize for complexity” by Niels Pflaeging.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post_img/organize_for_complexity-194x300.jpg&quot; alt=&quot;organize for complexity&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It is a must read for those, who feel that hierarchies, bonuses, command and control management - is not the right approach for modern organizations to follow and needs to be changed for better performance. You will enrich this list of “things to change” with even more principles and approaches after reading the book.&lt;/p&gt;
+
+&lt;p&gt;This book covers many topics but not too deeply, that’s why it leaves you with more questions than answers after reading it. It will definitely make you think, explore and seek for more information to do the change.&lt;/p&gt;
+
+&lt;p&gt;Here are a couple of quotations, that I find interesting:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Self-organization is not the “right” term. Better would be: Socially dense market-organization.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Social pressure, used correctly: far more powerful that hierarchy, no damaging side-effects.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Your organization is already networked. It is just not allowed to officially operate as one.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Culture neither is a barrier to change, nor does it encourage change. It can provide hints to what an organization must learn.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Understood correctly, leadership in complexity means working the system, not the people.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Let purpose drive behavior. Not numbers, or manipulative and controlling processes.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As I already mentioned, this book doesn’t give you a deep and detailed explanation of topics, so I would highly recommend to listen to Niels presentation or webinar or attend a workshop. These together with the book will give you a much better ground for the change you want to implement.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Nov 2014 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/BeBetterLeader/books/organize-for-comlexity.html</link>
+        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/books/organize-for-comlexity.html</guid>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Off-site with teams #2</title>
+        <description>&lt;p&gt;Some time ago I’ve shared with you my &lt;a href=&quot;/know-how/off-site-with-teams.html&quot;&gt;experiment&lt;/a&gt; of gathering all my teams together and having a fresh look at products we build. So this is a second try. Different time, different place, but the goal stays the same: share ideas, educate each other, team-building.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post_img/margiokrantas.jpg&quot; alt=&quot;margiokrantas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you are pushing scrum into teams for a quite long time and it starts to work as expected, you usually get a non desirable side effect of it - teams become isolated, communicate less with each other, become too focused on a team goal and try to improve team performance. That’s why you need something that gathers different teams in one room and gives them a possibility to get to know each other again. For the second time I have tried gathering my teams for such extended knowledge sharing session.&lt;/p&gt;
+
+&lt;p&gt;In my opinion it worked just fine, we had various discussions on business and tech topics, reviewed what we achieved, thought about the future. Here a simplified agenda of our off-site.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Product Owners presenting new products. 10 minutes for each product. What is it? Vision. Why? Benefits.&lt;/li&gt;
+  &lt;li&gt;Product Owners presenting current products. 10 minutes stories of the products with overview of recently released major features and further essential plans.&lt;/li&gt;
+  &lt;li&gt;Scrum Masters (or someone from the team) presenting products from tech perspective. 10 minutes technical overview of your products: how are/will they be developed, architecture overview, etc.&lt;/li&gt;
+  &lt;li&gt;Success stories. All teams (it could be anyone from the team) prepare a short  ~5-7 minutes overview on how you product succeeds in different countries, how the usage is changing, how much money it’s earning, etc. – anything you find interesting and exciting about you products.&lt;/li&gt;
+  &lt;li&gt;Remembering the promises from the last event. Watching recorded video followed with a short update of what was actually done from those promises – anyone from the teams.&lt;/li&gt;
+  &lt;li&gt;And then for 2 hours discuss within teams. Form team’s targets for future (3-6 months) and make new promises.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I tried to film every session and presentation and after some editing put it on company’s internal wiki for other teams to learn about what we do. Actually I find it very useful in may ways: for the team to step up out of daily routine and think about the future, for every attendee to learn about related teams, for teams outside the event - to learn about our products. And moreover, we use this filmed material for newcomers to teach them about teams, products, people.&lt;/p&gt;
+
+&lt;p&gt;If you have tried such events - I encourage to try it :) it fun and useful.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Nov 2014 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/BeBetterLeader/know-how/off-site-with-teams-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/know-how/off-site-with-teams-2.html</guid>
+        
+        
+        <category>know-how</category>
+        
+      </item>
+    
+      <item>
         <title>Establishing estimates</title>
         <description>&lt;p&gt;This is a short introduction to one of many techniques how to establish estimates (in my teams we make estimation of size, not the duration of the task) - White elephant.&lt;/p&gt;
 &lt;dl&gt;
-&lt;div class=&quot;getty embed image&quot; style=&quot;background-color:#fff;display:inline-block;font-family:&#39;Helvetica Neue&#39;,Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:414px;&quot;&gt;&lt;div style=&quot;overflow:hidden;position:relative;height:0;padding:100.000000% 0 0 0;width:100%;&quot;&gt;&lt;iframe src=&quot;//embed.gettyimages.com/embed/136643000?et=Ba6f-JkqTuNfkhJEqF_-tw&amp;amp;viewMoreLink=on&amp;amp;sig=dGyiXxBkJOblc56I2Y7Y-UgfeaIs4zGruH85nHJwyjY=&quot; width=&quot;414&quot; height=&quot;414&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;padding:0;margin:0 0 0 10px;text-align:left;&quot;&gt;&lt;a href=&quot;http://www.gettyimages.com/detail/136643000&quot; target=&quot;_blank&quot; style=&quot;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&quot;&gt;View image&lt;/a&gt; | &lt;a href=&quot;http://www.gettyimages.com&quot; target=&quot;_blank&quot; style=&quot;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&quot;&gt;gettyimages.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;getty embed image left&quot; style=&quot;background-color:#fff;display:inline-block;font-family:&#39;Helvetica Neue&#39;,Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:414px;&quot;&gt;&lt;div style=&quot;overflow:hidden;position:relative;height:0;padding:100.000000% 0 0 0;width:100%;&quot;&gt;&lt;iframe src=&quot;//embed.gettyimages.com/embed/136643000?et=Ba6f-JkqTuNfkhJEqF_-tw&amp;amp;viewMoreLink=on&amp;amp;sig=dGyiXxBkJOblc56I2Y7Y-UgfeaIs4zGruH85nHJwyjY=&quot; width=&quot;414&quot; height=&quot;414&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;padding:0;margin:0 0 0 10px;text-align:left;&quot;&gt;&lt;a href=&quot;http://www.gettyimages.com/detail/136643000&quot; target=&quot;_blank&quot; style=&quot;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&quot;&gt;View image&lt;/a&gt; | &lt;a href=&quot;http://www.gettyimages.com&quot; target=&quot;_blank&quot; style=&quot;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&quot;&gt;gettyimages.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/dl&gt;
 &lt;p&gt;This technique is taken from &lt;a href=&quot;http://en.wikipedia.org/wiki/White_elephant_gift_exchange&quot;&gt;White elephant gift exchange&lt;/a&gt; party game. You can use “White elephant” within your team when you need to estimate upcoming work.&lt;/p&gt;
 
@@ -130,7 +308,8 @@ We started with answering these two questions:&lt;/p&gt;
   &lt;li&gt;Repeat while everyone agrees&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://photos-c.ak.instagram.com/hphotos-ak-xfa1/10684256_695100200581050_1671519976_n.jpg&quot; alt=&quot;Task board&quot; /&gt;We’ve managed to finish estimating in less than half an hour.&lt;/p&gt;
+&lt;p&gt;We’ve managed to finish estimating in less than half an hour.
+&lt;img src=&quot;http://photos-c.ak.instagram.com/hphotos-ak-xfa1/10684256_695100200581050_1671519976_n.jpg&quot; alt=&quot;task board&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;During this session we achieved:&lt;/p&gt;
 
@@ -151,8 +330,8 @@ We started with answering these two questions:&lt;/p&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 14 Oct 2014 00:00:00 -0700</pubDate>
-        <link>http://jelenabarinova.github.io/BeBetterLeader/workshops/establishing-estimates.html</link>
-        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/workshops/establishing-estimates.html</guid>
+        <link>http://localhost:4000/BeBetterLeader/workshops/establishing-estimates.html</link>
+        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/workshops/establishing-estimates.html</guid>
         
         
         <category>workshops</category>
@@ -167,7 +346,8 @@ We started with answering these two questions:&lt;/p&gt;
 
 &lt;p&gt;Usually I do 1:1 (one-on-ones) twice a year with each of my team members. So how do I do it? Differently each time. Couple of years ago I’ve been using “Moving motivators” as Jurgen Appelo suggests in his Management 3.0 course (please find instructions &lt;a href=&quot;http://www.management30.com/wp-content/uploads/2012/09/04-Moving-Motivators-A4-v2.00.pdf%20&quot;&gt;here&lt;/a&gt;). Last time I did &lt;a href=&quot;/know-how/walking-meetings-are-just-great.html&quot;&gt;Walking meetings&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/post_img/coffee.jpg&quot; alt=&quot;Coffee&quot; /&gt;This time we just took a coffee and went for a walk along the river. I prepare for each of these meetings: gather feedback (if needed), look through notes from previous talks, gather ideas what I want to pass and think about questions I want to get answers to. This time I asked these 5 questions:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/post_img/coffee.jpg&quot; alt=&quot;coffee&quot; class=&quot;right&quot; /&gt;
+This time we just took a coffee and went for a walk along the river. I prepare for each of these meetings: gather feedback (if needed), look through notes from previous talks, gather ideas what I want to pass and think about questions I want to get answers to. This time I asked these 5 questions:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Are you happy here?&lt;/li&gt;
@@ -178,8 +358,8 @@ We started with answering these two questions:&lt;/p&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 23 Sep 2014 01:00:59 -0700</pubDate>
-        <link>http://jelenabarinova.github.io/BeBetterLeader/know-how/11.html</link>
-        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/know-how/11.html</guid>
+        <link>http://localhost:4000/BeBetterLeader/know-how/11.html</link>
+        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/know-how/11.html</guid>
         
         
         <category>know-how</category>
@@ -187,218 +367,30 @@ We started with answering these two questions:&lt;/p&gt;
       </item>
     
       <item>
-        <title>Dear dev managers, how fast do your teams grow?</title>
-        <description>&lt;p&gt;Recently I’ve made some calculations to visualize the dynamics in my teams over the year.&lt;/p&gt;
+        <title>Keep calm and meet challenges</title>
+        <description>&lt;p&gt;Recently I’ve been asked to share how do I manage incidents and solve problems with my teams. In this blog post you can find a short summary of how do I usually do it.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/post_img/employees.png&quot; alt=&quot;Growth graph&quot; title=&quot;Changing number of employees over the year&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’ve been surprised: from 11 to 31 members, from 2 to 5 teams. My question is how fast can we grow in order to satisfy client’s hunger for features, but still keep the comfort for teams and do not increase technical debt of the product.&lt;/p&gt;
-
-&lt;p&gt;With every new member we slow down, as well as we increase communication channels. It usually lead us to different misunderstandings and other things such as: everyone having their own style, opinion, vision, speed, quality level, etc. And that’s the price you pay for growing. Some more technical of these differences we can easily unify by introducing coding standards, testing procedures, development processes. But what about soft ones? I have my way of introducing new members to my team, you can find it in this &lt;a href=&quot;/know-how/youre-hired.html&quot;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;What’s your speed of growing software development teams/departments?&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Aug 2014 00:00:00 -0700</pubDate>
-        <link>http://jelenabarinova.github.io/BeBetterLeader/know-how/dear-dev-managers-how-fast-do-your-teams-grow.html</link>
-        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/know-how/dear-dev-managers-how-fast-do-your-teams-grow.html</guid>
-        
-        
-        <category>know-how</category>
-        
-      </item>
-    
-      <item>
-        <title>Failed. Never praise for standards</title>
-        <description>&lt;p&gt;It’s very hard to share failures. Half a year has passed and I still feel some embracement and discomfort. But I want to make a note, especially for myself after some years to remember and not to repeat this.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post_img/chocolates.jpg&quot; alt=&quot;chocolates&quot; /&gt; &lt;/p&gt;
-
-&lt;p&gt;One evening I was just browsing our GIT repository. Looking through commits, wikis, etc. Pulled one solution, tried to build it - failed. Pulled the second one (other team’s) - tried to build - failed again. And only the third one succeeded: I got all referred libraries downloaded, all need configurations done while building - no errors, very little warnings, everything built and ready to run. Taking into account a couple of failures that happened before - I was absolutely happy with the team, that they were keeping their solutions in good health. So I decided to praise this team. I got a big box of chocolates and went to stand-up meeting all happy next morning.&lt;/p&gt;
-
-&lt;p&gt;Which was wrong. Never repeat it. No one in a team shared my happiness, they even were frustrated. ‘Why do you complement this standard behavior? We get our salaries for that.’&lt;/p&gt;
-
-&lt;p&gt;With praising is pretty clear lesson: do not praise for standard behavior, praise for extra.&lt;/p&gt;
-
-&lt;p&gt;But the open question remains: how to encourage teams to keep their solutions in good state if not praising for it? Punish? Promote standards harder? Educate? Push to clean-up?&lt;/p&gt;
-</description>
-        <pubDate>Sun, 16 Feb 2014 00:00:00 -0800</pubDate>
-        <link>http://jelenabarinova.github.io/BeBetterLeader/experiments/failed-never-praise-for-standards.html</link>
-        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/experiments/failed-never-praise-for-standards.html</guid>
-        
-        
-        <category>experiments</category>
-        
-      </item>
-    
-      <item>
-        <title>You&#39;re hired</title>
-        <description>&lt;p&gt;So you’ve done a huge job - you’ve hired a person. What’s next? And here comes a very important stage - onboarding. This is the time you teach and pass to the person culture, traditions, processes, everything. How do I do it? In 6 simple steps.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1. Intro&lt;/strong&gt;. First I like to give an introduction to a new person same day he starts - usual stuff: org structure, who is who, how we are used to work, set some ground rules.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. Learn the product&lt;/strong&gt;. The main assignment for the first two weeks - to learn a product. We arrange extensive trainings for each product of ours for person to know very well what he will be building.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Learn the client&lt;/strong&gt;. Trainings are followed by two weeks internship in client support, working as a client support specialist, getting to know the clients and how our product solves their problems and serves their needs.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4. Learn the team&lt;/strong&gt;. From the very first day person starts working in a team, participating in stand-ups and other meetings team has. I think it is very important for a new team member to start taking tasks from team’s task board (if there are any that fit him) or join a colleague for the pair programming as early as possible.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5. Fast feedback&lt;/strong&gt;. You don’t want to get a feedback too late. That’s why I schedule recurrent meeting to sync with a new person every 2/3 weeks. This is the time I provide a feedback to a new team member (which I gather from the team in advance) and ask some questions to get to know are we on the right track here.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;How do you evaluate your start at the company?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;How do you like the product? Team? Code base? Process? Atmosphere?  Culture?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;How do you feel?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Have you expectations been met? &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Would you like to change something? What? How? Why haven’t you changed it already? What stops you?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;6. Probationary end.&lt;/strong&gt; This is the final stage of the “intensive care” period and here I let the team to decide whether to keep a person in the team or not. You can find more on how do i do it in my previous post &lt;a href=&quot;/know-how/let-team-decide-hire-or-fire.html&quot;&gt;Let team decide: hire or fire&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;How would you like your first months in a company to be?  Or how do you do onboarding?&lt;/p&gt;
-</description>
-        <pubDate>Fri, 07 Feb 2014 00:00:00 -0800</pubDate>
-        <link>http://jelenabarinova.github.io/BeBetterLeader/know-how/youre-hired.html</link>
-        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/know-how/youre-hired.html</guid>
-        
-        
-        <category>know-how</category>
-        
-      </item>
-    
-      <item>
-        <title>A mind of its own</title>
-        <description>&lt;p&gt;Here is another interesting and worth spending time on book I’ve recently read - “A mind of its own” by Cordelia Fine. &lt;a href=&quot;/img/post_img/mind_of_its_own.png&quot;&gt;&lt;img src=&quot;/img/post_img/mind_of_its_own.png&quot; alt=&quot;mind_of_its_own&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;My take-away out of it: our brain is “multi-dimensional” and knowing these “dimensions” could help you better understand why did you do or say something, or why did you wanted to say or do it, or why did you feel that particular way in various specific situations.&lt;/p&gt;
-
-&lt;p&gt;So here are these “dimensions”:&lt;/p&gt;
+&lt;p&gt; First, there are 3 approaches I follow:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;em&gt;Vain brain&lt;/em&gt; - we all have small positive illusions that make us feel special, disturbing the thought that in truths we are not of more significance in the universe.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Emotional brain&lt;/em&gt; - usually we have no particular information why we are feeling emotionally strived, feelings triggered by one event can be wrongly used while judging other matters.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Immoral brain&lt;/em&gt; - it just not serve our psychological need to feel that the life is fair and secure, it also assists in maintaining all-important sense of moral superiority.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Deluded brain&lt;/em&gt; - even people with healthy brain think irrationally and unscientifically in particular situations.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Pigheaded brain&lt;/em&gt; - we are tend to stick to our important beliefs even if they are not true anymore, we think we know it all.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Secretive brain&lt;/em&gt; - actually our unconscious is faster than we, smarter than we and more powerful than we, it may even control us.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Weak-willed brain&lt;/em&gt; - there are many reasons for will to fail us, that’s why we need to develop good habits to enhance a willpower.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Bigoted brain&lt;/em&gt; - though one might come to treat others fairly and justly despite of any stereotypes in some situations, we still need to work hard on controlling unconscious effects of stereotyping.&lt;/li&gt;
+  &lt;li&gt;Every challenge, incident or problem you face - helps you grow, it’s a level-up for you&lt;/li&gt;
+  &lt;li&gt;Worrying never helps. Action does.&lt;/li&gt;
+  &lt;li&gt;You may choose one of two: either being a part of a problem, or a part of a solution. I choose - solution.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;The book is full of examples and results of different researches to support each of these 8 “brains”.&lt;/p&gt;
+&lt;p&gt;So having this in mind all the time - helps to move on to mechanical part of problem solving very fast. In presentation I cover what steps do I usually take and what tools and techniques I use.&lt;/p&gt;
 
-&lt;p&gt;I say it’s a good read for everyone who spends at least a little time in self-analysis.&lt;/p&gt;
+&lt;p&gt;Here are the slides:&lt;/p&gt;
+&lt;dl&gt;
+&lt;iframe style=&quot;border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;&quot; src=&quot;//www.slideshare.net/slideshow/embed_code/38401264&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt; &lt;/iframe&gt;
+&lt;/dl&gt;
 </description>
-        <pubDate>Fri, 24 Jan 2014 00:00:00 -0800</pubDate>
-        <link>http://jelenabarinova.github.io/BeBetterLeader/books/a-mind-of-its-own.html</link>
-        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/books/a-mind-of-its-own.html</guid>
+        <pubDate>Tue, 09 Sep 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/BeBetterLeader/presentations/keep-calm-and-meet-challengies.html</link>
+        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/presentations/keep-calm-and-meet-challengies.html</guid>
         
         
-        <category>books</category>
-        
-      </item>
-    
-      <item>
-        <title>Walking meetings are just great!</title>
-        <description>&lt;p&gt;Some time ago I wrote a short &lt;a href=&quot;/know-how/walking-and-talking.html&quot;&gt;Walking meetings&lt;/a&gt; post about my intention to conduct mid-year evaluation meetings with colleagues outside the office while walking. So here are some insights how it went.&lt;/p&gt;
-
-&lt;p&gt;In short: I loved it.&lt;/p&gt;
-
-&lt;p&gt;In details: I scheduled these meetings in advance (as always) with some guided questions to gather up the ideas for talk, noticing everyone that we would be outside. Each meeting went by the same schema: we grab a coffee and went to a quiet place - by the river mostly. Everything else as in usual 1:1 - small talk, questions, answers, overview of what happened, plans for future, mutual feedback, etc. In comparison to traditional evaluation meetings, these were more relaxed, easy going, we discussed more things than usual.&lt;/p&gt;
-
-&lt;p&gt;It is definitely not for every possible meeting. When you take notes, or show some data, or there are more than 3 attendees - you need something else. But if you are just talking, asking/answering questions - go out! Just remember to check the weather and find not very busy place for a walk.&lt;/p&gt;
-
-&lt;p&gt;PS: in total I went 25 km this time!&lt;/p&gt;
-</description>
-        <pubDate>Thu, 29 Aug 2013 00:00:00 -0700</pubDate>
-        <link>http://jelenabarinova.github.io/BeBetterLeader/know-how/walking-meetings-are-just-great.html</link>
-        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/know-how/walking-meetings-are-just-great.html</guid>
-        
-        
-        <category>know-how</category>
-        
-      </item>
-    
-      <item>
-        <title>Games to play during workshops and training</title>
-        <description>&lt;p&gt;Here is the list of exercises and games you can try playing with a small group of people during workshops, training or team buildings.&lt;/p&gt;
-
-&lt;h3 id=&quot;games&quot;&gt;Games&lt;/h3&gt;
-
-&lt;p&gt;These games take from 1 to 4 hours. All are good to learn different Agile methods in practice.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Make teams. In a team: one designer, one messenger, others are artists. Designer sees the requirements - picture and explains to artists via messenger in written form, no verbal communication. Artists draw the picture according to description they got from messenger. Do a couple of messages. Do review. Do retro. Repeat with improvements.
-&lt;em&gt;Good for&lt;/em&gt;: learn Agile, teamwork, communication, break the “rules”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Make teams. In a team: product owner, scrum master, others workers. Objective: create a travel agency brochure or a plain, or any other product. Work according Scrum, make at least 3 sprints, or play until the product is fully created.
-&lt;em&gt;Good for&lt;/em&gt;: learn Scrum, teamwork, improvements&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Make Lego houses using kanban in teams. Here are detailed &lt;a href=&quot;/workshops/lego-game-for-kanban-workshop.html&quot;&gt;instructions&lt;/a&gt; how to run it.
-&lt;em&gt;Good for&lt;/em&gt;: learn kanban, teamwork&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;dynamic-physical-exercises&quot;&gt;Dynamic physical exercises&lt;/h3&gt;
-
-&lt;p&gt;Very short up to 10 minutes. Very good between sessions, to stretch out bit and to move.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Select 2 persons from a group and try to position yourself between them.
-&lt;em&gt;Good for&lt;/em&gt;: dynamic, move&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Select a person from the group and try to get behind him.
-&lt;em&gt;Good for&lt;/em&gt;: dynamic, move, feel the constant change&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;team-building&quot;&gt;Team building&lt;/h3&gt;
-
-&lt;p&gt;Medium long exercises up to 1 hour, very good in teams for team building, knowing each other better.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Every one stands in a circle. No one is allowed to talk more than saying a number. The objective: count from 1 up to 15 (this number may differ according to participants). Each can say one number at a time. If sequence is broken - start all over again from 1.
-&lt;em&gt;Good for&lt;/em&gt;: nonverbal communication, teamwork&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;On pieces of paper write each participants name (each name on different piece). Pass paper around. Everyone writes down what does he appreciate about person named on this piece of paper.
-&lt;em&gt;Good for&lt;/em&gt;: feedback, team building, positive emotions&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Describe the picture. Show a picture to one of the group. Invite another participant, the first guy has to tell what has he seen on a picture. Then first guys goes away, third comes. Second guy tells what he has heard. This way information is being passed through everyone in a group. Show picture to everyone at the end. It’s cool to take a video, and then analyze it together and see what phrases make what changes.
-&lt;em&gt;Good for&lt;/em&gt;: verbal communication, team building&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Everyone writes down two things about himself: true and lie. One reads all things loud - everyone guesses who is this about.
-&lt;em&gt;Good for&lt;/em&gt;: team building, knowing each other better&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Do you know any other games to play in a team?&lt;/p&gt;
-</description>
-        <pubDate>Sun, 25 Aug 2013 00:00:00 -0700</pubDate>
-        <link>http://jelenabarinova.github.io/BeBetterLeader/workshops/games-to-play-during-workshops-and-training.html</link>
-        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/workshops/games-to-play-during-workshops-and-training.html</guid>
-        
-        
-        <category>workshops</category>
+        <category>presentations</category>
         
       </item>
     

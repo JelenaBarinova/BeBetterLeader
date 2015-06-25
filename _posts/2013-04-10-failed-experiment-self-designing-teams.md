@@ -11,19 +11,19 @@ categories:
 
 Today while browsing through tweets I stumbled upon very interesting reading [How to Form Teams in Large-Scale Scrum? A Story of Self-Designing Teams](http://scrumalliance.org/articles/514-how-to-form-teams-in-largescale-scrum-a-story-of-selfdesigning-teams). I wish I read it a couple of months ago, before trying self-designing in my teams.
 
-### Idea
+## Idea
 
-![Dexter's laboratory]({{ site.baseurl }}/img/post_img/dexters_laboratory.png) _From www.vectorjunky.com_
+<img src="{{ site.baseurl }}/img/post_img/dexters_laboratory.png" alt="dexters laboratory" class="left" />
 
 Last year in November a need for a new product team in my department emerged. It was almost impossible to hire developers for whole new team quickly: I select people carefully, everything must be perfect (technical skills, cultural fit, chemistry, etc.), everyone who is interviewing candidate should say Yes! Moreover to tell the truth, the pool of highly skilled candidates was not very big back then. So the only way to speedup new product's development was to reorganize my department and make 3 teams out of 2 (and make one team fully dedicated to new product).
 
 And guess what? I decided to let guys select by themselves what team do they want to work in.
 
-### Setup
+## Setup
 
 I took some time preparing for self-designing session. First I consulted with my manager, together we thought about various scenarios and risks we might face. We talked over possible reaction and results. Then together with Product Owners we defined what these three teams would be responsible for. I asked guys to prepare short presentations about their products' upcoming features and challenges. I even made a personal survey asking my friends-developers outside work how would they feel if one day their manager came and asked to form teams by themselves. I got all positive feedback and support from everyone I talked about this experiment.
 
-### How it went
+## How it went
 
 Everything started as in Craig's and Ahmad's article. I invited all participants in one room for 2 and a half hours. Overall  there were 17 attendees: 12 team members, 3 Product Owners, my manager and myself.
 
@@ -37,7 +37,7 @@ Somehow guys took this experiment exactly the opposite way I expected. They seem
 
 We ended up the session by declaring the decision made by team members: two teams, same compositions, slightly different ownership of products.
 
-### What was wrong
+## What was wrong
 
 The first and in my opinion the strongest mistake - I left guys to form teams without any facilitator. Now as I read this article I see how it is important to have someone to run the session, to guide and coach. I think if there were facilitator it wouldn't end up after the first cycle.
 

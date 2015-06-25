@@ -6,6 +6,7 @@ body {
 p {
   line-height: 1.5;
   margin: 30px 0;
+  text-align: justify;
 }
 p a {
   text-decoration: underline;
@@ -38,7 +39,7 @@ hr.small {
   max-width: 100px;
   margin: 15px auto;
   border-width: 4px;
-  border-color: white;
+  border-color: #E8E8E8;
 }
 .navbar-custom {
   background: white;
@@ -64,7 +65,7 @@ hr.small {
     border-bottom: 1px solid transparent;
   }
   .navbar-custom .navbar-brand {
-    color: white;
+    color: #E8E8E8;
     padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
@@ -72,7 +73,7 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: white;
+    color: #E8E8E8;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
@@ -141,7 +142,7 @@ hr.small {
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 100px 0 50px;
-  color: white;
+  color: #E8E8E8;
   text-align: center;
 }
 @media only screen and (min-width: 768px) {
@@ -166,7 +167,7 @@ hr.small {
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 200;
   margin: 10px 0 0;
 }
 @media only screen and (min-width: 768px) {
@@ -187,23 +188,23 @@ hr.small {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 24px;
   margin: 10px 0 30px;
-  font-weight: 600;
+  font-weight: 500;
 }
 .intro-header .post-heading .meta {
   font-family: 'Lora', 'Times New Roman', serif;
   font-style: italic;
-  font-weight: 300;
-  font-size: 20px;
+  font-weight: 150;
+  font-size: 18px;
 }
 .intro-header .post-heading .meta a {
-  color: white;
+  color: #E8E8E8;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
     font-size: 55px;
   }
   .intro-header .post-heading .subheading {
-    font-size: 30px;
+    font-size: 20px;
   }
 }
 .post-preview > a {
@@ -395,4 +396,12 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #26acf5;
+}
+.left {
+  float: left; 
+  margin-right: 10px;
+}
+.right {
+  float: right; 
+  margin-left: 10px;
 }

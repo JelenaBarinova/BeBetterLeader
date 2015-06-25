@@ -11,7 +11,7 @@ categories:
 
 Here is the list of exercises and games you can try playing with a small group of people during workshops, training or team buildings.
 
-### Games
+## Games
 
 These games take from 1 to 4 hours. All are good to learn different Agile methods in practice.
 
@@ -24,7 +24,7 @@ _Good for_: learn Scrum, teamwork, improvements
 3.  Make Lego houses using kanban in teams. Here are detailed [instructions]({% post_url 2013-03-24-lego-game-for-kanban-workshop %}) how to run it.
 _Good for_: learn kanban, teamwork
 
-### Dynamic physical exercises
+## Dynamic physical exercises
 
 Very short up to 10 minutes. Very good between sessions, to stretch out bit and to move.
 
@@ -34,7 +34,7 @@ _Good for_: dynamic, move
 2.  Select a person from the group and try to get behind him.
 _Good for_: dynamic, move, feel the constant change
 
-### Team building
+## Team building
 
 Medium long exercises up to 1 hour, very good in teams for team building, knowing each other better.
 

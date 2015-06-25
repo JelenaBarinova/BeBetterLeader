@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_dark
 ---
 
 <!-- Post Header -->
@@ -8,11 +8,11 @@ layout: default
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
-                    <h1>{{ page.title }}</h1>
+                    <h1 style="color: #E8E8E8">{{ page.title }}</h1>
                     {% if page.subtitle %}
-                    <h2 class="subheading">{{ page.subtitle }}</h2>
+                    <span class="subheading" style="color: #E8E8E8; font-weight:600">{{ page.subtitle }}</span>
                     {% endif %}
-                    <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                    <span class="meta" style="color: #E8E8E8">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
                 </div>
             </div>
         </div>

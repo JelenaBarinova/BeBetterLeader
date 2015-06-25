@@ -9,7 +9,8 @@ categories:
   - Books
 ---
 
-Here is another interesting and worth spending time on book I've recently read - "A mind of its own" by Cordelia Fine. [![mind_of_its_own]({{ site.baseurl }}/img/post_img/mind_of_its_own.png)]({{ site.baseurl }}/img/post_img/mind_of_its_own.png)
+Here is another interesting and worth spending time on book I've recently read - "A mind of its own" by Cordelia Fine. 
+<img src="{{ site.baseurl }}/img/post_img/mind_of_its_own.png" alt="A mind of its own" class="right" />
 
 My take-away out of it: our brain is "multi-dimensional" and knowing these "dimensions" could help you better understand why did you do or say something, or why did you wanted to say or do it, or why did you feel that particular way in various specific situations.
 

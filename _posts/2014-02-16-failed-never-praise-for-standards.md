@@ -11,7 +11,7 @@ categories:
 
 It's very hard to share failures. Half a year has passed and I still feel some embracement and discomfort. But I want to make a note, especially for myself after some years to remember and not to repeat this.
 
-![chocolates]({{ site.baseurl }}/img/post_img/chocolates.jpg) 
+<img src="{{ site.baseurl }}/img/post_img/chocolates.jpg" alt="chocolates" class="left" />
 
 One evening I was just browsing our GIT repository. Looking through commits, wikis, etc. Pulled one solution, tried to build it - failed. Pulled the second one (other team's) - tried to build - failed again. And only the third one succeeded: I got all referred libraries downloaded, all need configurations done while building - no errors, very little warnings, everything built and ready to run. Taking into account a couple of failures that happened before - I was absolutely happy with the team, that they were keeping their solutions in good health. So I decided to praise this team. I got a big box of chocolates and went to stand-up meeting all happy next morning.
 
