@@ -12,7 +12,7 @@ This is a journal of a summer camp I have with my team in Mallorca. Please read 
 
 ## Day 7 - Back to work | Cactus garden | BBQ party
 
-<img src="{{ site.baseurl }}/img/post_img/Task-board.jpg" alt="task board" class="left" />
+<img src="{{ site.baseurl }}/img/post_img/task-board.jpg" alt="task board" class="left" />
 Today realized that my shiny new HP Folio notebook has pour network adapter. Everyone around has got internet, meanwhile I have to use internet on a phone or share data roaming from my Nokia to pc. There was internet even on my Kindle, but not on my notebook. Angry. Work wise "ordinary" day - guys were coding quietly, our product owner  and me were having a couple of skype calls, wrote several emails.
 
 During the lunch this time we had a swim in our pool, that was nice :) and very convenient for a short break. For dinner Today we had BBQ - beautiful.
