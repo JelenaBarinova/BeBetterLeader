@@ -4,8 +4,8 @@ header-img: img/home-bg.jpg
 email: jelena.barinovas@gmail.com
 description: "Practical notes on leadership improvements"
 #everything accept post_url works
-#baseurl: /BeBetterLeader
-url: "http://jelenabarinova.github.io/BeBetterLeader"
+baseurl: /BeBetterLeader
+url: "http://jelenabarinova.github.io"
 #url: "http://localhost:4000/BeBetterLeader"
 #baseurl: /BeBetterLeader
 github: 
