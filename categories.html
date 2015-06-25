@@ -10,7 +10,7 @@ header-img: "img/categories-bg.jpg"
   <lu>
   {% assign sorted_posts = category[1] | sort: 'date' %}
   {% for post in sorted_posts %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><em>, {{ post.date | date: "%B %-d, %Y" }}</em></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><em>, {{ post.date | date: "%B %-d, %Y" }}</em></li>
   {% endfor %}
   </lu>
 {% endfor %}
