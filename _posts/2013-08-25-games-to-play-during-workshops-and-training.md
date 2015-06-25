@@ -21,7 +21,7 @@ _Good for_: learn Agile, teamwork, communication, break the "rules"
 2.  Make teams. In a team: product owner, scrum master, others workers. Objective: create a travel agency brochure or a plain, or any other product. Work according Scrum, make at least 3 sprints, or play until the product is fully created.
 _Good for_: learn Scrum, teamwork, improvements
 
-3.  Make Lego houses using kanban in teams. Here are detailed [instructions]({% post_url 2013-03-24-lego-game-for-kanban-workshop %}) how to run it.
+3.  Make Lego houses using kanban in teams. Here are detailed [instructions]({{site.baseurl}}{% post_url 2013-03-24-lego-game-for-kanban-workshop %}) how to run it.
 _Good for_: learn kanban, teamwork
 
 ## Dynamic physical exercises

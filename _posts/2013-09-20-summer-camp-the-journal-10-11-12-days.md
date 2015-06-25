@@ -8,7 +8,7 @@ categories:
   - Experiments
 ---
 
-This is a journal of a summer camp I am having with my team in Mallorca.  Please read previous posts if you just joined this blog: [Idea and reasoning]({% post_url 2013-08-18-summer-camp-idea-and-reasoning %}), [Setting the stage]({% post_url 2013-08-30-summer-camp-setting-the-stage %}), [Off to Mallorca]({% post_url 2013-09-10-summer-camp-off-to-mallorca %}), [1, 2 and 3 days Journal]({% post_url 2013-09-12-summer-camp-the-journal-1-2-3-days %}), [4, 5, 6 days Journal]({% post_url 2013-09-16-summer-camp-the-journal-4-5-6-days %}) and [7, 8, 9 days Journal]({% post_url 2013-09-18-summer-camp-the-journal-7-8-9-days %}).
+This is a journal of a summer camp I am having with my team in Mallorca.  Please read previous posts if you just joined this blog: [Idea and reasoning]({{site.baseurl}}{% post_url 2013-08-18-summer-camp-idea-and-reasoning %}), [Setting the stage]({{site.baseurl}}{% post_url 2013-08-30-summer-camp-setting-the-stage %}), [Off to Mallorca]({{site.baseurl}}{% post_url 2013-09-10-summer-camp-off-to-mallorca %}), [1, 2 and 3 days Journal]({{site.baseurl}}{% post_url 2013-09-12-summer-camp-the-journal-1-2-3-days %}), [4, 5, 6 days Journal]({{site.baseurl}}{% post_url 2013-09-16-summer-camp-the-journal-4-5-6-days %}) and [7, 8, 9 days Journal]({{site.baseurl}}{% post_url 2013-09-18-summer-camp-the-journal-7-8-9-days %}).
 
 ## Day 10 - Crepes | Work | Basketball
 
@@ -40,4 +40,4 @@ Long story making short - I can say I liked this summer camp a lot. Though it wa
 
 More to read in these series:
 
-*   [Results]({% post_url 2013-09-30-summer-camp-results-2x-performance-but-feels-like-on-vacations %})
+*   [Results]({{site.baseurl}}{% post_url 2013-09-30-summer-camp-results-2x-performance-but-feels-like-on-vacations %})

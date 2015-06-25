@@ -8,7 +8,7 @@ categories:
   - Know-how
 ---
 
-We are planning another off-site day with my teams this Friday. We did similar one last year [Retro of last year and target grooming]({% post_url 2013-03-17-annual-result-review-and-targets-grooming %}). This time it will be a bit different. The main idea is to change the place and think about work we do from different perspective - take a fresh look. I think it's good in both ways: as a teambuilding activity and as an effective brainstorming of the product team works on.
+We are planning another off-site day with my teams this Friday. We did similar one last year [Retro of last year and target grooming]({{site.baseurl}}{% post_url 2013-03-17-annual-result-review-and-targets-grooming %}). This time it will be a bit different. The main idea is to change the place and think about work we do from different perspective - take a fresh look. I think it's good in both ways: as a teambuilding activity and as an effective brainstorming of the product team works on.
 
 ![tonyresort-trakai]({{ site.baseurl }}/img/post_img/tonyresort-trakai.jpg)
 

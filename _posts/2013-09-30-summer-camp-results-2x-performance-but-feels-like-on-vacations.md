@@ -8,7 +8,7 @@ categories:
   - Experiments
 ---
 <img src="{{ site.baseurl }}/img/post_img/1-coding-in-a-train-to-airport.jpg" alt="coding on a train" class="right" />
-You've probably followed my journal about summer camp (if not - [here it is]({% post_url 2013-08-18-summer-camp-idea-and-reasoning %})) and noticed that there were not much about work, but more about fun. That was the idea of a journal - to find something special in every day. I bet it wouldn't had so many visitors if I were pointing out only work part. 
+You've probably followed my journal about summer camp (if not - [here it is]({{site.baseurl}}{% post_url 2013-08-18-summer-camp-idea-and-reasoning %})) and noticed that there were not much about work, but more about fun. That was the idea of a journal - to find something special in every day. I bet it wouldn't had so many visitors if I were pointing out only work part. 
 
 Imagine how it would look like: day 1 - we were coding, day 2- still we were coding, day 3 - we were coding again and so on. Not so engaging as croissants, wine tasting tour or basketball championship (by the way - hurray!! We won silver!).
 

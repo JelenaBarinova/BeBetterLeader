@@ -8,7 +8,7 @@ categories:
   - Experiments
 ---
 
-This is a second post of a "Summer camp" series. In the [first post]({% post_url 2013-08-18-summer-camp-idea-and-reasoning %}) I've wrote about initial idea and the main reasoning. Here is a detailed preparation overview.
+This is a second post of a "Summer camp" series. In the [first post]({{site.baseurl}}{% post_url 2013-08-18-summer-camp-idea-and-reasoning %}) I've wrote about initial idea and the main reasoning. Here is a detailed preparation overview.
 
 ## Poll and approvals
 
@@ -44,9 +44,9 @@ Now we are working with product owner on defining our mission - what will we cre
 
 More to read in these series:
 
-*   [Off to Mallorca]({% post_url 2013-09-10-summer-camp-off-to-mallorca %})
-*   [1, 2, 3 days Journal]({% post_url 2013-09-12-summer-camp-the-journal-1-2-3-days %})
-*   [4, 5, 6 days Journal]({% post_url 2013-09-16-summer-camp-the-journal-4-5-6-days %})
-*   [7, 8, 9 days Journal]({% post_url 2013-09-18-summer-camp-the-journal-7-8-9-days %})
-*   [10, 11, 12 days Journal]({% post_url 2013-09-20-summer-camp-the-journal-10-11-12-days %})
-*   [Results]({% post_url 2013-09-30-summer-camp-results-2x-performance-but-feels-like-on-vacations %})
+*   [Off to Mallorca]({{site.baseurl}}{% post_url 2013-09-10-summer-camp-off-to-mallorca %})
+*   [1, 2, 3 days Journal]({{site.baseurl}}{% post_url 2013-09-12-summer-camp-the-journal-1-2-3-days %})
+*   [4, 5, 6 days Journal]({{site.baseurl}}{% post_url 2013-09-16-summer-camp-the-journal-4-5-6-days %})
+*   [7, 8, 9 days Journal]({{site.baseurl}}{% post_url 2013-09-18-summer-camp-the-journal-7-8-9-days %})
+*   [10, 11, 12 days Journal]({{site.baseurl}}{% post_url 2013-09-20-summer-camp-the-journal-10-11-12-days %})
+*   [Results]({{site.baseurl}}{% post_url 2013-09-30-summer-camp-results-2x-performance-but-feels-like-on-vacations %})

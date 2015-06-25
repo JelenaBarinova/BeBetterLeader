@@ -35,10 +35,10 @@ P.S.: Have you tried something similar? How it went?
 
 More to read in these series:
 
-*   [Setting the stage]({% post_url 2013-08-30-summer-camp-setting-the-stage %})
-*   [Off to Mallorca]({% post_url 2013-09-10-summer-camp-off-to-mallorca %})
-*   [1, 2, 3 days Journal]({% post_url 2013-09-12-summer-camp-the-journal-1-2-3-days %})
-*   [4, 5, 6 days Journal]({% post_url 2013-09-16-summer-camp-the-journal-4-5-6-days %})
-*   [7, 8, 9 days Journal]({% post_url 2013-09-18-summer-camp-the-journal-7-8-9-days %})
-*   [10, 11, 12 days Journal]({% post_url 2013-09-20-summer-camp-the-journal-10-11-12-days %})
-*   [Results]({% post_url 2013-09-30-summer-camp-results-2x-performance-but-feels-like-on-vacations %})
+*   [Setting the stage]({{site.baseurl}}{% post_url 2013-08-30-summer-camp-setting-the-stage %})
+*   [Off to Mallorca]({{site.baseurl}}{% post_url 2013-09-10-summer-camp-off-to-mallorca %})
+*   [1, 2, 3 days Journal]({{site.baseurl}}{% post_url 2013-09-12-summer-camp-the-journal-1-2-3-days %})
+*   [4, 5, 6 days Journal]({{site.baseurl}}{% post_url 2013-09-16-summer-camp-the-journal-4-5-6-days %})
+*   [7, 8, 9 days Journal]({{site.baseurl}}{% post_url 2013-09-18-summer-camp-the-journal-7-8-9-days %})
+*   [10, 11, 12 days Journal]({{site.baseurl}}{% post_url 2013-09-20-summer-camp-the-journal-10-11-12-days %})
+*   [Results]({{site.baseurl}}{% post_url 2013-09-30-summer-camp-results-2x-performance-but-feels-like-on-vacations %})

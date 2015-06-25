@@ -9,7 +9,7 @@ categories:
   - Know-how
 ---
 
-Some time ago I wrote a short [Walking meetings]({% post_url 2013-08-12-walking-and-talking %}) post about my intention to conduct mid-year evaluation meetings with colleagues outside the office while walking. So here are some insights how it went.
+Some time ago I wrote a short [Walking meetings]({{site.baseurl}}{% post_url 2013-08-12-walking-and-talking %}) post about my intention to conduct mid-year evaluation meetings with colleagues outside the office while walking. So here are some insights how it went.
 
 In short: I loved it.
 

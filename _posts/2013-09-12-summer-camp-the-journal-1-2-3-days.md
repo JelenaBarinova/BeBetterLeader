@@ -9,7 +9,7 @@ categories:
 ---
 
 <img src="{{ site.baseurl }}/img/post_img/task-board.jpg" alt="task board" class="right" />
-This is a journal of a summer camp I have with my team in Mallorca. Please read previous posts for more information if you just joined this blog: [Idea and reasoning]({% post_url 2013-08-18-summer-camp-idea-and-reasoning %}), [Setting the stage]({% post_url 2013-08-30-summer-camp-setting-the-stage %}), [Off to Mallorca]({% post_url 2013-09-10-summer-camp-off-to-mallorca %}).
+This is a journal of a summer camp I have with my team in Mallorca. Please read previous posts for more information if you just joined this blog: [Idea and reasoning]({{site.baseurl}}{% post_url 2013-08-18-summer-camp-idea-and-reasoning %}), [Setting the stage]({{site.baseurl}}{% post_url 2013-08-30-summer-camp-setting-the-stage %}), [Off to Mallorca]({{site.baseurl}}{% post_url 2013-09-10-summer-camp-off-to-mallorca %}).
 
 ## Day 1 - Smooth | Long trip | No internet
 
@@ -27,7 +27,7 @@ Beautiful morning. I like waking up early when others are still asleep, kind a m
 
 More to read in these series:
 
-*   [4, 5, 6 days Journal]({% post_url 2013-09-16-summer-camp-the-journal-4-5-6-days %})
-*   [7, 8, 9 days Journal]({% post_url 2013-09-18-summer-camp-the-journal-7-8-9-days %})
-*   [10, 11, 12 days Journal]({% post_url 2013-09-20-summer-camp-the-journal-10-11-12-days %})
-*   [Results]({% post_url 2013-09-30-summer-camp-results-2x-performance-but-feels-like-on-vacations %})
+*   [4, 5, 6 days Journal]({{site.baseurl}}{% post_url 2013-09-16-summer-camp-the-journal-4-5-6-days %})
+*   [7, 8, 9 days Journal]({{site.baseurl}}{% post_url 2013-09-18-summer-camp-the-journal-7-8-9-days %})
+*   [10, 11, 12 days Journal]({{site.baseurl}}{% post_url 2013-09-20-summer-camp-the-journal-10-11-12-days %})
+*   [Results]({{site.baseurl}}{% post_url 2013-09-30-summer-camp-results-2x-performance-but-feels-like-on-vacations %})

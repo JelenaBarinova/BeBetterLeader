@@ -8,7 +8,7 @@ categories:
   - Know-how
 ---
 
-Some time ago I've shared with you my [experiment]({% post_url 2014-04-22-off-site-with-teams %}) of gathering all my teams together and having a fresh look at products we build. So this is a second try. Different time, different place, but the goal stays the same: share ideas, educate each other, team-building.
+Some time ago I've shared with you my [experiment]({{site.baseurl}}{% post_url 2014-04-22-off-site-with-teams %}) of gathering all my teams together and having a fresh look at products we build. So this is a second try. Different time, different place, but the goal stays the same: share ideas, educate each other, team-building.
 
 ![margiokrantas]({{ site.baseurl }}/img/post_img/margiokrantas.jpg)
 

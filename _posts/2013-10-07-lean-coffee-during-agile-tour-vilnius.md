@@ -18,4 +18,4 @@ For those who is not familiar with "Lean coffee" - some links:
 
 *   [What is it?](http://leancoffee.org/) from  Lean coffee pioneers
 *   Short explanatory  [video](http://www.youtube.com/watch?v=zhG-A-kRPAU)
-*   [My experiment]({% post_url 2013-08-04-lean-coffee-first-try %}) in a blog post
+*   [My experiment]({{site.baseurl}}{% post_url 2013-08-04-lean-coffee-first-try %}) in a blog post

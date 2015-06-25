@@ -3,27 +3,11 @@
   <channel>
     <title>Be a Better Leader</title>
     <description>Practical notes on leadership improvements</description>
-    <link>http://localhost:4000/BeBetterLeader/BeBetterLeader/</link>
-    <atom:link href="http://localhost:4000/BeBetterLeader/BeBetterLeader/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 25 Jun 2015 14:12:28 -0700</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2015 14:12:28 -0700</lastBuildDate>
+    <link>http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/</link>
+    <atom:link href="http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 25 Jun 2015 14:22:44 -0700</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2015 14:22:44 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
-    
-      <item>
-        <title>Test</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/experiments/summer-camp-the-journal-10-11-12-days.html&quot;&gt;TEST&lt;/a&gt;
-&lt;a href=&quot;/BeBetterLeader/experiments/summer-camp-the-journal-10-11-12-days.html&quot;&gt;Link to page&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;what does pos_url give: &lt;a href=&quot;/BeBetterLeader/experiments/summer-camp-the-journal-10-11-12-days.html&quot;&gt;/BeBetterLeader/experiments/summer-camp-the-journal-10-11-12-days.html&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 27 Jun 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/BeBetterLeader/BeBetterLeader/experiments/test.html</link>
-        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/BeBetterLeader/experiments/test.html</guid>
-        
-        
-        <category>experiments</category>
-        
-      </item>
     
       <item>
         <title>Quiet</title>
@@ -60,8 +44,8 @@
 &lt;p&gt;P.S.: By the middle of the book I’ve started thinking that I am more introvert than extrovert, though always thought opposite :)&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Apr 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/BeBetterLeader/BeBetterLeader/books/quiet.html</link>
-        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/BeBetterLeader/books/quiet.html</guid>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/books/quiet.html</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/books/quiet.html</guid>
         
         
         <category>books</category>
@@ -118,8 +102,8 @@
 &lt;p&gt;Although I am happy with my unemployment days, I’d rather found a job sooner to fill my 16 hours of personal time with actual work.&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Feb 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/BeBetterLeader/BeBetterLeader/know-how/here-is-how-i-spend-my-weekdays-as-unemployed.html</link>
-        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/BeBetterLeader/know-how/here-is-how-i-spend-my-weekdays-as-unemployed.html</guid>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/know-how/here-is-how-i-spend-my-weekdays-as-unemployed.html</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/know-how/here-is-how-i-spend-my-weekdays-as-unemployed.html</guid>
         
         
         <category>know-how</category>
@@ -139,9 +123,9 @@
 &lt;p&gt;Top 3 posts:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;/workshops/games-to-play-during-workshops-and-training.html&quot;&gt;Games to play during workshops and training&lt;/a&gt; (1958 page views)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/workshops/lego-game-for-kanban-workshop.html&quot;&gt;Lego game for Kanban workshop&lt;/a&gt; (409 page views)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/know-how/11.html&quot;&gt;1:1&lt;/a&gt; (316 page views)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/BeBetterLeader/workshops/games-to-play-during-workshops-and-training.html&quot;&gt;Games to play during workshops and training&lt;/a&gt; (1958 page views)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/BeBetterLeader/workshops/lego-game-for-kanban-workshop.html&quot;&gt;Lego game for Kanban workshop&lt;/a&gt; (409 page views)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/BeBetterLeader/know-how/11.html&quot;&gt;1:1&lt;/a&gt; (316 page views)&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&quot;travel&quot;&gt;Travel&lt;/h2&gt;
@@ -175,8 +159,8 @@
 &lt;p&gt;Thrilled and excited I’m looking forward for 2015 and all the challenges and opportunities it’ll bring.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Jan 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/BeBetterLeader/BeBetterLeader/know-how/late-retro-of-2014.html</link>
-        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/BeBetterLeader/know-how/late-retro-of-2014.html</guid>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/know-how/late-retro-of-2014.html</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/know-how/late-retro-of-2014.html</guid>
         
         
         <category>know-how</category>
@@ -204,8 +188,8 @@
 &lt;p&gt;&lt;em&gt;Thanks Mats! :)&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Dec 2014 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/BeBetterLeader/BeBetterLeader/improvements/everyone-needs-a-mentor.html</link>
-        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/BeBetterLeader/improvements/everyone-needs-a-mentor.html</guid>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/improvements/everyone-needs-a-mentor.html</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/improvements/everyone-needs-a-mentor.html</guid>
         
         
         <category>improvements</category>
@@ -236,8 +220,8 @@
 &lt;p&gt;As I already mentioned, this book doesn’t give you a deep and detailed explanation of topics, so I would highly recommend to listen to Niels presentation or webinar or attend a workshop. These together with the book will give you a much better ground for the change you want to implement.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Nov 2014 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/BeBetterLeader/BeBetterLeader/books/organize-for-comlexity.html</link>
-        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/BeBetterLeader/books/organize-for-comlexity.html</guid>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/books/organize-for-comlexity.html</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/books/organize-for-comlexity.html</guid>
         
         
         <category>books</category>
@@ -246,7 +230,7 @@
     
       <item>
         <title>Off-site with teams #2</title>
-        <description>&lt;p&gt;Some time ago I’ve shared with you my &lt;a href=&quot;/know-how/off-site-with-teams.html&quot;&gt;experiment&lt;/a&gt; of gathering all my teams together and having a fresh look at products we build. So this is a second try. Different time, different place, but the goal stays the same: share ideas, educate each other, team-building.&lt;/p&gt;
+        <description>&lt;p&gt;Some time ago I’ve shared with you my &lt;a href=&quot;/BeBetterLeader/know-how/off-site-with-teams.html&quot;&gt;experiment&lt;/a&gt; of gathering all my teams together and having a fresh look at products we build. So this is a second try. Different time, different place, but the goal stays the same: share ideas, educate each other, team-building.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/BeBetterLeader/img/post_img/margiokrantas.jpg&quot; alt=&quot;margiokrantas&quot; /&gt;&lt;/p&gt;
 
@@ -268,8 +252,8 @@
 &lt;p&gt;If you have tried such events - I encourage to try it :) it fun and useful.&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Nov 2014 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/BeBetterLeader/BeBetterLeader/know-how/off-site-with-teams-2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/BeBetterLeader/know-how/off-site-with-teams-2.html</guid>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/know-how/off-site-with-teams-2.html</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/know-how/off-site-with-teams-2.html</guid>
         
         
         <category>know-how</category>
@@ -332,8 +316,8 @@ We started with answering these two questions:&lt;/p&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 14 Oct 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/BeBetterLeader/BeBetterLeader/workshops/establishing-estimates.html</link>
-        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/BeBetterLeader/workshops/establishing-estimates.html</guid>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/workshops/establishing-estimates.html</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/workshops/establishing-estimates.html</guid>
         
         
         <category>workshops</category>
@@ -346,7 +330,7 @@ We started with answering these two questions:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/BeBetterLeader/img/post_img/performance-evaluations.png&quot; alt=&quot;performance evaluations&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Usually I do 1:1 (one-on-ones) twice a year with each of my team members. So how do I do it? Differently each time. Couple of years ago I’ve been using “Moving motivators” as Jurgen Appelo suggests in his Management 3.0 course (please find instructions &lt;a href=&quot;http://www.management30.com/wp-content/uploads/2012/09/04-Moving-Motivators-A4-v2.00.pdf%20&quot;&gt;here&lt;/a&gt;). Last time I did &lt;a href=&quot;/know-how/walking-meetings-are-just-great.html&quot;&gt;Walking meetings&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Usually I do 1:1 (one-on-ones) twice a year with each of my team members. So how do I do it? Differently each time. Couple of years ago I’ve been using “Moving motivators” as Jurgen Appelo suggests in his Management 3.0 course (please find instructions &lt;a href=&quot;http://www.management30.com/wp-content/uploads/2012/09/04-Moving-Motivators-A4-v2.00.pdf%20&quot;&gt;here&lt;/a&gt;). Last time I did &lt;a href=&quot;/BeBetterLeader/know-how/walking-meetings-are-just-great.html&quot;&gt;Walking meetings&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/BeBetterLeader/img/post_img/coffee.jpg&quot; alt=&quot;coffee&quot; class=&quot;right&quot; /&gt;
 This time we just took a coffee and went for a walk along the river. I prepare for each of these meetings: gather feedback (if needed), look through notes from previous talks, gather ideas what I want to pass and think about questions I want to get answers to. This time I asked these 5 questions:&lt;/p&gt;
@@ -360,8 +344,8 @@ This time we just took a coffee and went for a walk along the river. I prepare f
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 23 Sep 2014 01:00:59 -0700</pubDate>
-        <link>http://localhost:4000/BeBetterLeader/BeBetterLeader/know-how/11.html</link>
-        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/BeBetterLeader/know-how/11.html</guid>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/know-how/11.html</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/know-how/11.html</guid>
         
         
         <category>know-how</category>
@@ -388,11 +372,32 @@ This time we just took a coffee and went for a walk along the river. I prepare f
 &lt;/dl&gt;
 </description>
         <pubDate>Tue, 09 Sep 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/BeBetterLeader/BeBetterLeader/presentations/keep-calm-and-meet-challengies.html</link>
-        <guid isPermaLink="true">http://localhost:4000/BeBetterLeader/BeBetterLeader/presentations/keep-calm-and-meet-challengies.html</guid>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/presentations/keep-calm-and-meet-challengies.html</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/presentations/keep-calm-and-meet-challengies.html</guid>
         
         
         <category>presentations</category>
+        
+      </item>
+    
+      <item>
+        <title>Dear dev managers, how fast do your teams grow?</title>
+        <description>&lt;p&gt;Recently I’ve made some calculations to visualize the dynamics in my teams over the year.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/BeBetterLeader/img/post_img/employees.png&quot; alt=&quot;Growth graph&quot; title=&quot;Changing number of employees over the year&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve been surprised: from 11 to 31 members, from 2 to 5 teams. My question is how fast can we grow in order to satisfy client’s hunger for features, but still keep the comfort for teams and do not increase technical debt of the product.&lt;/p&gt;
+
+&lt;p&gt;With every new member we slow down, as well as we increase communication channels. It usually lead us to different misunderstandings and other things such as: everyone having their own style, opinion, vision, speed, quality level, etc. And that’s the price you pay for growing. Some more technical of these differences we can easily unify by introducing coding standards, testing procedures, development processes. But what about soft ones? I have my way of introducing new members to my team, you can find it in this &lt;a href=&quot;/BeBetterLeader/know-how/youre-hired.html&quot;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;What’s your speed of growing software development teams/departments?&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/know-how/dear-dev-managers-how-fast-do-your-teams-grow.html</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/BeBetterLeader/know-how/dear-dev-managers-how-fast-do-your-teams-grow.html</guid>
+        
+        
+        <category>know-how</category>
         
       </item>
     
