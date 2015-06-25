@@ -3,8 +3,9 @@ title: Be a Better Leader
 header-img: img/home-bg.jpg
 email: jelena.barinovas@gmail.com
 description: "Practical notes on leadership improvements"
-#url: "http://jelenabarinova.github.io/BeBetterLeader"
-url: "http://localhost:4000/BeBetterLeader"
+baseurl: /BeBetterLeader
+url: "http://jelenabarinova.github.io/BeBetterLeader"
+#url: "http://localhost:4000"
 github: 
 twitter_username: jfiodorova
 github_username:  JelenaBarinova
