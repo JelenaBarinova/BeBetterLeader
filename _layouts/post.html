@@ -1,11 +1,27 @@
 ---
 layout: default_dark
 ---
+<!-- Prepare first post's image source -->
+{% assign foundImage = 0 %}
+{% assign images = page.content | split:"<img " %}
+{% for image in images %}
+    {% if image contains 'src' %}
+        {% if foundImage == 0 %}
+            {% assign html = image | split:"/>" | first %}
+            {% assign src = html | split: '"' %}
+            {% assign img_src_tmp = src[1] | remove: ' ' | replace:'{', '' %}
+            {% assign img_src_tmp_2 = img_src_tmp | replace:'}', '' %}
+            {% assign img_src = img_src_tmp_2 | replace:'site.baseurl', site.baseurl | prepend: site.url %}
+            {% break %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
 <!-- Open graph tags -->
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-<meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.icon | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+<meta property="og:image" content="{% if img_src %}{{ img_src }}{% else %}{{ site.icon | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+
 <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:locale" content="{{ site.locale }}">
@@ -83,3 +99,5 @@ layout: default_dark
 </article>
 
 <hr>
+      
+  
