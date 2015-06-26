@@ -6,7 +6,7 @@ date: 2013-04-10
 author: Jelena Barinova
 id: 145
 categories:
-  - Know-how
+  - Experiments
 ---
 
 Today while browsing through tweets I stumbled upon very interesting reading [How to Form Teams in Large-Scale Scrum? A Story of Self-Designing Teams](http://scrumalliance.org/articles/514-how-to-form-teams-in-largescale-scrum-a-story-of-selfdesigning-teams). I wish I read it a couple of months ago, before trying self-designing in my teams.

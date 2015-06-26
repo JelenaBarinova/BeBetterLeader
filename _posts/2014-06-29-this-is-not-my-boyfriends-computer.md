@@ -6,7 +6,7 @@ date: 2014-06-29
 author: Jelena Barinova
 id: 492
 categories:
-  - Other
+  - Women in tech
 ---
 
 This week I gave an interview to KTU's representative. Interesting experience I would say. They were interested in my success as a woman in technology, because the university is working on attracting more girls to study informatics. Hope it will be published somewhere :) if so - i'll definitely sharing this.

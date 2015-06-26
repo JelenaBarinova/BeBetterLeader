@@ -6,7 +6,7 @@ date: 2013-03-12
 author: Jelena Barinova
 id: 26
 categories:
-  - Other
+  - Experiments
 ---
 
 ## Philosophy of improvement

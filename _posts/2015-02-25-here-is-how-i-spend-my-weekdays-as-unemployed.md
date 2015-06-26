@@ -6,7 +6,7 @@ date: 2015-02-25
 author: Jelena Barinova
 id: 10675
 categories:
-  - Know-how
+  - Improvements
 ---
 
 I was always curious what do people do all day long if they do not work!? For me it was frightening question. Since I can remember all my weekdays were preoccupied with important activities and rather strict schedule: first, school and after school lectures, then university and different kinds of part time jobs and later, professionally developing software for ten years.
