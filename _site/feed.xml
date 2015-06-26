@@ -5,8 +5,8 @@
     <description>Practical notes on leadership improvements</description>
     <link>http://jelenabarinova.github.io/BeBetterLeader/</link>
     <atom:link href="http://jelenabarinova.github.io/BeBetterLeader/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 26 Jun 2015 10:58:38 -0700</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2015 10:58:38 -0700</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 14:45:42 -0700</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 14:45:42 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -107,6 +107,50 @@
         
         
         <category>improvements</category>
+        
+      </item>
+    
+      <item>
+        <title>A &#39;must-know&#39; for each dev and dev manager</title>
+        <description>&lt;p&gt;If you are a developer and seeking to become better - learn and constantly refresh your knowledge of basic data structures and algorithms.&lt;/p&gt;
+
+&lt;p&gt;A good motivational quote by Linus Torvalds (creator of Linux) why to learn basics:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/BeBetterLeader/img/post_img/Algorithms.png&quot; alt=&quot;algorithms&quot; class=&quot;right&quot; /&gt;
+There is a great opportunity to take a free online class on this topic at Coursera. I’ve just finished these two: &lt;a href=&quot;https://www.coursera.org/course/algs4partI&quot;&gt;Algorithms part I&lt;/a&gt; and &lt;a href=&quot;https://www.coursera.org/course/algs4partII&quot;&gt;Algorithms part II&lt;/a&gt;. I can highly recommend these courses for all the developers and development managers.&lt;/p&gt;
+
+&lt;p&gt;Here is the minimal set of data structures and algorithms every developer and dev manager must know:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Data Structures (linked lists, hash tables, arrays, trees, stacks, queues, graphs, heap)&lt;/li&gt;
+  &lt;li&gt;Big O notation, time and space complexity (very good cheatsheet for this: &lt;a href=&quot;http://bigocheatsheet.com/&quot;&gt;http://bigocheatsheet.com/&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Algorithms
+    &lt;ul&gt;
+      &lt;li&gt;Sorting (insertion, merge, quick, radix, heap)&lt;/li&gt;
+      &lt;li&gt;Searching (linear search, binary search, depth first search, breadth first search, string manipulation)&lt;/li&gt;
+      &lt;li&gt;Iteration (various tree traversals, list traversal)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I know, that most of developers and dev managers are in continuous self-improvement process: learning new things, reading articles and listening to presentations, etc. You are doing a great job!&lt;/p&gt;
+
+&lt;p&gt;But for those, who feels a bit rusty - start today and these courses I’ve mentioned are the best way to do it.&lt;/p&gt;
+
+&lt;p&gt;By the way, for those who want to exercise - check this great site with tons of coding challenges: &lt;a href=&quot;http://www.hackerrank.com&quot;&gt;http://www.hackerrank.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;P.S.: What do you think? What would you add to this list?&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/coding/a-must-know-for-each-dev-and-dev-manager.html</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/coding/a-must-know-for-each-dev-and-dev-manager.html</guid>
+        
+        
+        <category>coding</category>
         
       </item>
     
@@ -377,27 +421,6 @@ This time we just took a coffee and went for a walk along the river. I prepare f
         
         
         <category>presentations</category>
-        
-      </item>
-    
-      <item>
-        <title>Dear dev managers, how fast do your teams grow?</title>
-        <description>&lt;p&gt;Recently I’ve made some calculations to visualize the dynamics in my teams over the year.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/BeBetterLeader/img/post_img/employees.png&quot; alt=&quot;Growth graph&quot; title=&quot;Changing number of employees over the year&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’ve been surprised: from 11 to 31 members, from 2 to 5 teams. My question is how fast can we grow in order to satisfy client’s hunger for features, but still keep the comfort for teams and do not increase technical debt of the product.&lt;/p&gt;
-
-&lt;p&gt;With every new member we slow down, as well as we increase communication channels. It usually lead us to different misunderstandings and other things such as: everyone having their own style, opinion, vision, speed, quality level, etc. And that’s the price you pay for growing. Some more technical of these differences we can easily unify by introducing coding standards, testing procedures, development processes. But what about soft ones? I have my way of introducing new members to my team, you can find it in this &lt;a href=&quot;/BeBetterLeader/know-how/youre-hired.html&quot;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;What’s your speed of growing software development teams/departments?&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Aug 2014 00:00:00 -0700</pubDate>
-        <link>http://jelenabarinova.github.io/BeBetterLeader/know-how/dear-dev-managers-how-fast-do-your-teams-grow.html</link>
-        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/know-how/dear-dev-managers-how-fast-do-your-teams-grow.html</guid>
-        
-        
-        <category>know-how</category>
         
       </item>
     
