@@ -14,6 +14,22 @@ layout: default_dark
                     <span class="subheading" style="color: #E8E8E8; font-weight:600">{{ page.subtitle }}</span>
                     {% endif %}
                     <span class="meta" style="color: #E8E8E8">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                               
+                    <span class="meta" style="position:absolute; margin-bottom: 0.5em; bottom: 0;" > 
+                        <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}/{{ site.baseurl }}/{{ page.url }}" target="_blank">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-square-o fa-stack-2x"></i>
+                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                        <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}/{{ site.baseurl }}/{{ page.url }}&title={{ page.title }}&summary={{ page.subtitle }}&source={{ site.url }}/{{ site.baseurl }}" target="_blank">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-square-o fa-stack-2x"></i>
+                                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </span>
+                    
                 </div>
             </div>
         </div>
