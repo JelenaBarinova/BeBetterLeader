@@ -5,9 +5,22 @@
     <description>Practical notes on leadership improvements</description>
     <link>http://jelenabarinova.github.io/BeBetterLeader/</link>
     <atom:link href="http://jelenabarinova.github.io/BeBetterLeader/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 25 Jun 2015 16:59:08 -0700</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2015 16:59:08 -0700</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2015 17:02:08 -0700</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2015 17:02:08 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Test</title>
+        <description>&lt;p&gt;Here is a b&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Jun 2015 00:00:00 -0700</pubDate>
+        <link>http://jelenabarinova.github.io/BeBetterLeader/books/test.html</link>
+        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/books/test.html</guid>
+        
+        
+        <category>books</category>
+        
+      </item>
     
       <item>
         <title>Quiet</title>
@@ -377,27 +390,6 @@ This time we just took a coffee and went for a walk along the river. I prepare f
         
         
         <category>presentations</category>
-        
-      </item>
-    
-      <item>
-        <title>Dear dev managers, how fast do your teams grow?</title>
-        <description>&lt;p&gt;Recently I’ve made some calculations to visualize the dynamics in my teams over the year.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/BeBetterLeader/img/post_img/employees.png&quot; alt=&quot;Growth graph&quot; title=&quot;Changing number of employees over the year&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’ve been surprised: from 11 to 31 members, from 2 to 5 teams. My question is how fast can we grow in order to satisfy client’s hunger for features, but still keep the comfort for teams and do not increase technical debt of the product.&lt;/p&gt;
-
-&lt;p&gt;With every new member we slow down, as well as we increase communication channels. It usually lead us to different misunderstandings and other things such as: everyone having their own style, opinion, vision, speed, quality level, etc. And that’s the price you pay for growing. Some more technical of these differences we can easily unify by introducing coding standards, testing procedures, development processes. But what about soft ones? I have my way of introducing new members to my team, you can find it in this &lt;a href=&quot;/BeBetterLeader/know-how/youre-hired.html&quot;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;What’s your speed of growing software development teams/departments?&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Aug 2014 00:00:00 -0700</pubDate>
-        <link>http://jelenabarinova.github.io/BeBetterLeader/know-how/dear-dev-managers-how-fast-do-your-teams-grow.html</link>
-        <guid isPermaLink="true">http://jelenabarinova.github.io/BeBetterLeader/know-how/dear-dev-managers-how-fast-do-your-teams-grow.html</guid>
-        
-        
-        <category>know-how</category>
         
       </item>
     
