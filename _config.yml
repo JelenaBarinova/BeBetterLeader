@@ -6,6 +6,7 @@ description: "Practical notes on leadership improvements"
 baseurl: /BeBetterLeader
 url: "http://jelenabarinova.github.io"
 github: 
+destination: ../gh-pages/
 twitter_username: jfiodorova
 github_username:  JelenaBarinova
 facebook_username:  jelena.fiodorova
@@ -18,7 +19,3 @@ highlighter: pygments
 permalink: none
 paginate: 10
 exclude: ["less","node_modules","package.json","README.md"]
-
-collections:
-  docs:
-    output: true
