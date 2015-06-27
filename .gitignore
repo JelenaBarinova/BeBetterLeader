@@ -1,12 +1,4 @@
 .DS_Store
-_posts/.DS_Store
-img/.DS_Store
-css/.DS_Store
-js/.DS_Store
-fonts/.DS_Store
-.settings/
-node_modules/
 *.log
-.publish/
-_site/
 Gemfile.lock
+Gemfile
