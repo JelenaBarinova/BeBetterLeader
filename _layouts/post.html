@@ -33,9 +33,14 @@ layout: default_dark
                                 <i class="fa fa-square-o fa-stack-2x"></i>
                                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
                             </span>
-                        </a>
-                    </span>
-                    
+                        </a> </span>
+    <span class="meta"style="float:right; margin-right:120px;">    
+      {% for category in page.categories %}
+      <span class="category"><a  href="{{ site.url }}{{ site.baseurl }}/categories.html#{{category}}"> {{ category | capitalize }}</a></span>
+      {% endfor %}
+    </span> 
+                 
+ 
                 </div>
             </div>
         </div>

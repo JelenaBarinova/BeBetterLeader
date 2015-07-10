@@ -6,6 +6,7 @@ header-img: "img/categories-bg.jpg"
 ---
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
+<div id={{category[0]}}>
   <h2>{{ category[0] | capitalize }}</h2>
   <lu>
   {% assign sorted_posts = category[1] | sort: 'date' %}
@@ -13,4 +14,6 @@ header-img: "img/categories-bg.jpg"
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><em>, {{ post.date | date: "%B %-d, %Y" }}</em></li>
   {% endfor %}
   </lu>
+  </br>
+</div>
 {% endfor %}
