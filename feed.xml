@@ -5,9 +5,83 @@
     <description>Practical notes on leadership improvements</description>
     <link>http://bebetterleader.com/</link>
     <atom:link href="http://bebetterleader.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 27 Jun 2015 15:38:13 -0700</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2015 15:38:13 -0700</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2015 17:49:56 -0700</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2015 17:49:56 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>&#39;Static HTML&#39; is the new Black</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/post_img/old-blog.png&quot; alt=&quot;Old blog&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This blog was created in March, 2013. Back then I decided to make it in Wordpress. Since public Wordpress has very limited functionality - I chose on-site Wordpress, but I needed to host it somewhere. My husband is Azure MVP :) so this was no brainer - Azure it was. &lt;/p&gt;
+
+&lt;p&gt;For two years it served it’s purpose, but now I want simplier setup with more freedom to change the appearance. &lt;/p&gt;
+
+&lt;p&gt;A couple of weeks ago I introduced new version of this blog. Now it is static HTML pages, originally written in mardown, then Jekyll generated to static HTML pages and hosted on GitHub Pages. &lt;/p&gt;
+
+&lt;p&gt;In this blog post I’ll shortly compare several aspects of previous and currents setups.&lt;/p&gt;
+
+&lt;h2 id=&quot;infrastructure--costs&quot;&gt;Infrastructure &amp;amp; costs&lt;/h2&gt;
+&lt;p&gt;Since I maintain and develop and write my blogs all by myself, infrastructure is of the importance for me. It should be easy to support and low in cost.&lt;/p&gt;
+
+&lt;h3 id=&quot;old-wordpress&quot;&gt;Old (Wordpress)&lt;/h3&gt;
+&lt;p&gt;Wordpress was hosted on Azure Websites (now it’s called Azure Web App) with PHP running on IIS, all the blog data (pages, posts, categories, tags - everything was stored in Azure SQL Database). Static data, such as images, videos - were stored and served from Azure Blob Storage.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post_img/azure_blog_deployment_schema.png&quot; alt=&quot;Blog infrastructure&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a complete list of Azure services I used:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post_img/azure_service_list.png&quot; alt=&quot;Azure sevices in use&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Monthly costs for Azure services were quite low: 30 days of Azure SQL Server and 720 hours of Web Services cost up tp 9 EUR (not that I need to pay it, this figure is basically for those bloggers who doesn’t have a Azure-MVP-husband).&lt;/p&gt;
+
+&lt;h3 id=&quot;new-github-pages&quot;&gt;New (GitHub Pages)&lt;/h3&gt;
+&lt;p&gt;New blog setup doesn’t require to worry about infrastructure and services - it’s all taken care by GitHub. Current setup is very simple and easy. I just created gh-pages branch for my site - and it worked - seamlessly. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post_img/gh-blog-deployment-schema.png&quot; alt=&quot;GitHub pages in use&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And by the way, it is free.&lt;/p&gt;
+
+&lt;h2 id=&quot;workflow-of-blog-post-creation&quot;&gt;Workflow of blog post creation&lt;/h2&gt;
+&lt;p&gt;So what does it take to write a blog now and how was it back then?&lt;/p&gt;
+
+&lt;h3 id=&quot;old-wordpress-1&quot;&gt;Old (Wordpress)&lt;/h3&gt;
+&lt;p&gt;Wordpress has a pretty good administration site. So new blog post creation was very simple - just write a text, add pictures, press publish and &lt;em&gt;voilà!&lt;/em&gt; - you have your post published. Though I had not that much control of how post looked.&lt;/p&gt;
+
+&lt;h3 id=&quot;new-github-pages-1&quot;&gt;New (GitHub Pages)&lt;/h3&gt;
+&lt;p&gt;Now it’s even easier - I can simple write a markdown (and it’s very flexible I may flavour it with HTML - and make anything I like in it) on a GitHub and it automatically appears publicly. 
+Although, as for me I don’t feel that strong to “code in production” - I need to double check everything in a test environment (posts as well).&lt;br /&gt;
+So what I do - is I have two branches: &lt;em&gt;master&lt;/em&gt; and &lt;em&gt;gh-pages&lt;/em&gt;. In a master branch I have all the sources of the blog. Once I add new blog post - I run Jekyll locally to test it. Jekyll generates HTML to &lt;em&gt;gh-pages&lt;/em&gt; branch for me. So when I’m happy with a new blog post - I just push it to GitHub.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Shortly - I love everything about my current blog: how it looks, the setup, maintainance effort[less]. &lt;/p&gt;
+
+&lt;h4 id=&quot;pros&quot;&gt;PROS&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;no need to maintain infrastructure&lt;/li&gt;
+  &lt;li&gt;easy to change looks (it was quite a job to change Wordpress theme to look exactly how I wanted)&lt;/li&gt;
+  &lt;li&gt;just what I need, no additional features - I never use&lt;/li&gt;
+  &lt;li&gt;free hosting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;cons&quot;&gt;CONS&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;no UI for editing posts (which is not a problem in my case, I use VisualStudio Code to write markdown)&lt;/li&gt;
+  &lt;li&gt;many of Jekyll plugins are not allowed on gh-pages, so basically many things you need to program yourself (which I totally don’t mind)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I would not be willing to return to Wordpress (not that it is bad in any ways, but this current setup works better for my case).&lt;/p&gt;
+
+&lt;p&gt;P.S.: &lt;em&gt;In my next blog post I’ll go through migration process: shortly describe what steps did it take and what tools and technologies I used. So stay tuned :).&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Jul 2015 00:00:00 -0700</pubDate>
+        <link>http://bebetterleader.com/coding/why-did-i-go-static.html</link>
+        <guid isPermaLink="true">http://bebetterleader.com/coding/why-did-i-go-static.html</guid>
+        
+        
+        <category>coding</category>
+        
+      </item>
     
       <item>
         <title>Quiet</title>
@@ -393,34 +467,6 @@ This time we just took a coffee and went for a walk along the river. I prepare f
         
         
         <category>know-how</category>
-        
-      </item>
-    
-      <item>
-        <title>Keep calm and meet challenges</title>
-        <description>&lt;p&gt;Recently I’ve been asked to share how do I manage incidents and solve problems with my teams. In this blog post you can find a short summary of how do I usually do it.&lt;/p&gt;
-
-&lt;p&gt; First, there are 3 approaches I follow:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Every challenge, incident or problem you face - helps you grow, it’s a level-up for you&lt;/li&gt;
-  &lt;li&gt;Worrying never helps. Action does.&lt;/li&gt;
-  &lt;li&gt;You may choose one of two: either being a part of a problem, or a part of a solution. I choose - solution.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;So having this in mind all the time - helps to move on to mechanical part of problem solving very fast. In presentation I cover what steps do I usually take and what tools and techniques I use.&lt;/p&gt;
-
-&lt;p&gt;Here are the slides:&lt;/p&gt;
-&lt;dl&gt;
-&lt;iframe style=&quot;border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;&quot; src=&quot;//www.slideshare.net/slideshow/embed_code/38401264&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt; &lt;/iframe&gt;
-&lt;/dl&gt;
-</description>
-        <pubDate>Tue, 09 Sep 2014 00:00:00 -0700</pubDate>
-        <link>http://bebetterleader.com/presentations/keep-calm-and-meet-challengies.html</link>
-        <guid isPermaLink="true">http://bebetterleader.com/presentations/keep-calm-and-meet-challengies.html</guid>
-        
-        
-        <category>presentations</category>
         
       </item>
     
