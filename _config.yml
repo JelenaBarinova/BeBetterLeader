@@ -19,3 +19,5 @@ highlighter: pygments
 permalink: none
 paginate: 10
 exclude: ["less","node_modules","package.json","README.md"]
+gems:
+  - jekyll-sitemap
