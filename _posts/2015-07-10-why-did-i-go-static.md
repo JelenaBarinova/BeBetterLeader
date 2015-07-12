@@ -47,7 +47,7 @@ So what does it take to write a blog now and how was it back then?
 Wordpress has a pretty good administration site. So new blog post creation was very simple - just write a text, add pictures, press publish and _voilà!_ - you have your post published. Though I had not that much control of how post looked.
 
 ### New (GitHub Pages)
-Now it's even easier - I can simple write a markdown (and it's very flexible I may flavour it with HTML - and make anything I like in it) on a GitHub and it automatically appears publicly. 
+Now it's even easier - I can simply write a markdown (and it's very flexible I may flavour it with HTML - and make anything I like in it) on a GitHub and it automatically appears publicly. 
 Although, as for me I don't feel that strong to "code in production" - I need to double check everything in a test environment (posts as well).  
 So what I do - is I have two branches: _master_ and _gh-pages_. In a master branch I have all the sources of the blog. Once I add new blog post - I run Jekyll locally to test it. Jekyll generates HTML to _gh-pages_ branch for me. So when I'm happy with a new blog post - I just push it to GitHub.
 
