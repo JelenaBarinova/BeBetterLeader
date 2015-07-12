@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Practical notes on leadership improvements">
 
-    <title>There is no right time to fire - Be a Better Leader</title>
+    <title>ES2015 + React using Gulp - Be a Better Leader</title>
 
-    <link rel="canonical" href="http://bebetterleader.com/know-how/there-is-no-right-time-to-fire.html">
+    <link rel="canonical" href="http://bebetterleader.com/coding/es6-react-babel.html">
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -39,37 +39,53 @@
 
 
     
-
+        
+            
+            
+            
+            
+            
+            
 <!-- Open graph tags -->
-<meta property="og:title" content="There is no right time to fire">
+<meta property="og:title" content="ES2015 + React using Gulp">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://bebetterleader.com/know-how/there-is-no-right-time-to-fire.html">
-<meta property="og:image" content="http://bebetterleader.com">
+<meta property="og:url" content="http://bebetterleader.com/coding/es6-react-babel.html">
+<meta property="og:image" content="http://bebetterleader.comhttps://gist.github.com/JelenaBarinova/b7b58c270e3e560056b3.js">
 
-<meta property="og:description" content="I think for manager first lay-off is like a first accident for surgeon. It’s just have to happen someday if you are being a leader (or a surgeon) for a quite...">
+<meta property="og:description" content="Recently I started exploring new features of ECMAScript 2015 while using React. So here is how I set-up my dev environment with gulp.I have 2 simple steps  (...">
 <meta property="og:site_name" content="Be a Better Leader">
 
 
 
 
-<meta property="article:published_time" content="2013-04-29T00:00:00-07:00">
+<meta property="article:published_time" content="2015-07-14T00:00:00-07:00">
 <meta property="article:author" content="https://www.facebook.com/jelena.fiodorova">
-  
-<meta property="og:see_also" content="http://bebetterleader.com/coding/es6-react-babel.html">
   
 <meta property="og:see_also" content="http://bebetterleader.com/coding/why-did-i-go-static.html">
   
 <meta property="og:see_also" content="http://bebetterleader.com/books/quiet.html">
   
-
-
-
-  
-<meta property="article:section" content="know-how">
+<meta property="og:see_also" content="http://bebetterleader.com/improvements/here-is-how-i-spend-my-weekdays-as-unemployed.html">
   
 
 
 
+  
+<meta property="article:section" content="coding">
+  
+
+
+
+  
+<meta property="article:tag" content="JavaScript">
+  
+<meta property="article:tag" content="Gulp">
+  
+<meta property="article:tag" content="ES2015">
+  
+<meta property="article:tag" content="React">
+  
+<meta property="article:tag" content="dev environment">
   
 
 
@@ -121,26 +137,26 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
-                    <h1 style="color: #E8E8E8">There is no right time to fire</h1>
+                    <h1 style="color: #E8E8E8">ES2015 + React using Gulp</h1>
                     
-                    <span class="subheading" style="color: #E8E8E8; font-weight:400">Some thoughts on how to execute this hard decision</span>
+                    <span class="subheading" style="color: #E8E8E8; font-weight:400">Instructions how to setup the environment</span>
                     
-                    <span class="meta" style="color: #E8E8E8">Posted by Jelena Barinova on April 29, 2013</span>
+                    <span class="meta" style="color: #E8E8E8">Posted by Jelena Barinova on July 14, 2015</span>
                                
                     <span class="meta" style="position:absolute; margin-bottom: 0.5em; margin-top: 0.1em; bottom: 0;" > 
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=http://bebetterleader.com/know-how/there-is-no-right-time-to-fire.html" target="_blank">
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=http://bebetterleader.com/coding/es6-react-babel.html" target="_blank">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-square-o fa-stack-2x"></i>
                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://bebetterleader.com/know-how/there-is-no-right-time-to-fire.html&title=There is no right time to fire&summary=Some thoughts on how to execute this hard decision&source=http://bebetterleader.com/" target="_blank">
+                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://bebetterleader.com/coding/es6-react-babel.html&title=ES2015 + React using Gulp&summary=Instructions how to setup the environment&source=http://bebetterleader.com/" target="_blank">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-square-o fa-stack-2x"></i>
                                 <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
-                        <a href="https://twitter.com/home?status=Reading %20%22There is no right time to fire%20%22 on http://bebetterleader.com/know-how/there-is-no-right-time-to-fire.html %20%23bebetterleader%0A" target="_blank">
+                        <a href="https://twitter.com/home?status=Reading %20%22ES2015 + React using Gulp%20%22 on http://bebetterleader.com/coding/es6-react-babel.html %20%23bebetterleader%0A" target="_blank">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-square-o fa-stack-2x"></i>
                                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -148,7 +164,7 @@
                         </a> </span>
     <span class="meta"style="float:right; margin-right:120px;">    
       
-      <span class="category"><a  href="http://bebetterleader.com/categories.html#know-how"> Know-how</a></span>
+      <span class="category"><a  href="http://bebetterleader.com/categories.html#coding"> Coding</a></span>
       
     </span> 
                  
@@ -165,17 +181,29 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-				<p>I think for manager first lay-off is like a first accident for surgeon. It’s just have to happen someday if you are being a leader (or a surgeon) for a quite long time. There is no right time, place or situation to bring this bad news for an employee, so the only thing you can do is to make it a bit less stressful for him as well as for yourself.</p>
-
-<p>There is a couple of tips I followed while informing an employee that we are terminating the agreement with:</p>
+				<p>Recently I started exploring new features of ECMAScript 2015 while using React. So here is how I set-up my dev environment with <a href="http://gulpjs.com/">gulp</a>.
+I have 2 simple steps  (running one after other in this sequence):</p>
 
 <ol>
-  <li>Calm down and say it. The hardest part is behind - you already have made the decision.</li>
-  <li>Be straight forward. It’s painful, but leaves no chance for misunderstanding.</li>
-  <li>Be short. People tend to say lots of useless words and phrases while they are in uncomfortable situation in order to fill in awkward silence.</li>
-  <li>You don’t need to excuse for you decision. You can tell the reasoning, but you do not need to feel guilty.</li>
-  <li>Show that the decision is final and there is no place for negotiation.</li>
+  <li>
+    <p>Transform XLS files: I precompile React JSX template files into plain JavaScript using gulp-react: 
+  <script src="https://gist.github.com/JelenaBarinova/b7b58c270e3e560056b3.js"></script></p>
+  </li>
+  <li>
+    <p>Transform ES2015 files: I take JavaScript files, produced after first transformation and turn them into ES5 files using gulp-babel: 
+  <script src="https://gist.github.com/JelenaBarinova/7245b2c53e06eb8772ab.js"></script></p>
+  </li>
 </ol>
+
+<p>Here it all gathered and chained together:
+<script src="https://gist.github.com/JelenaBarinova/95b2d933b6f75d6cc495.js"></script></p>
+
+<p>In addition to two transformation tasks I like to open output in browser, for this I use gulp-open.</p>
+
+<p>I use <a href="https://code.visualstudio.com/">Visual Studio Code</a> as my IDE, so I have set this gulp task named “build” as a build task in VS Code settings.<br />
+<img src="/img/post_img/vs-code-settings.png" alt="Blog infrastructure" class="right" /></p>
+
+<p>And now once I change code and want to check it - I just press ⇧⌘B (on Mac) and the result is in front of me.</p>
 
 
                 <hr>
@@ -183,13 +211,9 @@
                 <ul class="pager">
                     
                     <li class="previous">
-                        <a href="/experiments/failed-experiment-self-designing-teams.html" data-toggle="tooltip" data-placement="top" title="Failed experiment: Self-designing teams">&larr; Previous Post</a>
+                        <a href="/coding/why-did-i-go-static.html" data-toggle="tooltip" data-placement="top" title="'Static HTML' is the new Black">&larr; Previous Post</a>
                     </li>
                     
-                    
-                    <li class="next">
-                        <a href="/presentations/73-tips-to-become-a-better-leader.html" data-toggle="tooltip" data-placement="top" title="73 Practical Tips to Become a Better Leader">Next Post &rarr;</a>
-                    </li>
                     
                 </ul>
                 <hr>
