@@ -10,4 +10,3 @@ node_modules/
 .publish/
 _site/
 Gemfile.lock
-_includes/google_tracking.html
