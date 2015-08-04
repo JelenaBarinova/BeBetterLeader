@@ -401,10 +401,12 @@ body {
 .left {
   float: left; 
   margin-right: 10px;
+  margin-bottom: 15px;
 }
 .right {
   float: right; 
   margin-left: 10px;
+  margin-bottom: 15px;
 }
 .category {
     border-radius: 5px;
