@@ -12,7 +12,7 @@ categories:
   - coding
 ---
 
-<img src="{{ site.baseurl }}/img/post_img/bebetterdeveloper.png" alt="BeBetterDeveloper" class="right" />
+<img src="{{ site.baseurl }}/img/post_img/bebetterdeveloper.jpg" alt="BeBetterDeveloper" class="right" style="width: 400px" />
 You probably have noticed, that a couple of my recent blog posts are a bit too technical to be published under BeBetterLeader name. Since some of my readers are leading or seeking to lead non-technical (not software development related) teams, I decided to move these posts under the [BeBetterDeveloper](http://bebetteredeveloper.com) name. I plan to continue writing more of them. 
 
 So if you are interested in JavaScript, React.js, Flux, AngularJS, Gulp, Mocha and other JavaScript frameworks, tools and libraries - check it out or maybe [follow it](http://bebetterdeveloper.com/feed.xml) :). 
