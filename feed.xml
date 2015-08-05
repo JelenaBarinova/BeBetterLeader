@@ -5,8 +5,8 @@
     <description>Practical notes on leadership improvements</description>
     <link>http://bebetterleader.com/</link>
     <atom:link href="http://bebetterleader.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 05 Aug 2015 16:06:55 -0700</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2015 16:06:55 -0700</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2015 16:17:32 -0700</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2015 16:17:32 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -60,7 +60,7 @@ To tell the truth, I prefer when teams form and evolve naturaly; but if I needed
     
       <item>
         <title>Contributing to BeBetterDeveloper blog</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/post_img/bebetterdeveloper.png&quot; alt=&quot;BeBetterDeveloper&quot; class=&quot;right&quot; /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/img/post_img/bebetterdeveloper.jpg&quot; alt=&quot;BeBetterDeveloper&quot; class=&quot;right&quot; style=&quot;width: 400px&quot; /&gt;
 You probably have noticed, that a couple of my recent blog posts are a bit too technical to be published under BeBetterLeader name. Since some of my readers are leading or seeking to lead non-technical (not software development related) teams, I decided to move these posts under the &lt;a href=&quot;http://bebetteredeveloper.com&quot;&gt;BeBetterDeveloper&lt;/a&gt; name. I plan to continue writing more of them. &lt;/p&gt;
 
 &lt;p&gt;So if you are interested in JavaScript, React.js, Flux, AngularJS, Gulp, Mocha and other JavaScript frameworks, tools and libraries - check it out or maybe &lt;a href=&quot;http://bebetterdeveloper.com/feed.xml&quot;&gt;follow it&lt;/a&gt; :). &lt;/p&gt;
