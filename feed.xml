@@ -5,9 +5,80 @@
     <description>Practical notes on leadership improvements</description>
     <link>http://bebetterleader.com/</link>
     <atom:link href="http://bebetterleader.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 12 Jul 2015 13:08:17 -0700</pubDate>
-    <lastBuildDate>Sun, 12 Jul 2015 13:08:17 -0700</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2015 16:06:55 -0700</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2015 16:06:55 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Ideal team size: less is more</title>
+        <description>&lt;p&gt;There are different theories on what’s the optimal size for a team. In a first Scrum guide it was mentioned that development team should be &lt;strong&gt;5-9&lt;/strong&gt; &lt;a href=&quot;http://www.evolvebeyond.com/site/wp-content/uploads/2014/05/Scrum-Guide-1.pdf&quot;&gt;Scrum guide, February 2010&lt;/a&gt;. Amazon has &lt;a href=&quot;http://www.fastcompany.com/50106/inside-mind-jeff-bezos&quot;&gt;two pizza rule&lt;/a&gt;, which is what? &lt;strong&gt;4-7&lt;/strong&gt; members or so. Jurgen Appelo suggests it’s &lt;strong&gt;5&lt;/strong&gt; in a blog post &lt;a href=&quot;http://noop.nl/2009/04/the-optimal-team-size-is-five.html&quot;&gt;The Optimal Team Size is Five&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post_img/3.png&quot; alt=&quot;3&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I say it’s - &lt;strong&gt;3&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;This is why I think so:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Smaller team - less risk. I see it as an analogy to Continuous delivery and risk correlation. The less code you produce and more frequently you release - less risk of breaking something you have. &lt;/li&gt;
+  &lt;li&gt;The smaller the team - the more important each member is. When you are a member of a small team - you make much bigger impact in oppose to for example if you are one of 9 members in a team. &lt;/li&gt;
+  &lt;li&gt;Having a constrain of small teams - you will be forced to architecture your solution as decoupled as you can. Most of the time it’s a good thing if you plan to grow and scale. Which is in synch with microservices concept, everyone is talking about now.  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Since &lt;a href=&quot;https://en.wikipedia.org/wiki/Team&quot;&gt;team is a group of people&lt;/a&gt; and 1 is totally not a group and 2 is a couple :), then 3 - is a group and the smallest possible team.&lt;/p&gt;
+
+&lt;p&gt;There are some more nice to have features that come with teams of 3:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When the team is 3 - it’s easier to cover for each other. Most likely you will avoid ending up with the situation when only one team member knows particular part of the code, because of a huge scope your team owns.&lt;/li&gt;
+  &lt;li&gt;Conformance will be the highest in a team of 3. According to a social impact theory, &lt;a href=&quot;https://en.wikipedia.org/wiki/Normative_social_influence&quot;&gt;conformance is at it’s peak when the team is 3-4&lt;/a&gt;. Meaning that attitudes, beliefs and behaviour will match easier in such team. And as you know: &lt;em&gt;Social pressure, used correctly: far more powerful that hierarchy, no damaging side-effects&lt;/em&gt; from &lt;a href=&quot;http://www.organizeforcomplexity.com/&quot;&gt;Organize for Complexity&lt;/a&gt;. &lt;/li&gt;
+  &lt;li&gt;When you are in a really small team - the feeling of being involved and making a change is strong and direct - your actions are more immediate. &lt;/li&gt;
+  &lt;li&gt;3 is an odd number, which is good when you need to vote for something in the team - you avoid ending-up in a dead heat.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I worked with different sized teams: from huge ones - ~15 people and to one person ‘teams’. I liked teams of 3 the most.
+To tell the truth, I prefer when teams form and evolve naturaly; but if I needed to create one - I’d go with 3 developers.&lt;/p&gt;
+
+&lt;p&gt;How big is your team? What’s your optimal number?&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Aug 2015 00:00:00 -0700</pubDate>
+        <link>http://bebetterleader.com/know-how/ideal-team-size-less-is-more.html</link>
+        <guid isPermaLink="true">http://bebetterleader.com/know-how/ideal-team-size-less-is-more.html</guid>
+        
+        <category>Agile</category>
+        
+        <category>Teamwork</category>
+        
+        <category>Team size</category>
+        
+        <category>Development team</category>
+        
+        
+        <category>know-how</category>
+        
+      </item>
+    
+      <item>
+        <title>Contributing to BeBetterDeveloper blog</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/post_img/bebetterdeveloper.png&quot; alt=&quot;BeBetterDeveloper&quot; class=&quot;right&quot; /&gt;
+You probably have noticed, that a couple of my recent blog posts are a bit too technical to be published under BeBetterLeader name. Since some of my readers are leading or seeking to lead non-technical (not software development related) teams, I decided to move these posts under the &lt;a href=&quot;http://bebetteredeveloper.com&quot;&gt;BeBetterDeveloper&lt;/a&gt; name. I plan to continue writing more of them. &lt;/p&gt;
+
+&lt;p&gt;So if you are interested in JavaScript, React.js, Flux, AngularJS, Gulp, Mocha and other JavaScript frameworks, tools and libraries - check it out or maybe &lt;a href=&quot;http://bebetterdeveloper.com/feed.xml&quot;&gt;follow it&lt;/a&gt; :). &lt;/p&gt;
+
+&lt;p&gt;If you are not into programming, that’s awesome - you are more than welcome here ;) I will definitely keep on posting my ideas in this blog.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Aug 2015 00:00:00 -0700</pubDate>
+        <link>http://bebetterleader.com/coding/contributing-to-bebetteredeveloper-blog.html</link>
+        <guid isPermaLink="true">http://bebetterleader.com/coding/contributing-to-bebetteredeveloper-blog.html</guid>
+        
+        <category>Agile</category>
+        
+        <category>Teamwork</category>
+        
+        
+        <category>coding</category>
+        
+      </item>
     
       <item>
         <title>ES2015 + React using Gulp</title>
@@ -388,102 +459,6 @@ There is a great opportunity to take a free online class on this topic at Course
         
         
         <category>books</category>
-        
-      </item>
-    
-      <item>
-        <title>Off-site with teams #2</title>
-        <description>&lt;p&gt;Some time ago I’ve shared with you my &lt;a href=&quot;/know-how/off-site-with-teams.html&quot;&gt;experiment&lt;/a&gt; of gathering all my teams together and having a fresh look at products we build. So this is a second try. Different time, different place, but the goal stays the same: share ideas, educate each other, team-building.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post_img/margiokrantas.jpg&quot; alt=&quot;margiokrantas&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When you are pushing scrum into teams for a quite long time and it starts to work as expected, you usually get a non desirable side effect of it - teams become isolated, communicate less with each other, become too focused on a team goal and try to improve team performance. That’s why you need something that gathers different teams in one room and gives them a possibility to get to know each other again. For the second time I have tried gathering my teams for such extended knowledge sharing session.&lt;/p&gt;
-
-&lt;p&gt;In my opinion it worked just fine, we had various discussions on business and tech topics, reviewed what we achieved, thought about the future. Here a simplified agenda of our off-site.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Product Owners presenting new products. 10 minutes for each product. What is it? Vision. Why? Benefits.&lt;/li&gt;
-  &lt;li&gt;Product Owners presenting current products. 10 minutes stories of the products with overview of recently released major features and further essential plans.&lt;/li&gt;
-  &lt;li&gt;Scrum Masters (or someone from the team) presenting products from tech perspective. 10 minutes technical overview of your products: how are/will they be developed, architecture overview, etc.&lt;/li&gt;
-  &lt;li&gt;Success stories. All teams (it could be anyone from the team) prepare a short  ~5-7 minutes overview on how you product succeeds in different countries, how the usage is changing, how much money it’s earning, etc. – anything you find interesting and exciting about you products.&lt;/li&gt;
-  &lt;li&gt;Remembering the promises from the last event. Watching recorded video followed with a short update of what was actually done from those promises – anyone from the teams.&lt;/li&gt;
-  &lt;li&gt;And then for 2 hours discuss within teams. Form team’s targets for future (3-6 months) and make new promises.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I tried to film every session and presentation and after some editing put it on company’s internal wiki for other teams to learn about what we do. Actually I find it very useful in may ways: for the team to step up out of daily routine and think about the future, for every attendee to learn about related teams, for teams outside the event - to learn about our products. And moreover, we use this filmed material for newcomers to teach them about teams, products, people.&lt;/p&gt;
-
-&lt;p&gt;If you have tried such events - I encourage to try it :) it fun and useful.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 05 Nov 2014 00:00:00 -0800</pubDate>
-        <link>http://bebetterleader.com/know-how/off-site-with-teams-2.html</link>
-        <guid isPermaLink="true">http://bebetterleader.com/know-how/off-site-with-teams-2.html</guid>
-        
-        
-        <category>know-how</category>
-        
-      </item>
-    
-      <item>
-        <title>Establishing estimates</title>
-        <description>&lt;p&gt;This is a short introduction to one of many techniques how to establish estimates (in my teams we make estimation of size, not the duration of the task) - White elephant.&lt;/p&gt;
-&lt;dl&gt;
-&lt;div class=&quot;getty embed image left&quot; style=&quot;background-color:#fff;display:inline-block;font-family:&#39;Helvetica Neue&#39;,Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:414px;&quot;&gt;&lt;div style=&quot;overflow:hidden;position:relative;height:0;padding:100.000000% 0 0 0;width:100%;&quot;&gt;&lt;iframe src=&quot;//embed.gettyimages.com/embed/136643000?et=Ba6f-JkqTuNfkhJEqF_-tw&amp;amp;viewMoreLink=on&amp;amp;sig=dGyiXxBkJOblc56I2Y7Y-UgfeaIs4zGruH85nHJwyjY=&quot; width=&quot;414&quot; height=&quot;414&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;padding:0;margin:0 0 0 10px;text-align:left;&quot;&gt;&lt;a href=&quot;http://www.gettyimages.com/detail/136643000&quot; target=&quot;_blank&quot; style=&quot;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&quot;&gt;View image&lt;/a&gt; | &lt;a href=&quot;http://www.gettyimages.com&quot; target=&quot;_blank&quot; style=&quot;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&quot;&gt;gettyimages.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/dl&gt;
-&lt;p&gt;This technique is taken from &lt;a href=&quot;http://en.wikipedia.org/wiki/White_elephant_gift_exchange&quot;&gt;White elephant gift exchange&lt;/a&gt; party game. You can use “White elephant” within your team when you need to estimate upcoming work.&lt;/p&gt;
-
-&lt;p&gt;Recently I had an initial estimation session with one team (they are in the beginning of Agile adoption). This was a team of  7 members and they had 39 items (of current and upcoming work) to estimate.
-We started with answering these two questions:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;What is the purpose of estimation?&lt;/li&gt;
-  &lt;li&gt;What do we want to estimate: size, duration, complexity, velocity, etc. For us it is size we estimate.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Then we decided what measures did we want to use: T-shirt sizing (XS, S, M, L, XL).&lt;/p&gt;
-
-&lt;p&gt;We used simple rules:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Talks one at a time&lt;/li&gt;
-  &lt;li&gt;Everyone in round-robin manner:
-    &lt;ul&gt;
-      &lt;li&gt;Takes a card from pile (or already placed)&lt;/li&gt;
-      &lt;li&gt;Reads the task loudly&lt;/li&gt;
-      &lt;li&gt;Put into one column (XS, S, M, L, XL) if hard to decide – put into M&lt;/li&gt;
-      &lt;li&gt;Explain why?&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;If task was moved 3 times – it cannot be moved again, meaning that we need to discuss more about it afterwards.&lt;/li&gt;
-  &lt;li&gt;Repeat while everyone agrees&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We’ve managed to finish estimating in less than half an hour.
-&lt;img src=&quot;http://photos-c.ak.instagram.com/hphotos-ak-xfa1/10684256_695100200581050_1671519976_n.jpg&quot; alt=&quot;task board&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;During this session we achieved:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Common understanding about all the tasks we have in scope&lt;/li&gt;
-  &lt;li&gt;Common feeling how to estimate relatively&lt;/li&gt;
-  &lt;li&gt;Visualization of how much loaded with work are our team members&lt;/li&gt;
-  &lt;li&gt;Information for further future when we will be figuring out what is our velocity&lt;/li&gt;
-  &lt;li&gt;The list of unclear/need to discuss tasks&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Things  to keep in mind while estimating:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Compare stories to get estimates&lt;/li&gt;
-  &lt;li&gt;Use more than one example&lt;/li&gt;
-  &lt;li&gt;Group similar sized user stories&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Tue, 14 Oct 2014 00:00:00 -0700</pubDate>
-        <link>http://bebetterleader.com/workshops/establishing-estimates.html</link>
-        <guid isPermaLink="true">http://bebetterleader.com/workshops/establishing-estimates.html</guid>
-        
-        
-        <category>workshops</category>
         
       </item>
     

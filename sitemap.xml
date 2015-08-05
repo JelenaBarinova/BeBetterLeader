@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://bebetterleader.com/know-how/ideal-team-size-less-is-more.html</loc>
+    <lastmod>2015-08-05T00:00:00-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://bebetterleader.com/coding/contributing-to-bebetteredeveloper-blog.html</loc>
+    <lastmod>2015-08-05T00:00:00-07:00</lastmod>
+  </url>
+  <url>
     <loc>http://bebetterleader.com/coding/es6-react-babel.html</loc>
     <lastmod>2015-07-14T00:00:00-07:00</lastmod>
   </url>
@@ -236,20 +244,5 @@
   </url>
   <url>
     <loc>http://bebetterleader.com/</loc>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/page2/</loc>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/page3/</loc>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/page4/</loc>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/page5/</loc>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/page6/</loc>
   </url>
 </urlset>
