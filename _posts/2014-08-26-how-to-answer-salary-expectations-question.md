@@ -3,7 +3,7 @@ layout: post
 title: "How to answer salary expectations question"
 subtitle: "So, what are your salary expectations?"
 date: 2014-08-26
-author: Jelena Barinova
+author: Lena Barinova
 id: 10710
 categories:
   - Know-how

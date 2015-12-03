@@ -3,7 +3,7 @@ layout: post
 title: "This is not my boyfriend's computer!"
 subtitle: "My two cents on 'Women in technology' topic"
 date: 2014-06-29
-author: Jelena Barinova
+author: Lena Barinova
 id: 492
 categories:
   - Women in tech
@@ -29,6 +29,6 @@ _I believe that most of the women just need a little encouragement in the very b
 
 _In the next 12 months I will keep writing my blog highlighting woman’s position in technology more. Also while giving lectures at university I’ll encourage female students by telling my success story. I will keep supporting KTU’s initiative to inspire and attract more women to universities. And I will hire at least one more female software engineer into my team in a year._
 
-_Jelena Barinova_
+_Lena Barinova_
 
 _Program development manager, Adform Lithuania_

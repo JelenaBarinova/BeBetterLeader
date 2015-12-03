@@ -3,7 +3,7 @@ layout: post
 title: "What I value most about Agile?"
 subtitle: "And what does my team value"
 date: 2014-05-19
-author: Jelena Barinova
+author: Lena Barinova
 id: 483
 categories:
   - Know-how

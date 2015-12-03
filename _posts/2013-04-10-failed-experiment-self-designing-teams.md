@@ -3,7 +3,7 @@ layout: post
 title: "Failed experiment: Self-designing teams"
 subtitle: "A way to organize work in teams"
 date: 2013-04-10
-author: Jelena Barinova
+author: Lena Barinova
 id: 145
 categories:
   - Experiments

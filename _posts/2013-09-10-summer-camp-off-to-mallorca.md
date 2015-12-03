@@ -2,7 +2,7 @@
 layout: post
 title: "Summer camp: off to Mallorca"
 date: 2013-09-10
-author: Jelena Barinova
+author: Lena Barinova
 id: 293
 categories:
   - Experiments

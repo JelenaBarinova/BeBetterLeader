@@ -3,7 +3,7 @@ layout: post
 title: "A mind of its own"
 subtitle: "A book review"
 date: 2014-01-24
-author: Jelena Barinova
+author: Lena Barinova
 id: 162
 categories:
   - Books

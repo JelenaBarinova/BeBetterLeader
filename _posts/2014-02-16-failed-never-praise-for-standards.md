@@ -3,7 +3,7 @@ layout: post
 title: "Failed. Never praise for standards"
 subtitle: "Misstakes I made while praising/punishing a team"
 date: 2014-02-16
-author: Jelena Barinova
+author: Lena Barinova
 id: 454
 categories:
   - Experiments

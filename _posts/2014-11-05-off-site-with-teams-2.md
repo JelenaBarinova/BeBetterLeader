@@ -2,7 +2,7 @@
 layout: post
 title: "Off-site with teams #2"
 date: 2014-11-05
-author: Jelena Barinova
+author: Lena Barinova
 id: 586
 categories:
   - Know-how

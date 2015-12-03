@@ -2,7 +2,7 @@
 layout: post
 title: "Learn, learn and once again, learn!"
 date: 2013-03-28
-author: Jelena Barinova
+author: Lena Barinova
 id: 139
 categories:
   - Improvements

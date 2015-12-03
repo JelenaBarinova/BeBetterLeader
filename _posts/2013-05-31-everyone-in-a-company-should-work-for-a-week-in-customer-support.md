@@ -3,7 +3,7 @@ layout: post
 title: "Everyone in a company should work for a week in customer support"
 subtitle: "How to know your product and customer needs better"
 date: 2013-05-31
-author: Jelena Barinova
+author: Lena Barinova
 id: 170
 categories:
   - Know-how

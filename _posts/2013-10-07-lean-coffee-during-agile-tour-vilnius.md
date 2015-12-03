@@ -3,7 +3,7 @@ layout: post
 title: "Lean coffee during Agile tour Vilnius"
 subtitle: "Nice way to organize discussion"
 date: 2013-10-07
-author: Jelena Barinova
+author: Lena Barinova
 id: 372
 categories:
   - Workshops

@@ -3,7 +3,7 @@ layout: post
 title: "What do I really do?"
 subtitle: "The things I focus on at work"
 date: 2014-02-15
-author: Jelena Barinova
+author: Lena Barinova
 id: 450
 categories:
   - Know-how

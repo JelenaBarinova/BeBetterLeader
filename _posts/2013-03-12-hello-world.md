@@ -3,7 +3,7 @@ layout: post
 title: "Hello World!"
 subtitle: "What, why, whom for?"
 date: 2013-03-12
-author: Jelena Barinova
+author: Lena Barinova
 id: 26
 categories:
   - Experiments

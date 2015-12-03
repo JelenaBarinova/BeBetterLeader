@@ -3,7 +3,7 @@ layout: post
 title: "If I were hiring a Product Owner…"
 subtitle: "...I would ask her/him"
 date: 2014-07-05
-author: Jelena Barinova
+author: Lena Barinova
 id: 524
 categories:
   - Know-how

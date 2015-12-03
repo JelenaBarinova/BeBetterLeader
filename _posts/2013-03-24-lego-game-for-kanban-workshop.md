@@ -3,7 +3,7 @@ layout: post
 title: "Lego game for Kanban workshop"
 subtitle: "Nice exercise to learn Kanban"
 date: 2013-03-24
-author: Jelena Barinova
+author: Lena Barinova
 id: 95
 categories:
   - Workshops
@@ -25,7 +25,7 @@ The rules were simple. We split to teams and each team was building Lego houses 
 6.  In the end of the round the Demand card is played (1 and 2 rounds)
 We had three rounds during the game, 5 minutes each with 3 minutes for retrospectives after every round:
 
-## 1 round 
+## 1 round
 <img src="{{ site.baseurl }}/img/post_img/warehouse.jpg" alt="lego warehouse" class="left" />
 **Warm-up**: do whatever you want to produce as many houses as possible. After the round Demand card is played. Customer purchases. Capture results. Do retrospective.
 

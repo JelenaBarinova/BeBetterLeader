@@ -2,7 +2,7 @@
 layout: post
 title: "Summer camp: idea and reasoning"
 date: 2013-08-18
-author: Jelena Barinova
+author: Lena Barinova
 id: 245
 categories:
   - Experiments

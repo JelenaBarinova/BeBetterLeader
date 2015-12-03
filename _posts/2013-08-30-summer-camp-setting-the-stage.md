@@ -2,7 +2,7 @@
 layout: post
 title: "Summer camp: setting the stage"
 date: 2013-08-30
-author: Jelena Barinova
+author: Lena Barinova
 id: 257
 categories:
   - Experiments

@@ -3,7 +3,7 @@ layout: post
 title: "How do I hire"
 subtitle: "Some rules that I follow while hiring"
 date: 2013-09-25
-author: Jelena Barinova
+author: Lena Barinova
 id: 345
 categories:
   - Know-how

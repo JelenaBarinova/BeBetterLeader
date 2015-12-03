@@ -3,7 +3,7 @@ layout: post
 title: "Here is how I spend my weekdays as unemployed"
 subtitle: "Trying to make the best of my time"
 date: 2015-02-25
-author: Jelena Barinova
+author: Lena Barinova
 id: 10675
 categories:
   - Improvements

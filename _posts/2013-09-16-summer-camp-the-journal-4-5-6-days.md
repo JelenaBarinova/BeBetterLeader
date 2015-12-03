@@ -2,7 +2,7 @@
 layout: post
 title: "Summer camp: the journal (4, 5, 6 days)"
 date: 2013-09-16
-author: Jelena Barinova
+author: Lena Barinova
 id: 313
 categories:
   - Experiments

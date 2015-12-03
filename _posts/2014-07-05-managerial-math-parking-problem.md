@@ -3,7 +3,7 @@ layout: post
 title: "Managerial math: Parking Problem"
 subtitle: "How to split parking among employees?"
 date: 2014-07-05
-author: Jelena Barinova
+author: Lena Barinova
 id: 516
 categories:
   - Know-how

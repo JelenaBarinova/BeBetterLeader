@@ -3,7 +3,7 @@ layout: post
 title: "I'm going to 'Stoos in action'!!!"
 subtitle: "Excited about meeting new people"
 date: 2013-08-08
-author: Jelena Barinova
+author: Lena Barinova
 id: 10710
 categories:
   - Improvements

@@ -3,7 +3,7 @@ layout: post
 title: "Games to play during workshops and training"
 subtitle: "A list of games and exercises for your next workshop or teambuilding"
 date: 2013-08-25
-author: Jelena Barinova
+author: Lena Barinova
 id: 262
 categories:
   - Workshops

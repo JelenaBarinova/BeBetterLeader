@@ -3,7 +3,7 @@ layout: post
 title: "Everyone needs a mentor"
 subtitle: "Ways to boost your improvement"
 date: 2014-12-16
-author: Jelena Barinova
+author: Lena Barinova
 tags:
 id: 675
 categories:

@@ -3,7 +3,7 @@ layout: post
 title: "Walking meetings are just great!"
 subtitle:   "After trying walking meetings"
 date: 2013-08-29
-author: Jelena Barinova
+author: Lena Barinova
 id: 284
 categories:
   - Know-how

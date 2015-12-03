@@ -2,7 +2,7 @@
 layout: post
 title: "Move your table and take off your headphones"
 date: 2013-06-06
-author: Jelena Barionova
+author: Lena Barionova
 id: 176
 categories:
   - Know-how

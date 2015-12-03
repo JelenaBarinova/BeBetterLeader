@@ -3,7 +3,7 @@ layout: post
 title: "How do I form teams?"
 subtitle: "Basic principles in team formation that I follow"
 date: 2013-12-01
-author: Jelena Barinova
+author: Lena Barinova
 id: 404
 categories:
   - Know-how

@@ -3,7 +3,7 @@ layout: post
 title: "Keep calm and meet challenges"
 subtitle: "How I deal with incidents"
 date: 2014-09-09
-author: Jelena Barinova
+author: Lena Barinova
 id: 571
 categories:
   - Presentations

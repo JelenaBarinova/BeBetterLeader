@@ -3,7 +3,7 @@ layout: post
 title: "There is no right time to fire"
 subtitle: "Some thoughts on how to execute this hard decision"
 date: 2013-04-29
-author: Jelena Barinova
+author: Lena Barinova
 id: 159
 categories:
   - Know-how

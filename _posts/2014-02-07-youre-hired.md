@@ -3,7 +3,7 @@ layout: post
 title: "You're hired"
 subtitle: "This is how I do onboarding of new team members"
 date: 2014-02-07
-author: Jelena Barinova
+author: Lena Barinova
 id: 415
 categories:
   - Know-how
@@ -27,7 +27,7 @@ So you've done a huge job - you've hired a person. What's next? And here comes a
 
 > How do you feel?
 
-> Have you expectations been met? 
+> Have you expectations been met?
 
 > Would you like to change something? What? How? Why haven't you changed it already? What stops you?
 

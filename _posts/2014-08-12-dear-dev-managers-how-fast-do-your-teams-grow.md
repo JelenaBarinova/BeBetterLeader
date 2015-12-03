@@ -3,7 +3,7 @@ layout: post
 title: "Dear dev managers, how fast do your teams grow?"
 subtitle: "The growth of my team explained"
 date: 2014-08-12
-author: Jelena Barinova
+author: Lena Barinova
 id: 532
 categories:
   - Know-how

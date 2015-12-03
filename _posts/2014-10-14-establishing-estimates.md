@@ -3,7 +3,7 @@ layout: post
 title: "Establishing estimates"
 subtitle: "How to establish task estimates in a newly formed team"
 date: 2014-10-14
-author: Jelena Barinova
+author: Lena Barinova
 id: 594
 categories:
   - Workshops

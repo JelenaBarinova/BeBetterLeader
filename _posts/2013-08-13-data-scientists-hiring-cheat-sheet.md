@@ -3,7 +3,7 @@ layout: post
 title: "Data scientists hiring 'cheat sheet'"
 subtitle: "That's what I ask during interviews"
 date: 2013-08-13
-author: Jelena Barinova
+author: Lena Barinova
 id: 10710
 categories:
   - Know-how

@@ -2,7 +2,7 @@
 layout: post
 title: "Wouldn't it be awesome to be able to do telepathy?"
 date: 2013-11-07
-author: Jelena Barinova
+author: Lena Barinova
 id: 399
 categories:
   - Know-how

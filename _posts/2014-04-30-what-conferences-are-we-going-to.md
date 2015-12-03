@@ -3,7 +3,7 @@ layout: post
 title: "What conferences are we going to?"
 subtitle: "The list of conferences my team attends"
 date: 2014-04-30
-author: Jelena Barinova
+author: Lena Barinova
 id: 474
 categories:
   - Know-how

@@ -3,7 +3,7 @@ layout: post
 title: "Organize for Comlexity"
 subtitle: "A book review"
 date: 2014-11-26
-author: Jelena Barinova
+author: Lena Barinova
 id: 677
 categories:
   - Books
