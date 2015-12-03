@@ -5,13 +5,13 @@
     <description>Practical notes on leadership improvements</description>
     <link>http://bebetterleader.com/</link>
     <atom:link href="http://bebetterleader.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 17 Aug 2015 14:00:26 -0700</pubDate>
-    <lastBuildDate>Mon, 17 Aug 2015 14:00:26 -0700</lastBuildDate>
+    <pubDate>Thu, 03 Dec 2015 14:25:18 -0800</pubDate>
+    <lastBuildDate>Thu, 03 Dec 2015 14:25:18 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Ideal team size: less is more</title>
-        <description>&lt;p&gt;There are different theories on what’s the optimal size for a team. In a first Scrum guide it was mentioned that development team should be &lt;strong&gt;5-9&lt;/strong&gt; &lt;a href=&quot;http://www.evolvebeyond.com/site/wp-content/uploads/2014/05/Scrum-Guide-1.pdf&quot;&gt;Scrum guide, February 2010&lt;/a&gt;. Amazon has &lt;a href=&quot;http://www.fastcompany.com/50106/inside-mind-jeff-bezos&quot;&gt;two pizza rule&lt;/a&gt;, which is what? &lt;strong&gt;4-7&lt;/strong&gt; members or so. Jurgen Appelo suggests it’s &lt;strong&gt;5&lt;/strong&gt; in a blog post &lt;a href=&quot;http://noop.nl/2009/04/the-optimal-team-size-is-five.html&quot;&gt;The Optimal Team Size is Five&lt;/a&gt;. &lt;/p&gt;
+        <description>&lt;p&gt;There are different theories on what’s the optimal size for a team. In a first Scrum guide it was mentioned that development team should be &lt;strong&gt;5-9&lt;/strong&gt; &lt;a href=&quot;http://www.evolvebeyond.com/site/wp-content/uploads/2014/05/Scrum-Guide-1.pdf&quot;&gt;Scrum guide, February 2010&lt;/a&gt;. Amazon has &lt;a href=&quot;http://www.fastcompany.com/50106/inside-mind-jeff-bezos&quot;&gt;two pizza rule&lt;/a&gt;, which is what? &lt;strong&gt;4-7&lt;/strong&gt; members or so. Jurgen Appelo suggests it’s &lt;strong&gt;5&lt;/strong&gt; in a blog post &lt;a href=&quot;http://noop.nl/2009/04/the-optimal-team-size-is-five.html&quot;&gt;The Optimal Team Size is Five&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/post_img/3.png&quot; alt=&quot;3&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
 
@@ -20,9 +20,9 @@
 &lt;p&gt;This is why I think so:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Smaller team - less risk. I see it as an analogy to Continuous delivery and risk correlation. The less code you produce and more frequently you release - less risk of breaking something you have. &lt;/li&gt;
-  &lt;li&gt;The smaller the team - the more important each member is. When you are a member of a small team - you make much bigger impact in oppose to for example if you are one of 9 members in a team. &lt;/li&gt;
-  &lt;li&gt;Having a constrain of small teams - you will be forced to architecture your solution as decoupled as you can. Most of the time it’s a good thing if you plan to grow and scale. Which is in synch with microservices concept, everyone is talking about now.  &lt;/li&gt;
+  &lt;li&gt;Smaller team - less risk. I see it as an analogy to Continuous delivery and risk correlation. The less code you produce and more frequently you release - less risk of breaking something you have.&lt;/li&gt;
+  &lt;li&gt;The smaller the team - the more important each member is. When you are a member of a small team - you make much bigger impact in oppose to for example if you are one of 9 members in a team.&lt;/li&gt;
+  &lt;li&gt;Having a constrain of small teams - you will be forced to architecture your solution as decoupled as you can. Most of the time it’s a good thing if you plan to grow and scale. Which is in synch with microservices concept, everyone is talking about now.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Since &lt;a href=&quot;https://en.wikipedia.org/wiki/Team&quot;&gt;team is a group of people&lt;/a&gt; and 1 is totally not a group and 2 is a couple :), then 3 - is a group and the smallest possible team.&lt;/p&gt;
@@ -31,8 +31,8 @@
 
 &lt;ul&gt;
   &lt;li&gt;When the team is 3 - it’s easier to cover for each other. Most likely you will avoid ending up with the situation when only one team member knows particular part of the code, because of a huge scope your team owns.&lt;/li&gt;
-  &lt;li&gt;Conformance will be the highest in a team of 3. According to a social impact theory, &lt;a href=&quot;https://en.wikipedia.org/wiki/Normative_social_influence&quot;&gt;conformance is at it’s peak when the team is 3-4&lt;/a&gt;. Meaning that attitudes, beliefs and behaviour will match easier in such team. And as you know: &lt;em&gt;Social pressure, used correctly: far more powerful that hierarchy, no damaging side-effects&lt;/em&gt; from &lt;a href=&quot;http://www.organizeforcomplexity.com/&quot;&gt;Organize for Complexity&lt;/a&gt;. &lt;/li&gt;
-  &lt;li&gt;When you are in a really small team - the feeling of being involved and making a change is strong and direct - your actions are more immediate. &lt;/li&gt;
+  &lt;li&gt;Conformance will be the highest in a team of 3. According to a social impact theory, &lt;a href=&quot;https://en.wikipedia.org/wiki/Normative_social_influence&quot;&gt;conformance is at it’s peak when the team is 3-4&lt;/a&gt;. Meaning that attitudes, beliefs and behaviour will match easier in such team. And as you know: &lt;em&gt;Social pressure, used correctly: far more powerful that hierarchy, no damaging side-effects&lt;/em&gt; from &lt;a href=&quot;http://www.organizeforcomplexity.com/&quot;&gt;Organize for Complexity&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;When you are in a really small team - the feeling of being involved and making a change is strong and direct - your actions are more immediate.&lt;/li&gt;
   &lt;li&gt;3 is an odd number, which is good when you need to vote for something in the team - you avoid ending-up in a dead heat.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -61,9 +61,9 @@ To tell the truth, I prefer when teams form and evolve naturaly; but if I needed
       <item>
         <title>Contributing to BeBetterDeveloper blog</title>
         <description>&lt;p&gt;&lt;img src=&quot;/img/post_img/bebetterdeveloper.jpg&quot; alt=&quot;BeBetterDeveloper&quot; class=&quot;right&quot; style=&quot;width: 400px&quot; /&gt;
-You probably have noticed, that a couple of my recent blog posts are a bit too technical to be published under BeBetterLeader name. Since some of my readers are leading or seeking to lead non-technical (not software development related) teams, I decided to move these posts under the &lt;a href=&quot;http://bebetteredeveloper.com&quot;&gt;BeBetterDeveloper&lt;/a&gt; name. I plan to continue writing more of them. &lt;/p&gt;
+You probably have noticed, that a couple of my recent blog posts are a bit too technical to be published under BeBetterLeader name. Since some of my readers are leading or seeking to lead non-technical (not software development related) teams, I decided to move these posts under the &lt;a href=&quot;http://bebetteredeveloper.com&quot;&gt;BeBetterDeveloper&lt;/a&gt; name. I plan to continue writing more of them.&lt;/p&gt;
 
-&lt;p&gt;So if you are interested in JavaScript, React.js, Flux, AngularJS, Gulp, Mocha and other JavaScript frameworks, tools and libraries - check it out or maybe &lt;a href=&quot;http://bebetterdeveloper.com/feed.xml&quot;&gt;follow it&lt;/a&gt; :). &lt;/p&gt;
+&lt;p&gt;So if you are interested in JavaScript, React.js, Flux, AngularJS, Gulp, Mocha and other JavaScript frameworks, tools and libraries - check it out or maybe &lt;a href=&quot;http://bebetterdeveloper.com/feed.xml&quot;&gt;follow it&lt;/a&gt; :).&lt;/p&gt;
 
 &lt;p&gt;If you are not into programming, that’s awesome - you are more than welcome here ;) I will definitely keep on posting my ideas in this blog.&lt;/p&gt;
 </description>
@@ -87,21 +87,21 @@ I have 2 simple steps  (running one after other in this sequence):&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;Transform XLS files: I precompile React JSX template files into plain JavaScript using gulp-react: 
-  &lt;script src=&quot;https://gist.github.com/JelenaBarinova/b7b58c270e3e560056b3.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+    &lt;p&gt;Transform XLS files: I precompile React JSX template files into plain JavaScript using gulp-react:
+  &lt;script src=&quot;https://gist.github.com/LenaBarinova/b7b58c270e3e560056b3.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Transform ES2015 files: I take JavaScript files, produced after first transformation and turn them into ES5 files using gulp-babel: 
-  &lt;script src=&quot;https://gist.github.com/JelenaBarinova/7245b2c53e06eb8772ab.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+    &lt;p&gt;Transform ES2015 files: I take JavaScript files, produced after first transformation and turn them into ES5 files using gulp-babel:
+  &lt;script src=&quot;https://gist.github.com/LenaBarinova/7245b2c53e06eb8772ab.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Here it all gathered and chained together:
-&lt;script src=&quot;https://gist.github.com/JelenaBarinova/95b2d933b6f75d6cc495.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/LenaBarinova/95b2d933b6f75d6cc495.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 
 &lt;p&gt;In addition to two transformation tasks I like to open output in browser, for this I use gulp-open.&lt;/p&gt;
 
-&lt;p&gt;I use &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; as my IDE, so I have set this gulp task named “build” as a build task in VS Code settings.&lt;br /&gt;
+&lt;p&gt;I use &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; as my IDE, so I have set this gulp task named “build” as a build task in VS Code settings.
 &lt;img src=&quot;/img/post_img/vs-code-settings.png&quot; alt=&quot;Blog infrastructure&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And now once I change code and want to check it - I just press ⇧⌘B (on Mac) and the result is in front of me.&lt;/p&gt;
@@ -129,11 +129,11 @@ I have 2 simple steps  (running one after other in this sequence):&lt;/p&gt;
         <title>&#39;Static HTML&#39; is the new Black</title>
         <description>&lt;p&gt;&lt;img src=&quot;/img/post_img/old-blog.png&quot; alt=&quot;Old blog&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This blog was created in March, 2013. Back then I decided to make it in Wordpress. Since public Wordpress has very limited functionality - I chose on-site Wordpress, but I needed to host it somewhere. My husband is Azure MVP :) so this was no brainer - Azure it was. &lt;/p&gt;
+&lt;p&gt;This blog was created in March, 2013. Back then I decided to make it in Wordpress. Since public Wordpress has very limited functionality - I chose on-site Wordpress, but I needed to host it somewhere. My husband is Azure MVP :) so this was no brainer - Azure it was.&lt;/p&gt;
 
-&lt;p&gt;For two years it served it’s purpose, but now I want simplier setup with more freedom to change the appearance. &lt;/p&gt;
+&lt;p&gt;For two years it served it’s purpose, but now I want simplier setup with more freedom to change the appearance.&lt;/p&gt;
 
-&lt;p&gt;A couple of weeks ago I introduced new version of this blog. Now it is static HTML pages, originally written in mardown, then Jekyll generated to static HTML pages and hosted on GitHub Pages. &lt;/p&gt;
+&lt;p&gt;A couple of weeks ago I introduced new version of this blog. Now it is static HTML pages, originally written in mardown, then Jekyll generated to static HTML pages and hosted on GitHub Pages.&lt;/p&gt;
 
 &lt;p&gt;In this blog post I’ll shortly compare several aspects of previous and currents setups.&lt;/p&gt;
 
@@ -152,7 +152,7 @@ I have 2 simple steps  (running one after other in this sequence):&lt;/p&gt;
 &lt;p&gt;Monthly costs for Azure services were quite low: 30 days of Azure SQL Server and 720 hours of Web Services cost up tp 9 EUR (not that I need to pay it, this figure is basically for those bloggers who doesn’t have a Azure-MVP-husband).&lt;/p&gt;
 
 &lt;h3 id=&quot;new-github-pages&quot;&gt;New (GitHub Pages)&lt;/h3&gt;
-&lt;p&gt;New blog setup doesn’t require to worry about infrastructure and services - it’s all taken care by GitHub. Current setup is very simple and easy. I just created gh-pages branch for my site - and it worked - seamlessly. &lt;/p&gt;
+&lt;p&gt;New blog setup doesn’t require to worry about infrastructure and services - it’s all taken care by GitHub. Current setup is very simple and easy. I just created gh-pages branch for my site - and it worked - seamlessly.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/post_img/gh-blog-deployment-schema.png&quot; alt=&quot;GitHub pages in use&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
 
@@ -165,12 +165,12 @@ I have 2 simple steps  (running one after other in this sequence):&lt;/p&gt;
 &lt;p&gt;Wordpress has a pretty good administration site. So new blog post creation was very simple - just write a text, add pictures, press publish and &lt;em&gt;voilà!&lt;/em&gt; - you have your post published. Though I had not that much control of how post looked.&lt;/p&gt;
 
 &lt;h3 id=&quot;new-github-pages-1&quot;&gt;New (GitHub Pages)&lt;/h3&gt;
-&lt;p&gt;Now it’s even easier - I can simply write a markdown (and it’s very flexible I may flavour it with HTML - and make anything I like in it) on a GitHub and it automatically appears publicly. 
-Although, as for me I don’t feel that strong to “code in production” - I need to double check everything in a test environment (posts as well).&lt;br /&gt;
+&lt;p&gt;Now it’s even easier - I can simply write a markdown (and it’s very flexible I may flavour it with HTML - and make anything I like in it) on a GitHub and it automatically appears publicly.
+Although, as for me I don’t feel that strong to “code in production” - I need to double check everything in a test environment (posts as well).
 So what I do - is I have two branches: &lt;em&gt;master&lt;/em&gt; and &lt;em&gt;gh-pages&lt;/em&gt;. In a master branch I have all the sources of the blog. Once I add new blog post - I run Jekyll locally to test it. Jekyll generates HTML to &lt;em&gt;gh-pages&lt;/em&gt; branch for me. So when I’m happy with a new blog post - I just push it to GitHub.&lt;/p&gt;
 
 &lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;Shortly - I love everything about my current blog: how it looks, the setup, maintainance effort[less]. &lt;/p&gt;
+&lt;p&gt;Shortly - I love everything about my current blog: how it looks, the setup, maintainance effort[less].&lt;/p&gt;
 
 &lt;h4 id=&quot;pros&quot;&gt;PROS&lt;/h4&gt;
 &lt;ul&gt;
