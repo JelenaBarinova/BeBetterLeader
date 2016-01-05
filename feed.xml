@@ -5,8 +5,8 @@
     <description>Practical notes on leadership improvements</description>
     <link>http://bebetterleader.com/</link>
     <atom:link href="http://bebetterleader.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 03 Dec 2015 14:28:18 -0800</pubDate>
-    <lastBuildDate>Thu, 03 Dec 2015 14:28:18 -0800</lastBuildDate>
+    <pubDate>Mon, 04 Jan 2016 16:45:53 -0800</pubDate>
+    <lastBuildDate>Mon, 04 Jan 2016 16:45:53 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -82,7 +82,9 @@ You probably have noticed, that a couple of my recent blog posts are a bit too t
     
       <item>
         <title>ES2015 + React using Gulp</title>
-        <description>&lt;p&gt;Recently I started exploring new features of ECMAScript 2015 while using React. So here is how I set-up my dev environment with &lt;a href=&quot;http://gulpjs.com/&quot;&gt;gulp&lt;/a&gt;.
+        <description>&lt;p&gt;&lt;em&gt;1/4/2016: I have updated this blog post by adding steps to install needed libraries and created npm package for easy and fast start.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Recently I started exploring new features of ECMAScript 2015 while using React. So here is how I set-up my dev environment with &lt;a href=&quot;http://gulpjs.com/&quot;&gt;gulp&lt;/a&gt;.
 I have 2 simple steps  (running one after other in this sequence):&lt;/p&gt;
 
 &lt;ol&gt;
@@ -96,6 +98,11 @@ I have 2 simple steps  (running one after other in this sequence):&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;p&gt;Before running these tasks be sure you have all necessary packages installed on your machine:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$npm install gulp gulp-react gulp-babel gulp-open
+&lt;/code&gt;&lt;/pre&gt;
+
 &lt;p&gt;Here it all gathered and chained together:
 &lt;script src=&quot;https://gist.github.com/LenaBarinova/95b2d933b6f75d6cc495.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 
@@ -105,6 +112,14 @@ I have 2 simple steps  (running one after other in this sequence):&lt;/p&gt;
 &lt;img src=&quot;/img/post_img/vs-code-settings.png&quot; alt=&quot;Blog infrastructure&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And now once I change code and want to check it - I just press ⇧⌘B (on Mac) and the result is in front of me.&lt;/p&gt;
+
+&lt;p&gt;To try it working on your machine:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone git@github.com:LenaBarinova/react-es6-gulp-example.git
+cd react-es6-gulp-example
+npm install gulp gulp-react gulp-babel gulp-open
+gulp build
+&lt;/code&gt;&lt;/pre&gt;
 </description>
         <pubDate>Tue, 14 Jul 2015 00:00:00 -0700</pubDate>
         <link>http://bebetterleader.com/coding/es6-react-babel.html</link>

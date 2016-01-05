@@ -52,7 +52,7 @@
 <meta property="og:url" content="http://bebetterleader.com/coding/es6-react-babel.html">
 <meta property="og:image" content="http://bebetterleader.comhttps://gist.github.com/LenaBarinova/b7b58c270e3e560056b3.js">
 
-<meta property="og:description" content="Recently I started exploring new features of ECMAScript 2015 while using React. So here is how I set-up my dev environment with gulp.I have 2 simple steps  (...">
+<meta property="og:description" content="1/4/2016: I have updated this blog post by adding steps to install needed libraries and created npm package for easy and fast start.">
 <meta property="og:site_name" content="Be a Better Leader">
 
 
@@ -181,7 +181,9 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-				<p>Recently I started exploring new features of ECMAScript 2015 while using React. So here is how I set-up my dev environment with <a href="http://gulpjs.com/">gulp</a>.
+				<p><em>1/4/2016: I have updated this blog post by adding steps to install needed libraries and created npm package for easy and fast start.</em></p>
+
+<p>Recently I started exploring new features of ECMAScript 2015 while using React. So here is how I set-up my dev environment with <a href="http://gulpjs.com/">gulp</a>.
 I have 2 simple steps  (running one after other in this sequence):</p>
 
 <ol>
@@ -195,6 +197,11 @@ I have 2 simple steps  (running one after other in this sequence):</p>
   </li>
 </ol>
 
+<p>Before running these tasks be sure you have all necessary packages installed on your machine:</p>
+
+<pre><code>$npm install gulp gulp-react gulp-babel gulp-open
+</code></pre>
+
 <p>Here it all gathered and chained together:
 <script src="https://gist.github.com/LenaBarinova/95b2d933b6f75d6cc495.js"></script></p>
 
@@ -204,6 +211,14 @@ I have 2 simple steps  (running one after other in this sequence):</p>
 <img src="/img/post_img/vs-code-settings.png" alt="Blog infrastructure" class="right" /></p>
 
 <p>And now once I change code and want to check it - I just press ⇧⌘B (on Mac) and the result is in front of me.</p>
+
+<p>To try it working on your machine:</p>
+
+<pre><code>git clone git@github.com:LenaBarinova/react-es6-gulp-example.git
+cd react-es6-gulp-example
+npm install gulp gulp-react gulp-babel gulp-open
+gulp build
+</code></pre>
 
 
                 <hr>
@@ -299,7 +314,7 @@ I have 2 simple steps  (running one after other in this sequence):</p>
                     </li>
                     
                 </ul>
-                <p class="copyright text-muted">Copyright &copy; Be a Better Leader 2015</p>
+                <p class="copyright text-muted">Copyright &copy; Be a Better Leader 2016</p>
             </div>
         </div>
     </div>
