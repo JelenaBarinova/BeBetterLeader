@@ -15,6 +15,8 @@ categories:
   - Coding
 ---
 
+_1/4/2016: I have updated this blog post by adding steps to install needed libraries and added command list for easy and fast start._ 
+
 Recently I started exploring new features of ECMAScript 2015 while using React. So here is how I set-up my dev environment with [gulp](http://gulpjs.com/).
 I have 2 simple steps  (running one after other in this sequence):
 
@@ -23,6 +25,12 @@ I have 2 simple steps  (running one after other in this sequence):
 
 2. Transform ES2015 files: I take JavaScript files, produced after first transformation and turn them into ES5 files using gulp-babel:
   <script src="https://gist.github.com/LenaBarinova/7245b2c53e06eb8772ab.js"></script>
+
+Before running these tasks be sure you have all necessary packages installed on your machine:
+
+~~~
+$npm install gulp gulp-react gulp-babel gulp-open
+~~~
 
 Here it all gathered and chained together:
 <script src="https://gist.github.com/LenaBarinova/95b2d933b6f75d6cc495.js"></script>
@@ -33,3 +41,12 @@ I use [Visual Studio Code](https://code.visualstudio.com/) as my IDE, so I have 
 <img src="{{ site.baseurl }}/img/post_img/vs-code-settings.png" alt="Blog infrastructure" class="right" />
 
 And now once I change code and want to check it - I just press ⇧⌘B (on Mac) and the result is in front of me.
+
+To try it working on your machine:
+
+~~~
+git clone git@github.com:LenaBarinova/react-es6-gulp-example.git
+cd react-es6-gulp-example
+npm install gulp gulp-react gulp-babel gulp-open
+gulp build
+~~~
