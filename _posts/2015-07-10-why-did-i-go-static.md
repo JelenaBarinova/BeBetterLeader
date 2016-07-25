@@ -13,9 +13,9 @@ categories:
 
 This blog was created in March, 2013. Back then I decided to make it in Wordpress. Since public Wordpress has very limited functionality - I chose on-site Wordpress, but I needed to host it somewhere. My husband is Azure MVP :) so this was no brainer - Azure it was.
 
-For two years it served it's purpose, but now I want simplier setup with more freedom to change the appearance.
+For two years it served it's purpose, but now I want simpler setup with more freedom to change the appearance.
 
-A couple of weeks ago I introduced new version of this blog. Now it is static HTML pages, originally written in mardown, then Jekyll generated to static HTML pages and hosted on GitHub Pages.
+A couple of weeks ago I introduced new version of this blog. Now it is static HTML pages, originally written in markdown, then Jekyll generated to static HTML pages and hosted on GitHub Pages.
 
 In this blog post I'll shortly compare several aspects of previous and currents setups.
 
@@ -48,11 +48,11 @@ Wordpress has a pretty good administration site. So new blog post creation was v
 
 ### New (GitHub Pages)
 Now it's even easier - I can simply write a markdown (and it's very flexible I may flavour it with HTML - and make anything I like in it) on a GitHub and it automatically appears publicly.
-Although, as for me I don't feel that strong to "code in production" - I need to double check everything in a test environment (posts as well).
+Although, as for me I don't feel that strong to "code in production" - I need to double-check everything in a test environment (posts as well).
 So what I do - is I have two branches: _master_ and _gh-pages_. In a master branch I have all the sources of the blog. Once I add new blog post - I run Jekyll locally to test it. Jekyll generates HTML to _gh-pages_ branch for me. So when I'm happy with a new blog post - I just push it to GitHub.
 
 ## Summary
-Shortly - I love everything about my current blog: how it looks, the setup, maintainance effort\[less].
+Shortly - I love everything about my current blog: how it looks, the setup, maintenance effort\[less].
 
 #### PROS
 + no need to maintain infrastructure

@@ -36,6 +36,6 @@ There are some more nice to have features that come with teams of 3:
 * 3 is an odd number, which is good when you need to vote for something in the team - you avoid ending-up in a dead heat.
 
 I worked with different sized teams: from huge ones - ~15 people and to one person 'teams'. I liked teams of 3 the most.
-To tell the truth, I prefer when teams form and evolve naturaly; but if I needed to create one - I'd go with 3 developers.
+To tell the truth, I prefer when teams form and evolve naturally; but if I needed to create one - I'd go with 3 developers.
 
 How big is your team? What's your optimal number?
