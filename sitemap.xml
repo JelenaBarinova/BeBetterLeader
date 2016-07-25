@@ -1,263 +1,252 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://bebetterleader.com/know-how/ideal-team-size-less-is-more.html</loc>
-    <lastmod>2015-08-05T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/coding/contributing-to-bebetteredeveloper-blog.html</loc>
-    <lastmod>2015-08-05T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/coding/es6-react-babel.html</loc>
-    <lastmod>2015-07-14T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/coding/why-did-i-go-static.html</loc>
-    <lastmod>2015-07-10T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/books/quiet.html</loc>
-    <lastmod>2015-04-07T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/improvements/here-is-how-i-spend-my-weekdays-as-unemployed.html</loc>
-    <lastmod>2015-02-25T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/coding/a-must-know-for-each-dev-and-dev-manager.html</loc>
-    <lastmod>2015-01-21T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/late-retro-of-2014.html</loc>
-    <lastmod>2015-01-07T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/improvements/everyone-needs-a-mentor.html</loc>
-    <lastmod>2014-12-16T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/books/organize-for-comlexity.html</loc>
-    <lastmod>2014-11-26T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/off-site-with-teams-2.html</loc>
-    <lastmod>2014-11-05T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/workshops/establishing-estimates.html</loc>
-    <lastmod>2014-10-14T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/11.html</loc>
-    <lastmod>2014-09-23T01:00:59-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/presentations/keep-calm-and-meet-challengies.html</loc>
-    <lastmod>2014-09-09T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/how-to-answer-salary-expectations-question.html</loc>
-    <lastmod>2014-08-26T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/dear-dev-managers-how-fast-do-your-teams-grow.html</loc>
-    <lastmod>2014-08-12T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/managerial-math-parking-problem.html</loc>
-    <lastmod>2014-07-05T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/if-i-were-hiring-a-product-owner.html</loc>
-    <lastmod>2014-07-05T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/women%20in%20tech/this-is-not-my-boyfriends-computer.html</loc>
-    <lastmod>2014-06-29T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/what-i-value-most-about-agile.html</loc>
-    <lastmod>2014-05-19T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/what-conferences-are-we-going-to.html</loc>
-    <lastmod>2014-04-30T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/off-site-with-teams.html</loc>
-    <lastmod>2014-04-22T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/experiments/failed-never-praise-for-standards.html</loc>
-    <lastmod>2014-02-16T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/what-do-i-really-do.html</loc>
-    <lastmod>2014-02-15T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/youre-hired.html</loc>
-    <lastmod>2014-02-07T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/books/a-mind-of-its-own.html</loc>
-    <lastmod>2014-01-24T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/my-retro-of-2013.html</loc>
-    <lastmod>2013-12-30T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/how-do-i-form-teams.html</loc>
-    <lastmod>2013-12-01T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/wouldnt-it-be-awesome-to-be-able-to-do-telepathy.html</loc>
-    <lastmod>2013-11-07T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/presentations/teamwork.html</loc>
-    <lastmod>2013-10-23T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/books/unboss.html</loc>
-    <lastmod>2013-10-13T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/workshops/lean-coffee-during-agile-tour-vilnius.html</loc>
-    <lastmod>2013-10-07T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/experiments/summer-camp-results-2x-performance-but-feels-like-on-vacations.html</loc>
-    <lastmod>2013-09-30T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/how-do-i-hire.html</loc>
-    <lastmod>2013-09-25T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/experiments/summer-camp-the-journal-10-11-12-days.html</loc>
-    <lastmod>2013-09-20T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/experiments/summer-camp-the-journal-7-8-9-days.html</loc>
-    <lastmod>2013-09-18T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/experiments/summer-camp-the-journal-4-5-6-days.html</loc>
-    <lastmod>2013-09-16T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/experiments/summer-camp-the-journal-1-2-3-days.html</loc>
-    <lastmod>2013-09-12T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/experiments/summer-camp-off-to-mallorca.html</loc>
-    <lastmod>2013-09-10T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/presentations/qa-with-me.html</loc>
-    <lastmod>2013-09-04T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/experiments/summer-camp-setting-the-stage.html</loc>
-    <lastmod>2013-08-30T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/walking-meetings-are-just-great.html</loc>
-    <lastmod>2013-08-29T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/workshops/games-to-play-during-workshops-and-training.html</loc>
-    <lastmod>2013-08-25T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/experiments/summer-camp-idea-and-reasoning.html</loc>
-    <lastmod>2013-08-18T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/data-scientists-hiring-cheat-sheet.html</loc>
-    <lastmod>2013-08-13T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/walking-and-talking.html</loc>
-    <lastmod>2013-08-12T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/improvements/im-going-to-stoos-in-action.html</loc>
-    <lastmod>2013-08-08T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/workshops/lean-coffee-first-try.html</loc>
-    <lastmod>2013-08-04T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/let-team-decide-hire-or-fire.html</loc>
-    <lastmod>2013-06-17T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/move-your-table-and-take-off-your-headphones.html</loc>
-    <lastmod>2013-06-06T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/everyone-in-a-company-should-work-for-a-week-in-customer-support.html</loc>
-    <lastmod>2013-05-31T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/presentations/73-tips-to-become-a-better-leader.html</loc>
-    <lastmod>2013-05-14T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/there-is-no-right-time-to-fire.html</loc>
-    <lastmod>2013-04-29T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/experiments/failed-experiment-self-designing-teams.html</loc>
-    <lastmod>2013-04-10T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/improvements/learn-learn-and-once-again-learn.html</loc>
-    <lastmod>2013-03-28T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/workshops/lego-game-for-kanban-workshop.html</loc>
-    <lastmod>2013-03-24T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/know-how/annual-result-review-and-targets-grooming.html</loc>
-    <lastmod>2013-03-17T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/presentations/agile-adform-lecture-at-university.html</loc>
-    <lastmod>2013-03-15T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/experiments/hello-world.html</loc>
-    <lastmod>2013-03-12T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/about.html</loc>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/categories.html</loc>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/</loc>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/page2/</loc>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/page3/</loc>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/page4/</loc>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/page5/</loc>
-  </url>
-  <url>
-    <loc>http://bebetterleader.com/page6/</loc>
-  </url>
+<url>
+<loc>http://bebetterleader.com/know-how/searching-for-a-job-in-seattle-the-journal-months-1-2-3.html</loc>
+<lastmod>2016-07-24T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/ideal-team-size-less-is-more.html</loc>
+<lastmod>2015-08-05T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/coding/contributing-to-bebetteredeveloper-blog.html</loc>
+<lastmod>2015-08-05T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/coding/es6-react-babel.html</loc>
+<lastmod>2015-07-14T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/coding/why-did-i-go-static.html</loc>
+<lastmod>2015-07-10T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/books/quiet.html</loc>
+<lastmod>2015-04-07T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/improvements/here-is-how-i-spend-my-weekdays-as-unemployed.html</loc>
+<lastmod>2015-02-25T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/coding/a-must-know-for-each-dev-and-dev-manager.html</loc>
+<lastmod>2015-01-21T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/late-retro-of-2014.html</loc>
+<lastmod>2015-01-07T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/improvements/everyone-needs-a-mentor.html</loc>
+<lastmod>2014-12-16T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/books/organize-for-comlexity.html</loc>
+<lastmod>2014-11-26T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/off-site-with-teams-2.html</loc>
+<lastmod>2014-11-05T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/workshops/establishing-estimates.html</loc>
+<lastmod>2014-10-14T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/11.html</loc>
+<lastmod>2014-09-23T01:00:59-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/presentations/keep-calm-and-meet-challengies.html</loc>
+<lastmod>2014-09-09T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/how-to-answer-salary-expectations-question.html</loc>
+<lastmod>2014-08-26T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/dear-dev-managers-how-fast-do-your-teams-grow.html</loc>
+<lastmod>2014-08-12T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/managerial-math-parking-problem.html</loc>
+<lastmod>2014-07-05T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/if-i-were-hiring-a-product-owner.html</loc>
+<lastmod>2014-07-05T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/women%2520in%2520tech/this-is-not-my-boyfriends-computer.html</loc>
+<lastmod>2014-06-29T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/what-i-value-most-about-agile.html</loc>
+<lastmod>2014-05-19T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/what-conferences-are-we-going-to.html</loc>
+<lastmod>2014-04-30T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/off-site-with-teams.html</loc>
+<lastmod>2014-04-22T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/experiments/failed-never-praise-for-standards.html</loc>
+<lastmod>2014-02-16T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/what-do-i-really-do.html</loc>
+<lastmod>2014-02-15T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/youre-hired.html</loc>
+<lastmod>2014-02-07T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/books/a-mind-of-its-own.html</loc>
+<lastmod>2014-01-24T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/my-retro-of-2013.html</loc>
+<lastmod>2013-12-30T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/how-do-i-form-teams.html</loc>
+<lastmod>2013-12-01T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/wouldnt-it-be-awesome-to-be-able-to-do-telepathy.html</loc>
+<lastmod>2013-11-07T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/presentations/teamwork.html</loc>
+<lastmod>2013-10-23T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/books/unboss.html</loc>
+<lastmod>2013-10-13T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/workshops/lean-coffee-during-agile-tour-vilnius.html</loc>
+<lastmod>2013-10-07T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/experiments/summer-camp-results-2x-performance-but-feels-like-on-vacations.html</loc>
+<lastmod>2013-09-30T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/how-do-i-hire.html</loc>
+<lastmod>2013-09-25T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/experiments/summer-camp-the-journal-10-11-12-days.html</loc>
+<lastmod>2013-09-20T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/experiments/summer-camp-the-journal-7-8-9-days.html</loc>
+<lastmod>2013-09-18T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/experiments/summer-camp-the-journal-4-5-6-days.html</loc>
+<lastmod>2013-09-16T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/experiments/summer-camp-the-journal-1-2-3-days.html</loc>
+<lastmod>2013-09-12T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/experiments/summer-camp-off-to-mallorca.html</loc>
+<lastmod>2013-09-10T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/presentations/qa-with-me.html</loc>
+<lastmod>2013-09-04T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/experiments/summer-camp-setting-the-stage.html</loc>
+<lastmod>2013-08-30T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/walking-meetings-are-just-great.html</loc>
+<lastmod>2013-08-29T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/workshops/games-to-play-during-workshops-and-training.html</loc>
+<lastmod>2013-08-25T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/experiments/summer-camp-idea-and-reasoning.html</loc>
+<lastmod>2013-08-18T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/data-scientists-hiring-cheat-sheet.html</loc>
+<lastmod>2013-08-13T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/walking-and-talking.html</loc>
+<lastmod>2013-08-12T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/improvements/im-going-to-stoos-in-action.html</loc>
+<lastmod>2013-08-08T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/workshops/lean-coffee-first-try.html</loc>
+<lastmod>2013-08-04T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/let-team-decide-hire-or-fire.html</loc>
+<lastmod>2013-06-17T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/move-your-table-and-take-off-your-headphones.html</loc>
+<lastmod>2013-06-06T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/everyone-in-a-company-should-work-for-a-week-in-customer-support.html</loc>
+<lastmod>2013-05-31T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/presentations/73-tips-to-become-a-better-leader.html</loc>
+<lastmod>2013-05-14T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/there-is-no-right-time-to-fire.html</loc>
+<lastmod>2013-04-29T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/experiments/failed-experiment-self-designing-teams.html</loc>
+<lastmod>2013-04-10T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/improvements/learn-learn-and-once-again-learn.html</loc>
+<lastmod>2013-03-28T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/workshops/lego-game-for-kanban-workshop.html</loc>
+<lastmod>2013-03-24T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/know-how/annual-result-review-and-targets-grooming.html</loc>
+<lastmod>2013-03-17T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/presentations/agile-adform-lecture-at-university.html</loc>
+<lastmod>2013-03-15T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/experiments/hello-world.html</loc>
+<lastmod>2013-03-12T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://bebetterleader.com/about.html</loc>
+</url>
+<url>
+<loc>http://bebetterleader.com/categories.html</loc>
+</url>
+<url>
+<loc>http://bebetterleader.com/</loc>
+</url>
 </urlset>
