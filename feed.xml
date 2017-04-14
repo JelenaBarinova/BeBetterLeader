@@ -3,11 +3,88 @@
   <channel>
     <title>Be a Better Leader</title>
     <description>Practical notes on leadership improvements</description>
-    <link>http://bebetterleader.com/</link>
-    <atom:link href="http://bebetterleader.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 Jul 2016 21:28:35 -0700</pubDate>
-    <lastBuildDate>Sun, 24 Jul 2016 21:28:35 -0700</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 13 Apr 2017 22:21:19 -0700</pubDate>
+    <lastBuildDate>Thu, 13 Apr 2017 22:21:19 -0700</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Searching for a job in Seattle 2/2</title>
+        <description>&lt;p&gt;This is the continuation of my job search odyssey (first three months may be found &lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;a href=&quot;http://www.bebetterleader.com/know-how/searching-for-a-job-in-seattle-the-journal-months-1-2-3.html&quot;&gt;here&lt;/a&gt;&lt;/span&gt;).&lt;/p&gt;
+
+&lt;h2 id=&quot;month-4-january-coding&quot;&gt;Month 4 (January): coding&lt;/h2&gt;
+
+&lt;p&gt;I stopped applying desperately for a job. In fact, I found out, that there are around 10 companies  at most that could actually provide H1B sponsorship and those companies are the hardest to get into.&lt;/p&gt;
+
+&lt;p&gt;I decided to invest most of my free time now in coding skills improvement: I’m learning new libraries, remembering programming foundations, working on a couple of personal projects as well as contributing to an open source systems.&lt;/p&gt;
+
+&lt;p&gt;During January I had one more quite successful screening. This is how my work desk looks like just before the screening call:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post_img/job-search-diary-screening.png&quot; alt=&quot;Screening&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I try to surround myself with different notes, diagrams, lists, etc - in case I forget what are my weaknesses :)&lt;/p&gt;
+
+&lt;p&gt;I joined &lt;a href=&quot;http://hired.com&quot;&gt;hired.com&lt;/a&gt;, created a profile there, successfully passed a coding test. My profile got approved! They claim they approve 10% of all applications - so this is quite an achievement. They even have scheduled an auction date for me. But guess what!? :) Right, visa stuff, again! It appears that hired.com works only with the candidates that are authorized to work or have a transferable work visa.&lt;/p&gt;
+
+&lt;p&gt;So this is a list of tasks I have accomplished during January:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Got approved on hired.com&lt;/li&gt;
+  &lt;li&gt;Found a &lt;a href=&quot;https://www.hackerrank.com/&quot;&gt;hacker rank&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Attended meet-ups.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;month-5-februaryhigh-season&quot;&gt;Month 5 (February): high season&lt;/h2&gt;
+
+&lt;p&gt;This was the month that any job seeker would be dreaming to have. I’ve been really busy, having in average 4 calls a week (there were days when I had two interviews a day) with different recruiters and hiring managers. In addition to that I had a full day on-site interview cycle, which was actually fun.&lt;/p&gt;
+
+&lt;p&gt;This is how I prepare for the tech interview:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post_img/job-search-diary-preparation.png&quot; alt=&quot;Preparation for tech interview&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I bought some thin markers (which I actually took to my onsite interview :), the thinner the line, the more code you can write on the same whiteboard area) and some huge paper sheets (that immitate whiteboard for me) to practice coding excerises.&lt;/p&gt;
+
+&lt;p&gt;Now I am a bit more relax, since I’m doing quite well with all those screenings and I’m moving further through interview processes with several different companies. My confidence grows, so as happiness.&lt;/p&gt;
+
+&lt;p&gt;TA DA! Late February I got an offer! It’s an awesome company and a job I could only dream of.&lt;/p&gt;
+
+&lt;p&gt;This is a list of events and tasks for February:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;5 screenings with HR&lt;/li&gt;
+  &lt;li&gt;5 tech screenings&lt;/li&gt;
+  &lt;li&gt;1 whole day on-site interviewing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;month-6-marchthe-end-of-job-search-project&quot;&gt;Month 6 (March): the end of job search ‘project’&lt;/h2&gt;
+
+&lt;p&gt;After getting an offer I went through brief negotiation round and accepted it. My “searching for a job” project is completed successfully and in time. I’m so excited and want to share these great news with the whole world, but I guess I need to suspend emotions here - it’s just the very first step in a long “getting work visa” process.
+After accepting the offer and signing the agreement I canceled my interview appointments with other companies and unsubscribed from LinkedIn’s Job seeker’s subscription.&lt;/p&gt;
+
+&lt;p&gt;This is a list of events and tasks for March:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Accepted offer after one round of negotiations&lt;/li&gt;
+  &lt;li&gt;Canceled interview processes with other 2 companies&lt;/li&gt;
+  &lt;li&gt;Visa application process (I think I’ll have a separate blog post on the visa peculiarities)&lt;/li&gt;
+  &lt;li&gt;Unsubscribed from LinkedIn’s Job seeker premium&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;epilogue&quot;&gt;Epilogue&lt;/h2&gt;
+
+&lt;p&gt;Entering the new era now - H1B application process. Will see what it brings me. But that’s a totally new topic. Who knows maybe later I’ll decide to write a diary entry about it as well.&lt;/p&gt;
+
+&lt;p&gt;I hope this was if not useful then at least interesting to read. I think I will definitely look into these posts if I need to prepare for a job search, though I hope I will not be in a such situation again. I believe I will be “head-hunted” in the future, and I won’t need to search for a job actively ever again.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Apr 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/know-how/searching-for-a-job-in-seattle-the-journal-months-4-5-6.html</link>
+        <guid isPermaLink="true">http://localhost:4000/know-how/searching-for-a-job-in-seattle-the-journal-months-4-5-6.html</guid>
+        
+        
+        <category>Know-how</category>
+        
+      </item>
     
       <item>
         <title>Searching for a job in Seattle 1/2</title>
@@ -81,8 +158,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 24 Jul 2016 00:00:00 -0700</pubDate>
-        <link>http://bebetterleader.com/know-how/searching-for-a-job-in-seattle-the-journal-months-1-2-3.html</link>
-        <guid isPermaLink="true">http://bebetterleader.com/know-how/searching-for-a-job-in-seattle-the-journal-months-1-2-3.html</guid>
+        <link>http://localhost:4000/know-how/searching-for-a-job-in-seattle-the-journal-months-1-2-3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/know-how/searching-for-a-job-in-seattle-the-journal-months-1-2-3.html</guid>
         
         <category>Job search</category>
         
@@ -126,8 +203,8 @@ To tell the truth, I prefer when teams form and evolve naturally; but if I neede
 &lt;p&gt;How big is your team? What’s your optimal number?&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Aug 2015 00:00:00 -0700</pubDate>
-        <link>http://bebetterleader.com/know-how/ideal-team-size-less-is-more.html</link>
-        <guid isPermaLink="true">http://bebetterleader.com/know-how/ideal-team-size-less-is-more.html</guid>
+        <link>http://localhost:4000/know-how/ideal-team-size-less-is-more.html</link>
+        <guid isPermaLink="true">http://localhost:4000/know-how/ideal-team-size-less-is-more.html</guid>
         
         <category>Agile</category>
         
@@ -152,8 +229,8 @@ You probably have noticed, that a couple of my recent blog posts are a bit too t
 &lt;p&gt;If you are not into programming, that’s awesome - you are more than welcome here ;) I will definitely keep on posting my ideas in this blog.&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Aug 2015 00:00:00 -0700</pubDate>
-        <link>http://bebetterleader.com/coding/contributing-to-bebetteredeveloper-blog.html</link>
-        <guid isPermaLink="true">http://bebetterleader.com/coding/contributing-to-bebetteredeveloper-blog.html</guid>
+        <link>http://localhost:4000/coding/contributing-to-bebetteredeveloper-blog.html</link>
+        <guid isPermaLink="true">http://localhost:4000/coding/contributing-to-bebetteredeveloper-blog.html</guid>
         
         <category>Agile</category>
         
@@ -206,8 +283,8 @@ gulp build
 &lt;/code&gt;&lt;/pre&gt;
 </description>
         <pubDate>Tue, 14 Jul 2015 00:00:00 -0700</pubDate>
-        <link>http://bebetterleader.com/coding/es6-react-babel.html</link>
-        <guid isPermaLink="true">http://bebetterleader.com/coding/es6-react-babel.html</guid>
+        <link>http://localhost:4000/coding/es6-react-babel.html</link>
+        <guid isPermaLink="true">http://localhost:4000/coding/es6-react-babel.html</guid>
         
         <category>JavaScript</category>
         
@@ -225,7 +302,7 @@ gulp build
       </item>
     
       <item>
-        <title>&#39;Static HTML&#39; is the new Black</title>
+        <title>'Static HTML' is the new Black</title>
         <description>&lt;p&gt;&lt;img src=&quot;/img/post_img/old-blog.png&quot; alt=&quot;Old blog&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This blog was created in March, 2013. Back then I decided to make it in Wordpress. Since public Wordpress has very limited functionality - I chose on-site Wordpress, but I needed to host it somewhere. My husband is Azure MVP :) so this was no brainer - Azure it was.&lt;/p&gt;
@@ -290,8 +367,8 @@ So what I do - is I have two branches: &lt;em&gt;master&lt;/em&gt; and &lt;em&gt
 &lt;p&gt;P.S.: &lt;em&gt;In my next blog post I’ll go through migration process: shortly describe what steps did it take and what tools and technologies I used. So stay tuned :).&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Jul 2015 00:00:00 -0700</pubDate>
-        <link>http://bebetterleader.com/coding/why-did-i-go-static.html</link>
-        <guid isPermaLink="true">http://bebetterleader.com/coding/why-did-i-go-static.html</guid>
+        <link>http://localhost:4000/coding/why-did-i-go-static.html</link>
+        <guid isPermaLink="true">http://localhost:4000/coding/why-did-i-go-static.html</guid>
         
         
         <category>Coding</category>
@@ -333,8 +410,8 @@ So what I do - is I have two branches: &lt;em&gt;master&lt;/em&gt; and &lt;em&gt
 &lt;p&gt;P.S.: By the middle of the book I’ve started thinking that I am more introvert than extrovert, though always thought opposite :)&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Apr 2015 00:00:00 -0700</pubDate>
-        <link>http://bebetterleader.com/books/quiet.html</link>
-        <guid isPermaLink="true">http://bebetterleader.com/books/quiet.html</guid>
+        <link>http://localhost:4000/books/quiet.html</link>
+        <guid isPermaLink="true">http://localhost:4000/books/quiet.html</guid>
         
         
         <category>Books</category>
@@ -391,8 +468,8 @@ So what I do - is I have two branches: &lt;em&gt;master&lt;/em&gt; and &lt;em&gt
 &lt;p&gt;Although I am happy with my unemployment days, I’d rather found a job sooner to fill my 16 hours of personal time with actual work.&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Feb 2015 00:00:00 -0800</pubDate>
-        <link>http://bebetterleader.com/improvements/here-is-how-i-spend-my-weekdays-as-unemployed.html</link>
-        <guid isPermaLink="true">http://bebetterleader.com/improvements/here-is-how-i-spend-my-weekdays-as-unemployed.html</guid>
+        <link>http://localhost:4000/improvements/here-is-how-i-spend-my-weekdays-as-unemployed.html</link>
+        <guid isPermaLink="true">http://localhost:4000/improvements/here-is-how-i-spend-my-weekdays-as-unemployed.html</guid>
         
         
         <category>Improvements</category>
@@ -400,7 +477,7 @@ So what I do - is I have two branches: &lt;em&gt;master&lt;/em&gt; and &lt;em&gt
       </item>
     
       <item>
-        <title>A &#39;must-know&#39; for each dev and dev manager</title>
+        <title>A 'must-know' for each dev and dev manager</title>
         <description>&lt;p&gt;If you are a developer and seeking to become better - learn and constantly refresh your knowledge of basic data structures and algorithms.&lt;/p&gt;
 
 &lt;p&gt;A good motivational quote by Linus Torvalds (creator of Linux) why to learn basics:&lt;/p&gt;
@@ -435,8 +512,8 @@ There is a great opportunity to take a free online class on this topic at Course
 &lt;p&gt;&lt;em&gt;P.S.: What do you think? What would you add to this list?&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Jan 2015 00:00:00 -0800</pubDate>
-        <link>http://bebetterleader.com/coding/a-must-know-for-each-dev-and-dev-manager.html</link>
-        <guid isPermaLink="true">http://bebetterleader.com/coding/a-must-know-for-each-dev-and-dev-manager.html</guid>
+        <link>http://localhost:4000/coding/a-must-know-for-each-dev-and-dev-manager.html</link>
+        <guid isPermaLink="true">http://localhost:4000/coding/a-must-know-for-each-dev-and-dev-manager.html</guid>
         
         
         <category>Coding</category>
@@ -492,40 +569,11 @@ There is a great opportunity to take a free online class on this topic at Course
 &lt;p&gt;Thrilled and excited I’m looking forward for 2015 and all the challenges and opportunities it’ll bring.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Jan 2015 00:00:00 -0800</pubDate>
-        <link>http://bebetterleader.com/know-how/late-retro-of-2014.html</link>
-        <guid isPermaLink="true">http://bebetterleader.com/know-how/late-retro-of-2014.html</guid>
+        <link>http://localhost:4000/know-how/late-retro-of-2014.html</link>
+        <guid isPermaLink="true">http://localhost:4000/know-how/late-retro-of-2014.html</guid>
         
         
         <category>Know-how</category>
-        
-      </item>
-    
-      <item>
-        <title>Everyone needs a mentor</title>
-        <description>&lt;p&gt;I think everyone wants to improve at what he does. Mentoring helps here.&lt;/p&gt;
-
-&lt;dl&gt;
-&lt;div class=&quot;getty embed image left&quot; style=&quot;background-color:#fff;display:inline-block;font-family:&#39;Helvetica Neue&#39;,Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:507px;&quot;&gt;&lt;div style=&quot;overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;&quot;&gt;&lt;iframe src=&quot;//embed.gettyimages.com/embed/466843081?et=X8SylcMUQu9heFO9H3o4-g&amp;amp;viewMoreLink=on&amp;amp;sig=dayem-Oys5xWmz18W5EtP2oJYyngvMLs5ibL8K8pZzE=&quot; width=&quot;507&quot; height=&quot;338&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;padding:0;margin:0 0 0 10px;text-align:left;&quot;&gt;&lt;a href=&quot;http://www.gettyimages.com/detail/466843081&quot; target=&quot;_blank&quot; style=&quot;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&quot;&gt;View image&lt;/a&gt; | &lt;a href=&quot;http://www.gettyimages.com&quot; target=&quot;_blank&quot; style=&quot;color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;&quot;&gt;gettyimages.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;I recently have heard a presentation about a couple of main principles of Toyota manufacturing processes that is believed helped the company to succeed. Mentoring process is one of them.&lt;/p&gt;
-
-&lt;p&gt;It helps every employee to improve his own production process and achieve desirable “target condition”.&lt;/p&gt;
-
-&lt;p&gt;I am lucky that everything around me happens in the very best way even when I have no conscious plan for it. Same with mentoring. My mentor found me. Which I am very grateful for. If you are not so very lucky, I suggest to find your mentor yourself. I think it should be more senior (in term of experience) professional than you and you both need to know that mentoring is happening between you.&lt;/p&gt;
-
-&lt;p&gt;In my case, my mentor was very organized and prepared. We had a mentoring session once per quarter. My mentor had some questions for each session and was taking notes. Every time he started with reminding me what we were talking last time, what I was happy about,  what concerns did I have, then followed by looking into how my situation changed after last time. What I have tried, I have achieved, what doubts do I have, etc.&lt;/p&gt;
-
-&lt;p&gt;Though first sessions were weird a bit for me, but later I found it very useful for my development. Sometimes you need to say it loudly in order to get it yourself.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Thanks Mats! :)&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 16 Dec 2014 00:00:00 -0800</pubDate>
-        <link>http://bebetterleader.com/improvements/everyone-needs-a-mentor.html</link>
-        <guid isPermaLink="true">http://bebetterleader.com/improvements/everyone-needs-a-mentor.html</guid>
-        
-        
-        <category>Improvements</category>
         
       </item>
     
